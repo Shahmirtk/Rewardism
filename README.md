@@ -1,7 +1,7 @@
 # ParaBellum
 <Non-fiction, Economics, Politics, Education>
 
-Book I - Rewardism
+Volume I - Rewardism
 ----
   1. Significance
   2. Communism
@@ -9,7 +9,7 @@ Book I - Rewardism
   4. Rewardism
   5. Deployment
 
-Book II - Meritocracy
+Volume II - Meritocracy
 ----
-Book III - Enlightenment
+Volume III - Enlightenment
 ----
