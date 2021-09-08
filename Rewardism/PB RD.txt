@@ -6,15 +6,15 @@ CAPITALISM:
 
 // * Most profitable line might not be most ethical or useful line; it is just the most profitable line and that's all we can say. Fulfilling people's demands is not necessarily a good thing, their demands can be destructive in nature. Therefore, the seller is attracted to increase his wealth in a way which might prove harmful to the world. 
 
-// “The interest of [businessmen] is always in some respects different from, and even opposite to, that of the public ... The proposal of any new law or regulation of commerce which comes from this order ... ought never to be adopted, till after having been long and carefully examined ... with the most suspicious attention. It comes from an order of men ... who have generally an interest to deceive and even oppress the public” {highlight the point that the interests are not aligned}
+ “The interest of [businessmen] is always in some respects different from, and even opposite to, that of the public ... The proposal of any new law or regulation of commerce which comes from this order ... ought never to be adopted, till after having been long and carefully examined ... with the most suspicious attention. It comes from an order of men ... who have generally an interest to deceive and even oppress the public” {highlight the point that the interests are not aligned}
 
 // The corrupting nature of wealth and power is what makes it difficult to be and remain “enlightened”. 
 
-- Capitalism makes it easy for the rich to influence governance.  
+// Capitalism makes it easy for the rich to influence governance.  
 
-- Cash can be easily transferred between people which allows people to bribe others and make officials make decisions according to their wishes. It, therefore, interferes in the decision-making process and makes it easy for the wealthy to manipulate others using the cash incentive. Cash acts as an incentive to give up on morals, principles and even basic reasoning skills, it then leads to bad decisions and thus acts as a cause for some serious bad effects for the society and the world in general. (Environment, etc.) *Give reference to how good men can do terrible things just for the sake of their family’s wellbeing. 
+// Cash can be easily transferred between people which allows people to bribe others and make officials make decisions according to their wishes. It, therefore, interferes in the decision-making process and makes it easy for the wealthy to manipulate others using the cash incentive. Cash acts as an incentive to give up on morals, principles and even basic reasoning skills, it then leads to bad decisions and thus acts as a cause for some serious bad effects for the society and the world in general. (Environment, etc.) *Give reference to how good men can do terrible things just for the sake of their family’s wellbeing. 
 
-! The argument that, without regulation, some retailers might dupe customers into buying things they do not need is a specious one. For example, it is not the widespread prevalence of alehouses that causes people to drink to excess. Rather it is the disposition to drink that gives employment to the alehouses. 
+// The argument that, without regulation, some retailers might dupe customers into buying things they do not need is a specious one. For example, it is not the widespread prevalence of alehouses that causes people to drink to excess. Rather it is the disposition to drink that gives employment to the alehouses. 
 
 ! The rich are always willing to exchange their surplus for luxuries and the poor are equally willing to supply this demand in order to get the basics that they need by way of exchange. {link this with lack of freedom and the weird things people have to do to get their basic needs fulfilled} 
 
@@ -22,7 +22,7 @@ CAPITALISM:
 
 -“Wherever there is great property there is great inequality. For one very rich man there must be at least five hundred poor, and the affluence of the few supposes the indigence of the many. The affluence of the rich excites the indignation of the poor, who are often both driven by want, and prompted by envy, to invade his possessions.”
 
- - Cash's source is pretty much untraceable, which allows people to achieve it by illegal means without getting caught, giving rise to illegal activities for the sake of accumulating wealth. 
+ // Cash's source is pretty much untraceable, which allows people to achieve it by illegal means without getting caught, giving rise to illegal activities for the sake of accumulating wealth. 
  
 ! There are a few workers who own all the stock needed for their own production activities, but this is uncommon. Usually, workers are employees of other people, who own productive assets. How the product is shared, then, is a matter of contract between workers and employers: but the employers usually have the upper hand. Since there are fewer of them, they can combine more easily to rig the labour market and keep down wages. They have greater resources with which to sit out a trade dispute. And while the law forbids combinations of workers, the collusion of employers is everywhere. 
 
@@ -38,7 +38,7 @@ CAPITALISM:
 
 ! His intuitive view is that all prices are affected, and that nothing real changes. Today we recognise that inflation does have some distorting effects because the new money enters the economy in particular places and that price rises spread out from there, with the differences causing real misallocations on the way.	 {problem with money: inflation}
 
-- Cash can be stolen and property can be acquired by blackmailing the owner.  
+// Cash can be stolen and property can be acquired by blackmailing the owner.  
 
 ! "No society can surely be flourishing and happy, of which the far greater part of the members are poor and miserable."
 
