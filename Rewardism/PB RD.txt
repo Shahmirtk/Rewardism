@@ -40,7 +40,7 @@ CAPITALISM:
 
 // "No society can surely be flourishing and happy, of which the far greater part of the members are poor and miserable."
 
-- Current system does not take in to account the base standard of living nor does it take in to account determinism. (Wealth disparity) *Give reference to the old people needing to work just for basic needs.
+// Current system does not take in to account the base standard of living nor does it take in to account determinism. (Wealth disparity) *Give reference to the old people needing to work just for basic needs.
 
 ! The rich are always willing to exchange their surplus for luxuries and the poor are equally willing to supply this demand in order to get the basics that they need by way of exchange. {link this with lack of freedom and the weird things people have to do to get their basic needs fulfilled}
 
