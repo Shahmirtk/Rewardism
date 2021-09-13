@@ -42,7 +42,7 @@ CAPITALISM:
 
 // Current system does not take in to account the base standard of living nor does it take in to account determinism. (Wealth disparity) *Give reference to the old people needing to work just for basic needs.
 
-! The rich are always willing to exchange their surplus for luxuries and the poor are equally willing to supply this demand in order to get the basics that they need by way of exchange. {link this with lack of freedom and the weird things people have to do to get their basic needs fulfilled}
+!? The rich are always willing to exchange their surplus for luxuries and the poor are equally willing to supply this demand in order to get the basics that they need by way of exchange. {link this with lack of freedom and the weird things people have to do to get their basic needs fulfilled}
 
 -? While competition certainly has its advantages, let’s not be ignorant of the consequences of hyper-competition. The main problem we are concerned with here is instability. While competition can help companies thrive, if not controlled, it can lead to poor work-life balance, bankruptcy, dissolving and illegal activities for keeping companies alive.  
 
@@ -54,7 +54,7 @@ CAPITALISM:
 
 // “The proprietor of stock is properly a citizen of the world, and is not necessarily attached to any particular country. He would be apt to abandon the country in which he was exposed to a vexatious inquisition, in order to be assessed to a burdensome tax, and would remove his stock to some other country where he could either carry on his business, or enjoy his fortune more at his ease.” 
 
-! “The man whose whole life is spent in performing a few simple operations, of which the effects too are, perhaps, always the same, or very nearly the same, has no occasion to exert his understanding, or to exercise his invention in finding out expedients for removing difficulties which never occur.” <On the problems with repititve work.>
+// “The man whose whole life is spent in performing a few simple operations, of which the effects too are, perhaps, always the same, or very nearly the same, has no occasion to exert his understanding, or to exercise his invention in finding out expedients for removing difficulties which never occur.” <On the problems with repititve work.>
 
 - “The bourgeoisie, by the rapid improvement of all instruments of production, by the immensely facilitated means of communication, draws all, even the most barbarian, nations into civilization. The cheap prices of its commodities are the heavy artillery with which it batters down all Chinese walls, with which it forces the barbarians' intensely obstinate hatred of foreigners to capitulate. It compels all nations, on pain of extinction, to adopt the bourgeois mode of production; it compels them to introduce what it calls civilization into their midst, i.e., to become bourgeois themselves. In one word, it creates a world after its own image.” {Makes people be in accordance with what they think is “civilized”, makes them do things which they wouldn’t have if not for money.}
 
