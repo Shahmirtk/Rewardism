@@ -1,5 +1,4 @@
 # ParaBellum
-<Non-fiction, Economics, Politics, Education>
 
 Volume I - Rewardism
 ----
