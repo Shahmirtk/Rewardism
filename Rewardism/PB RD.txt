@@ -2,49 +2,34 @@ Chapter 4: Rewardism
 
 * The System *
 
-1st - Give an idea of a system without transferrable cash: basic needs of everyone be fulfilled by the system and reward points be given for “extra-effort”, for being a great contributor to the society or for simply being a nice person; such non-transferable/non-tradeable points can only be given by a computer using a formula, the amount being in accordance with the importance of the work done; people should be able to request what they need (from those responsible for their area/region) and log complaints against their district heads if their needs are not being taken care of (there can be a dedicated site for complaints regarding resources); in order to buy some luxury, the user has to “burn” the necessary amount for the transaction rather than transferring it to the luxury-provider; the accounts will be linked to each user's Government-provided-ID and with biometric or some other stronger verification; each reward point's source clearly kept record of in a properly managed database so that the source of all reward points is easily traceable; although transactions will remain private for privacy concerns, however, each transaction can be traced by government officials if needed; the behavior and performance of individuals be monitored and recorded in the database and they be rewarded accordingly; the basis of provision of luxury/rewards should not just be how much reward points one has but also how they earned those points; 
+\people should be able to request what they need (from those responsible for their area/region) and log complaints against their district heads if their needs are not being taken care of (there can be a dedicated site for complaints regarding resources)\;
+\each reward point's source clearly kept record of in a properly managed database so that the source of all reward points is easily traceable\;
+\although transactions will remain private for privacy concerns, however, each transaction can be traced by government officials if needed\;
+\the basis of provision of luxury/rewards should not just be how much reward points one has but also how they earned those points\; 
 
-Pros: (Communism: -, Capitalism: !)
+* = Accounted for, more or less.
+? = Is this even relevant to Economics?
 
-- Focus on bringing about real change all the time, rather than just being caught up in theorizing.
-- Prefer simplicity over complexity; avoid "Kafkaesqueness".
-- Value human resource and focus on the development of everyone, including the poor ones.
-- Deal with class antagonism so as to deal with the risk of major disturbance and revolt.
-- Value freedom and individualism; get rid of "chains" and enable "wings".
-- Deal with the corrupting nature of property and the power it brings.
-- Help people avoid materialistic pursuits and focus on evolution in a more philosophical sense.
-- Free people from the concerns of survival and enable them to think at a "higher level".
-- Allow people to have enough free time to think, experiment and bring advancement.
-- Promote automation and advancement of technology; for this, it should ensure people are not dependent on any job.
-- Promote people to gain the "luminous summits" of science and philosophy in general.
-- Bring about a purity of will.
+Pros: (Communism: -, Capitalism: !) 
 
-! Capitalism being practical: it works because it relies on our self-interest rather than our benevolence and because the market is naturally self-regulating.
+- Help people avoid materialistic pursuits and focus on evolution in a more philosophical sense. ?
+- Allow people to have enough free time to think, experiment and bring advancement. ?
+- Bring about a purity of will. ?
+
 ! Wastage of resources being punished: those who best utilize resources to meet the highest demand are the ones who benefit the most, others fail to compete with them.
 ! Competition and liberty being promoted: consumers benefit from higher quality and lower prices when competition and liberty is higher; this pushes us to think more open-mindedly and become more competent, evolving us in the process.
-! Advancement of science and technology being promoted: companies equipped with better technology can get tasks done more efficiently which gives them a competitive edge over others.
-! Better user experience being promoted: customer satisfaction becomes a matter of life and death for companies in a competitive environment, which allows customers to voice their concerns and get the best possible treatment.
-! Law and order being promoted: without the aid of the Civil Magistrate, owners of property run the risk of losing their property. A safe and secure environment is best for traders to trade without fear of injustices.
-! Rewarding being promoted and slavery being opposed: employees normally do their best to earn rewards such as bonuses, promotions, etc. Rewarding appropriately encourages better performance and confidence which means higher efficiency.
 ! Globalization and diversity in mastery being promoted: countries who benefit from cheaper products and specializations of other countries can focus on their own specializations and cut unnecessary costs. Resources are better managed this way as countries avoid reinventing the wheel.
 
 Cons:
 
 - A violent shift from the old ways to the new ones: consent of the affected parties should be taken to get their support.
 - Opposition from those in power: accounting for the self-interest of those in power will make a system more likely to be established, simply because they will support it.
-- Emotional and illogical thinking: remaining objective means, we value a proper system more than our personal preferences.
-- Losing the benefits of the old system: benefits such as motivation and respect given by property, enhanced productivity by specialization, etc., should be accounted for.
-- Giving anyone unfettered power: to avoid the unreasonable exploitation of resources, including human resource, by any being, the new system must balance power distribution. However, I realize that this is more a matter of politics than economics.
+- Emotional and illogical thinking: objective and logical thinking will help us establish a better system through avoiding falsehoods and unnecessary exaggerations.
+- Giving anyone unfettered power: to avoid the unreasonable exploitation of resources, including human resource, by any being, the new system must balance power distribution. However, I realize that this is more a matter of politics than economics. ?
 
 ! Profitability not being equivalent to usefulness: the pursuit of wealth can be damaging to the environment or people affected by the business.
-! Enlightenment being difficult to achieve and maintain: many factors such as demands, undue influence, dependence, etc., make it almost impossible to become and remain enlightened.
-! Money being transferrable: transferrability of money causes problems like bribe, blackmail, theft, hidden source, transfer of diseases, etc. Key decision-makers being influenced by the "ruling class" is a threat to objective decision-making.
+! Enlightenment being difficult to achieve and maintain: many factors such as demands, undue influence, dependence, etc., make it almost impossible to become and remain enlightened. ?
 ! The interests of investors, public officials and the general public being misaligned: one wants lower taxes but the other's wages depend on those taxes, one wants lower wages but the others depend on those wages.
-! The system being very complex: "kafkaesqueness" can lead to problems such as poor understanding of the system, rules being broken and advancement being slowed down. If it invites fraud, it is flawed.
-! Rarest luxuries not necessarily being available to the most deserving: rarest of luxuries are only given to those who can afford them; in other words, the source of money is irrelevant as long as the bid is the highest.
-! Base standard of living not being set: living beings are suffering because of lack of access to the basic necessities of life. Potential is being wasted. Thinking is limited to survival.
-! True freedom not being achieved: dependence on useless or boring jobs and needing to satisfy employers or customers really restrains people.
-! Automation being delayed: dependence on jobs that can be automated is delaying advancement of AI and making it a grey area. Each automated job is making the system less stable.
 
 Points to consider when writing:
 - “What can be added to the happiness of a man who is in health, out of debt, and has a clear conscience?”
@@ -70,4 +55,6 @@ Points to consider when writing:
 ! "A man grows rich by employing a multitude of manufacturers: he grows poor by maintaining a multitude of menial servants." {on the significance of doing your work yourself}
 
 Answers to possible Questions:
-! Suppose there's a substance X, which is without doubt harmful, and there is a high demand for this substance for hedonistic reasons; obviously, investors will be attracted to meet this demand to increase their wealth. Under Rewardism, if the company gets high rating from consumers and helps burn a significant amount of RP, then wouldn't they benefit from others' demise just like in the older system? Well, yes and no. They will benefit but the rewarding factor for such a substance would be lower than other more useful substances. This would deter people from investing time and effort for providing a harmful product. We value non-interference so we cannot ban the production of such a substance as long as it is consensual and does not harm the environment. People will still have the freedom to produce and consume what they like but the government will help deter the consumption of harmful products and services.
+Q: Suppose there's a substance X, which is without doubt harmful, and there is a high demand for this substance for hedonistic reasons; obviously, investors will be attracted to meet this demand to increase their wealth. Under Rewardism, if the company gets high rating from consumers and helps burn a significant amount of RP, then wouldn't they benefit from others' demise just like in the older system? 
+A: Well, yes and no. They will benefit but the rewarding factor for such a substance would be lower than other more useful substances. This would deter people from investing time and effort for providing a harmful product. We value non-interference so we cannot ban the production of such a substance as long as it is consensual and does not harm the environment. People will still have the freedom to produce and consume what they like but the government will help deter the consumption of harmful products and services.
+
