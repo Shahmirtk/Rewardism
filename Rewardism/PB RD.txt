@@ -5,7 +5,7 @@ Chapter 4: Rewardism
 \people should be able to request what they need (from those responsible for their area/region) and log complaints against their district heads if their needs are not being taken care of (there can be a dedicated site for complaints regarding resources)\;
 \each reward point's source clearly kept record of in a properly managed database so that the source of all reward points is easily traceable\;
 \although transactions will remain private for privacy concerns, however, each transaction can be traced by government officials if needed\;
-\the basis of provision of luxury/rewards should not just be how much reward points one has but also how they earned those points\; 
+\the basis of provision of luxury/rewards should not just be how much reward points one has but also how they earned those points\;
 
 * = Accounted for, more or less.
 ? = Is this even relevant to Economics?
@@ -18,7 +18,6 @@ Pros: (Communism: -, Capitalism: !)
 
 ! Wastage of resources being punished: those who best utilize resources to meet the highest demand are the ones who benefit the most, others fail to compete with them.
 ! Competition and liberty being promoted: consumers benefit from higher quality and lower prices when competition and liberty is higher; this pushes us to think more open-mindedly and become more competent, evolving us in the process.
-! Globalization and diversity in mastery being promoted: countries who benefit from cheaper products and specializations of other countries can focus on their own specializations and cut unnecessary costs. Resources are better managed this way as countries avoid reinventing the wheel.
 
 Cons:
 
@@ -29,7 +28,6 @@ Cons:
 
 ! Profitability not being equivalent to usefulness: the pursuit of wealth can be damaging to the environment or people affected by the business.
 ! Enlightenment being difficult to achieve and maintain: many factors such as demands, undue influence, dependence, etc., make it almost impossible to become and remain enlightened. ?
-! The interests of investors, public officials and the general public being misaligned: one wants lower taxes but the other's wages depend on those taxes, one wants lower wages but the others depend on those wages.
 
 Points to consider when writing:
 - “What can be added to the happiness of a man who is in health, out of debt, and has a clear conscience?”
