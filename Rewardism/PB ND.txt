@@ -64,7 +64,19 @@ Employer:
 
 "There's also the demand that has to be researched. If people are not really interested in burning their RPs for the product or service offered, then there is really no point in continuing. Normally, this is not a point of concern for those with a great idea. However, marketing can become another challenge to be overcome," she adds. "So, identify a problem, come up with a practical solution, come up with a team of capable individuals and market your idea. Correct?" "Quite so."
 
-You come up with a business plan, accounting for the tips given by your mother, which gets reviewed by several people, not including your mother. Your company gets registered. The funds are transferred to the company's account, and you and the CFO are given access to it. To make transactions easier, you both get a "Budget Points" Card each. The points given in the first year of a decade are normally more than the points given in other years to allow investment in assets.
+You come up with a business plan, accounting for the tips given by your mother, which gets reviewed by several people, not including your mother. Your company gets registered. The funds are transferred to the company's account, and you and the CFO are given access to it. To make transactions easier, you both get a "Budget Points" Card each. The points given in the first year of some years are normally more than the points given in other years to allow investment in assets.
+
+All transactions, reviews, employees, remaining budget and all relevant details are found in "The App." Accounting is done automatically for each and every transaction. So, those in the finance department do not have to worry about data entry; instead, they focus on frugality. Nobody has to worry about payroll. The HR department focuses on the well-being, productivity and legal matters of employees. The amount of RPs earned by a company are automatically calculated on the basis of:
+
+- the level of activity (amount of RPs or NPs burned or number of IDCs scans)
+- whether BPs burned are less than the level of activity
+- reviews given by customers, employees and suppliers
+- rewarding factor for the industry the company is in (according to the significance of the industry)
+- rate of meeting relevant standards
+
+You do not have to worry about profits as long as the level of activity covers the BPs allotted. To verify whether the expenses are not more than the "revenue" (the level of activity), the relevant principles of accounting are used. For instance, instead of the whole cost of asset purchased, just the depreciation expense is used for performance evaluation purposes. If BPs burned are more than the revenue, then this is seen as an inability to meet costs, which affects RPs earned.
+
+The RPs earned by a company in an accounting period are automatically transferred to the shareholders. Owning 75% of the shares, you get 75% of the RPs. The employees owning the rest of the 25% get their RPs accordingly. "So this is how dividends work," you think.
 
 
 
