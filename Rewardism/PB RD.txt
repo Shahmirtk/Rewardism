@@ -2,17 +2,26 @@ Chapter 4: Rewardism
 
 * The System *
 
-! <Public Officials> people should be able to request what they need (from those responsible for their area/region) and log complaints against their district heads if their needs are not being taken care of (there can be a dedicated site for complaints regarding resources)\;
-! <Public Officals> “The endowments of schools and colleges have necessarily diminished more or less the necessity of application in the teachers Their subsistence [is] altogether independent of their success and reputation in their particular professions” {on the significance of performance-based rewards} 
-! <Public Officals>  “... and it has, I am afraid, been too common for vessels to fit out for the sole purpose of catching, not the fish, but the bounty.” <this is particularly relevant to setting the reward appropriately>
-! <Employment Income> {link these points to the basis on which people should be rewarded} The non-pecuniary costs and benefits of different industries: 
-  ->	Some professions may be easier, cleaner, or more respectable than others.
-  ->	Some professions are difficult or expensive to learn. 
-  ->	Some trades are seasonal. 
-  ->	Earnings are higher in trades that require a large degree of trust (doctors, lawyers, etc.). 
-  ->	Earnings reflect the probability of success in any profession (rarity and beauty of talents in professions like acting, singing, etc.).  
-! <Deployment> People respect authority, strength, wisdom, prudence, maturity, age and wealth. {basis for respectable position holders' selection} 
-! <Deployment> Consent of the affected parties should be taken to get their support.
+!! Explanation:
+
+! - Explain the responsibilities: 
+  *Gathering data about the various resources available around the world, and by taking into account the rate of usage of the resources, predicting the resources available in the near future.
+  *Identifying the different needs of the whole society, and then ranking them according to their significance (importance and urgency).
+  *Figuring out the best possible ways of utilizing resources by ranking the different ways of utilization according to their pros and cons.
+  *Utilizing the resources according to the findings, guidance from the RS and standard procedures to benefit the maximum number of people possible in the best way possible. 
+  *Reporting findings, performance (resources utilized (5 Ws and 1 H) and their opportunity cost), key-decisions, and reasoning (behind decisions taken or to be taken) to the reasoning system to ensure that the Economic System is working in the best interest of the whole society.
+  *Leaders of the Reasoning System will oversee the performance of the RM Experts and will give them feedback accordingly. (State that the goal is to take care of needs of every being on the planet, and to go even further and provide luxury items/services where possible, in the smoothest way possible; even more importantly to ensure that every resource is best utilized (talent, raw materials etc.) and the scarce ones are preserved until the best use(s) is/are available, i.e. wastage is avoided/mitigated) 
+
+! - Explain the control procedures: 
+  *Who can run this system (RM Experts)? How will they be selected (Competitive Exams)? What responsibility will each individual on each level have (according to department and level/expertise will handle tasks) and who will look over the one with the highest authority (RS will look over the one with the highest authority and pretty much the whole system)? 
+  *Importance of documentation and transparency should be explained (lower risk of fraud, more trust developed), then explain what control procedures can be implemented. (Stamps, signing, reviewing, unannounced investigation, etc.) Give reference to guidance from RS, and explain control procedures which ensure that the guidance/standard is followed (independent audits by RS, assistance of P-M System to ensure safety, encouraging anonymous whistle-blowing). 
+  *CPD of the Resources Managers to ensure their knowledge and skills are in accordance with development and advancement in technology and other aspects of the society. 
+  *Taking feedback from people whether their needs are being fulfilled or not, and what improvements would they like to see.
+  *Ensuring that the rights of people are not violated (for example, people should not be forced to do a job or relocate to some other place generally speaking, but they can be requested) (by asking people if they were forced to do something, by reviewing documents about consent etc.) 
+  *Setting a strict but loving working environment for the RM Managers to ensure that they do not misuse their power. In the surprise investigations, they should be asked about why such and such account was given such and such amount of reward points, if they are unable to provide a reasonable explanation, they should be dealt with accordingly. 
+  *Regularly conducting performance appraisals and taking actions accordingly. (Actions can be rewarding reward points, demoting, providing training, or even removing from job if needed.) 
+  *Giving a quarterly report to the public about the performance of the RM System, so that the public can decide whether the resources are being properly managed or not and therefore, taking in to consideration whatever the feedback is from the public. 
+  *As a control measure, no individual, no matter what the individuals’ rank/power is, should be able to add reward points to their own account. Someone from some other part of the world, after looking at the reasons, should be able to add the points. This should only be allowed when the party adding the points is not connected to the party receiving the points, in order to deal with familiarity threats and other possible threats to professionalism.
 
 # := Relevant to supporting/defending rather than explaining.
 
@@ -38,7 +47,23 @@ Directing:
 Erasing debt:
 # So capital is being transferred from people who have a keen interest in using it productively to those, mere creditors, who have no interest in the condition of land or the good management of the capital stock at all.
 
+***
+
 Answers to possible Questions:
 Q: Suppose there's a substance X, which is without doubt harmful, and there is a high demand for this substance for hedonistic reasons; obviously, investors will be attracted to meet this demand to increase their wealth. Under Rewardism, if the company gets high rating from consumers and helps burn a significant amount of RP, then wouldn't they benefit from others' demise just like in the older system? 
 A: Well, yes and no. They will benefit but the rewarding factor for such a substance would be lower than other more useful substances. This would deter people from investing time and effort for providing a harmful product. We value non-interference so we cannot ban the production of such a substance as long as it is consensual and does not harm the environment. People will still have the freedom to produce and consume what they like but the government will help deter the consumption of harmful products and services.
 
+***
+
+! <Public Officals> “The endowments of schools and colleges have necessarily diminished more or less the necessity of application in the teachers Their subsistence [is] altogether independent of their success and reputation in their particular professions” {on the significance of performance-based rewards} 
+! <Public Officals>  “... and it has, I am afraid, been too common for vessels to fit out for the sole purpose of catching, not the fish, but the bounty.” <this is particularly relevant to setting the reward appropriately>
+! <Employment Income> {link these points to the basis on which people should be rewarded} The non-pecuniary costs and benefits of different industries: 
+  ->	Some professions may be easier, cleaner, or more respectable than others.
+  ->	Some professions are difficult or expensive to learn. 
+  ->	Some trades are seasonal. 
+  ->	Earnings are higher in trades that require a large degree of trust (doctors, lawyers, etc.). 
+  ->	Earnings reflect the probability of success in any profession (rarity and beauty of talents in professions like acting, singing, etc.).  
+! <Deployment> People respect authority, strength, wisdom, prudence, maturity, age and wealth. {basis for respectable position holders' selection} 
+! <Deployment> Consent of the affected parties should be taken to get their support.
+
+***
