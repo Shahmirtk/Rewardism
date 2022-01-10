@@ -1,6 +1,11 @@
-Why Rewardism?
+Rewardism, like other man-made systems, is not necessarily free of flaws. There might be some factors that I have failed to account for. There are risks associated with this system. By risks I mean the possibilities of undesirable outcomes once the system has been deployed. To achieve the optimal results, we have to mitigate these risks. The following approach seems reasonable: first, highlight a risk and explain why it is a point of concern; then, suggest control procedures to mitigate the risk. Proactively dealing with the risks is likely to make the implementation phase smoother.
 
-Purpose of economic system:
-# The total wealth/resources of the world are finite and no man can increase that really. The task of the economist is then to utilize and spread these resources and this wealth in the best possible way.
-# "Consumption is the sole end and purpose of all production; and the interest of the producer ought to be attended to, only so far as it may be necessary for promoting that of the consumer." {on the significance of giving preference to consumers over producers}
+If you recall the purpose of an economic system, which is explained in the introduction, an ideal economic system should utilize all the available resources in the most optimal way. The biggest, and really the only one, risk is the unoptimal utilization of resources. However, this is a very vague and broad challenge to overcome. It makes sense then, to break it down into smaller, more specific, problems to solve. Lack of reliable information, lack of automation, incompetence, unethical decision-making and conflict of interest are the main points of concern.
+
+Risk 1: Lack of reliable information
+  Without information, all the managers are essentially blind.
+
+Control Procedures: 
+
+
 
