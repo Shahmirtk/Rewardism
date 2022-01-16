@@ -1,11 +1,22 @@
-Rewardism, like other man-made systems, is not necessarily free of flaws. There might be some factors that I have failed to account for. There are risks associated with this system. By risks I mean the possibilities of undesirable outcomes once the system has been deployed. To achieve the optimal results, we have to mitigate these risks. The following approach seems reasonable: first, highlight a risk and explain why it is a point of concern; then, suggest control procedures to mitigate the risk. Proactively dealing with the risks is likely to make the implementation phase smoother.
+Rewardism, like other man-made systems, has some risks associated with it because of our inability to completely predict the future and all its problems. By risks I mean the threats to the optimal functioning of the system. Proactively dealing with the risks is likely to make the implementation phase smoother. The following approach seems reasonable: first, highlight a risk and explain why it is a point of concern; then, suggest control procedures to mitigate the risk. These steps should be taken after the deployment of the system as well, to help mitigate newer risks as they emerge.
 
-If you recall the purpose of an economic system, which is explained in the introduction, an ideal economic system should utilize all the available resources in the most optimal way. The biggest, and really the only one, risk is the unoptimal utilization of resources. However, this is a very vague and broad challenge to overcome. It makes sense then, to break it down into smaller, more specific, problems to solve. Lack of reliable information, lack of automation, incompetence, unethical decision-making and conflict of interest are the main points of concern.
+Risk I: Human Risk
+For a system to function optimally, all of its parts have to work optimally. If the system is not completely automated, perhaps because it is impossible for it to be automated, then part of it is the human element. Now, no matter how flawless the rest of the system is, if the human element fails, then the whole system fails. However, the right humans can even modify and make a flawed system work. So, if we let the best humans make the best system work, would it be anything less than perfect? What can make the human element of the system fail?
 
-Risk 1: Lack of reliable information
-  Without information, all the managers are essentially blind.
+A) Incompetence
+No matter how concerned or ethical managers are, what good are they if they are incompetent? What good are ideas if they are not communicated? What good is a leader who cannot lead? What good are planners that cannot implement their plans, and what good is all their planning? What good is all my writing if no one is competent enough to understand, criticize and implement it to its full extent?
 
-Control Procedures: 
+B) Indifference
+Even if we found the most competent people to make the system work, what if they did not care? I do not necessarily mean people who are driven purely by self-interest, because they can still prove useful if you align their interests with the interests of others. The risk I am highlighting here is that of an unethical approach to solving problems. People who are not concerned about sustainability or the well-being of others are unlikely to take such factors into account when making a decision.
+
+Control Procedures
+
+To deal with the Human Risk, we have to:
+- Educate
+- Train
+- Test
+- Hire
+- Reward
 
 
 
