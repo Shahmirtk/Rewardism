@@ -1,22 +1,39 @@
-Rewardism, like other man-made systems, has some risks associated with it because of our inability to completely predict the future and all its problems. By risks I mean the threats to the optimal functioning of the system. Proactively dealing with the risks is likely to make the implementation phase smoother. The following approach seems reasonable: first, highlight a risk and explain why it is a point of concern; then, suggest control procedures to mitigate the risk. These steps should be taken after the deployment of the system as well, to help mitigate newer risks as they emerge.
+Automation
+To automate is to reduce human involvement. To reduce human involvment is to make the human element a smaller part of the pie. A truly automated system is impossible because such a system does not exist for us yet and for it to exist, we humans have to develop and start it. Although, once the system is ready, at least in theory, there can be a system that decides the worth of things, the best possible use of them and also puts resource to use accordingly; so, the humans are just left to enjoy the fruits of the automated system. For now, I would like to focus on what can be practically automated.
 
-Risk I: Human Risk
-For a system to function optimally, all of its parts have to work optimally. If the system is not completely automated, perhaps because it is impossible for it to be automated, then part of it is the human element. Now, no matter how flawless the rest of the system is, if the human element fails, then the whole system fails. However, the right humans can even modify and make a flawed system work. So, if we let the best humans make the best system work, would it be anything less than perfect? What can make the human element of the system fail?
 
-A) Incompetence
-No matter how concerned or ethical managers are, what good are they if they are incompetent? What good are ideas if they are not communicated? What good is a leader who cannot lead? What good are planners that cannot implement their plans, and what good is all their planning? What good is all my writing if no one is competent enough to understand, criticize and implement it to its full extent?
 
-B) Indifference
-Even if we found the most competent people to make the system work, what if they did not care? I do not necessarily mean people who are driven purely by self-interest, because they can still prove useful if you align their interests with the interests of others. The risk I am highlighting here is that of an unethical approach to solving problems. People who are not concerned about sustainability or the well-being of others are unlikely to take such factors into account when making a decision.
+Risk II: Compatability Risk
+Even if we had the best humans who were very concerned about the functioning of the economic system, what good can they do if they do not have the authority to act? What if the government in place does not allow them to act the way they intend to?
 
-Control Procedures
 
-To deal with the Human Risk, we have to:
-- Educate
-- Train
-- Test
-- Hire
-- Reward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
