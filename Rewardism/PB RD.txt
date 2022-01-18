@@ -2,6 +2,20 @@ Chapter 4: Rewardism
 
 * The System *
 
+~~~
+!Responsibilities of World Resources Management Organization (WRMO)
+
+!Automation
+
+#Elaborate Automated Accounting and Reporting
+
+
+#Elaborate Automated Rewarding
+
+
+#Elaborate Role of Humans in Context of Controlled Automation
+~~~
+
 !! Explanation:
 
 ! - Explain the responsibilities: 
@@ -12,16 +26,14 @@ Chapter 4: Rewardism
   *Reporting findings, performance (resources utilized (5 Ws and 1 H) and their opportunity cost), key-decisions, and reasoning (behind decisions taken or to be taken) to the reasoning system to ensure that the Economic System is working in the best interest of the whole society.
   *Leaders of the Reasoning System will oversee the performance of the RM Experts and will give them feedback accordingly. (State that the goal is to take care of needs of every being on the planet, and to go even further and provide luxury items/services where possible, in the smoothest way possible; even more importantly to ensure that every resource is best utilized (talent, raw materials etc.) and the scarce ones are preserved until the best use(s) is/are available, i.e. wastage is avoided/mitigated) 
 
+@ (Marked Completed) | ! (To be incorporated)
+
 ! - Explain the control procedures: 
-  *Who can run this system (RM Experts)? How will they be selected (Competitive Exams)? What responsibility will each individual on each level have (according to department and level/expertise will handle tasks) and who will look over the one with the highest authority (RS will look over the one with the highest authority and pretty much the whole system)? 
-  *Importance of documentation and transparency should be explained (lower risk of fraud, more trust developed), then explain what control procedures can be implemented. (Stamps, signing, reviewing, unannounced investigation, etc.) Give reference to guidance from RS, and explain control procedures which ensure that the guidance/standard is followed (independent audits by RS, assistance of P-M System to ensure safety, encouraging anonymous whistle-blowing). 
-  *CPD of the Resources Managers to ensure their knowledge and skills are in accordance with development and advancement in technology and other aspects of the society. 
-  *Taking feedback from people whether their needs are being fulfilled or not, and what improvements would they like to see.
-  *Ensuring that the rights of people are not violated (for example, people should not be forced to do a job or relocate to some other place generally speaking, but they can be requested) (by asking people if they were forced to do something, by reviewing documents about consent etc.) 
-  *Setting a strict but loving working environment for the RM Managers to ensure that they do not misuse their power. In the surprise investigations, they should be asked about why such and such account was given such and such amount of reward points, if they are unable to provide a reasonable explanation, they should be dealt with accordingly. 
-  *Regularly conducting performance appraisals and taking actions accordingly. (Actions can be rewarding reward points, demoting, providing training, or even removing from job if needed.) 
-  *Giving a quarterly report to the public about the performance of the RM System, so that the public can decide whether the resources are being properly managed or not and therefore, taking in to consideration whatever the feedback is from the public. 
-  *As a control measure, no individual, no matter what the individuals’ rank/power is, should be able to add reward points to their own account. Someone from some other part of the world, after looking at the reasons, should be able to add the points. This should only be allowed when the party adding the points is not connected to the party receiving the points, in order to deal with familiarity threats and other possible threats to professionalism.
+  *!Taking feedback from people whether their needs are being fulfilled or not, and what improvements would they like to see. Ensuring that the rights of people are not violated (for example, people should not be forced to do a job or relocate to some other place generally speaking, but they can be requested) (by asking people if they were forced to do something, by reviewing documents about consent etc.)
+  *!Giving a quarterly report to the public about the performance of "The Organization" in terms of running Rewardism, so that the public can decide whether the resources are being properly managed or not. The feedback from the public and the governing authorities should be accounte for.
+  *@Who can run this system (RM Experts)? How will they be selected (Competitive Exams)? What responsibility will each individual on each level have (according to department and level/expertise will handle tasks) and who will look over the one with the highest authority (RS will look over the one with the highest authority and pretty much the whole system)? 
+  *@Importance of documentation and transparency should be explained (lower risk of fraud, more trust developed), then explain what control procedures can be implemented. (Stamps, signing, reviewing, unannounced investigation, etc.) Give reference to guidance from RS, and explain control procedures which ensure that the guidance/standard is followed (independent audits by RS, assistance of P-M System to ensure safety, encouraging anonymous whistle-blowing). 
+  *@CPD of the Resources Managers to ensure their knowledge and skills are in accordance with development and advancement in technology and other aspects of the society.
 
 # := Relevant to supporting/defending rather than explaining.
 
