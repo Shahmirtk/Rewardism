@@ -1,4 +1,20 @@
+Q. To have a negative balance is to be under debt, so will it not be possible under Rewardism?
+A. I am not really an expert at cybersecurity or programming but it seems rather obvious that a system without the possibility of having a negative balance will be more secure than a system with that possibility. I say so because without the possibility of a negative balance, it would be simply impossible to do any transaction without the Points to support it; this will not necessarily be the case if a negative balance is possible. Without the possibility of a negative balance, there will be no need to keep a record of creditors. So, accounting and auditing would be relatively simple that way.
+  It also does not make much sense that someone should have less than zero "Reward" Points. The whole point of rewarding is to compensate people for their efforts and motivate them; how is a negative balance relevant then? Not allowing negative BPs balance can also help control the damage caused by uneconomical companies, as the damage is limited to the BPs alloted to them. As NPs can only be spent on necessities and they should normally be enough for getting the necessities of life, then, why should we allow a negative balance?
 
+Q. Buying on installments is like taking a loan, so will it not be possible under Rewardism?
+A. Suppose there's a surgeon who earns a considerable amount of RPs every month. Now, this surgeon can save up points over the course of 3 years and buy his dream car. Alternatively, if we enable buying on installments, this surgeon can buy the car now and pay the installments over the next 3 years. What is the difference?
+
+Q. Why manually set rewarding formulas and factors when there is already the law of supply and demand?
+A. 
+
+Q. Will a Rewardist country be able to utilize the resources of another Rewardist country? In other words, will all Rewardist countries be considered as a whole for the purpose of managment of resources?
+A.
+
+Q. What if the elite let decision makers use their property, instead of selling or transferring it to them, as a means to bribe them?
+A.
+
+Q. What if the personal beliefs of a RM do not allow her to fund or support a company of a specific nature of business?
 
 
 
