@@ -1,12 +1,14 @@
 Q. To have a negative balance is to be under debt, so will it not be possible under Rewardism?
 A. I am not really an expert at cybersecurity or programming but it seems rather obvious that a system without the possibility of having a negative balance will be more secure than a system with that possibility. I say so because without the possibility of a negative balance, it would be simply impossible to do any transaction without the Points to support it; this will not necessarily be the case if a negative balance is possible. Without the possibility of a negative balance, there will be no need to keep a record of creditors. So, accounting and auditing would be relatively simple that way.
-  It also does not make much sense that someone should have less than zero "Reward" Points. The whole point of rewarding is to compensate people for their efforts and motivate them; how is a negative balance relevant then? Not allowing negative BPs balance can also help control the damage caused by uneconomical companies, as the damage is limited to the BPs alloted to them. As NPs can only be spent on necessities and they should normally be enough for getting the necessities of life, then, why should we allow a negative balance?
+  It also does not make much sense that someone should have less than zero "Reward" Points. The whole point of rewarding is to compensate people for their efforts and motivate them; how is a negative balance relevant then? Not allowing negative BPs balance can also help control the damage caused by uneconomical companies, as the damage is limited to the BPs alloted to them. As NPs can only be spent on necessities and they should normally be enough for getting the necessities of life, why should we allow a negative balance then?
 
-Q. Buying on installments is like taking a loan, so will it not be possible under Rewardism?
-A. Suppose there's a surgeon who earns a considerable amount of RPs every month. Now, this surgeon can save up points over the course of 3 years and buy his dream car. Alternatively, if we enable buying on installments, this surgeon can buy the car now and pay the installments over the next 3 years. What is the difference?
+Q. Hire purchase (HP) is like taking a loan, so will it not be possible under Rewardism?
+A. It is quite common to pay only for the nights stayed in at a luxurious hotel room, instead of buying the whole hotel or even just the room. Similarly, only the ticket price is paid for travelling, which is essentially the rent or fare of using the asset. Likewise, people can just pay the rent of having the luxuries of life which would otherwise be unaffordable to own or would take years to save up for. In other words, people can take assets on lease. I understand there are many kinds of leases; for now, operating lease should be enough to highlight the significance of paying for only the use of an asset, as compared to owning it.
+  We can think of a HP payments as a total of the rent for using the asset and contribution towards the cost of the asset. What I want to bring your attention to is the fact that one does not really own the asset until the final payment is made. The asset is simply possesed by the hirer. Without the facility of HP and lease, people and companies on a strict budget would have to delay or forego the use of expensive assets. No RPs or BPs are given as a loan; they are earned the usual way. Furthermore, with advanced recording of transactions under Rewardism, credit ratings are likely to be more accurate. With HP option enabled and all other factors kept constant, the level of economic activity will obviously be higher. For these reasons, I believe HP option should be enabled.
 
 Q. Why manually set rewarding formulas and factors when there is already the law of supply and demand?
-A. 
+A. "The sovereign is completely discharged from a duty [for which] no human wisdom or knowledge could ever be sufficient; the duty of superintending the industry of private people, and of directing it towards the employments most suitable to the interest of the society."
+  Even though Adam Smith had the idea that no one can really direct the industry of private people "towards employments most suitable to the interest of the society," by the use of these formulas and factors, I believe we can steer the public into "employments most suitable to the interest of the society." All the economists have to do is to increase the rewarding factor for industries and professions where they want the talent to be utilized. Futhermore, this will likely safeguard people against extremely low rewards in case supply is much more than the demand.
 
 Q. Will a Rewardist country be able to utilize the resources of another Rewardist country? In other words, will all Rewardist countries be considered as a whole for the purpose of managment of resources?
 A.
@@ -15,7 +17,7 @@ Q. What if the elite let decision makers use their property, instead of selling 
 A.
 
 Q. What if the personal beliefs of a RM do not allow her to fund or support a company of a specific nature of business?
-
+A. 
 
 
 
