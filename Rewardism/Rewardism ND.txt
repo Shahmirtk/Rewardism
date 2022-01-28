@@ -1,20 +1,3 @@
-Q. Will employers have no say in setting remuneration expenses?
-A. As remuneration expenses will be added to BPs burned when comparing the total expenses with the total revenue earned, higher remuneration expenses will make it more difficult to meet the target. Employers can control remuneration expenses by controlling the number of people they hire, but this might not be enough, or at least not the most economic way. We can set the formula such that there is a non-reducable base level of reward and a controllable bonus over that. An example is:
-
-Rt = (Rb * Fp) + (Re * Fe)
-
-Where:
-Rt is the total reward earned per period,
-Rb is the base reward earned per period,
-Fp is the factor specific to the profession to which the reward relates,
-Re is the bonus reward earned per period according to the size of the employer, and
-Fe is the factor controlled by the employer.
-
-Economists will be responsible for setting the general base level of reward, Rb, the Fps for all possible professions, and Re for all the employers. A formula can be set for calculating the Re. As employers will only be able to control the Fe, this means they can only control the bonus part of the reward. In the worst case scenario for employees, with an infinite supply of employees and zero competition between employers, 
-
-Q. Will remuneration for same profession be same in both big and small company?
-A. 
-
 Q. Will a Rewardist country be able to utilize the resources of another Rewardist country? In other words, will all Rewardist countries be considered as a whole for the purpose of managment of resources?
 A. 
 
