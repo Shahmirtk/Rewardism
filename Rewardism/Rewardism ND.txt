@@ -2,21 +2,55 @@ Divisions of WRMO
 
 • Public Relations
 
-Ideal Experts: Human Psychology Experts, Experienced Psychiatrists, Experienced Politicians
+Main Purpose: 
+  * "To manage the Compatability Risk".
 
-Main Purpose: To mitigate the Compatability Risk.
+Responsible for: 
+  * Understanding the concerns of each government.
+  * Understanding the concerns of economists.
+  * Finding the best middle way and reaching reasonable agreements.
+  * Maintaining reputation and goodwill of WRMO in the world. 
+  * Reporting performance (resources utilized (5 Ws and 1 H) and their opportunity cost), key-decisions, and reasoning (behind decisions taken or to be taken) to the relevant governments.
 
-Course of action: Understand the concerns of each government, understand the concerns of economists, find the best middle way and reach reasonable agreements, and maintain reputation and goodwill of WRMO in the world.
+Ideal Experts: 
+  * Human Psychology Experts
+  * Experienced Psychiatrists
+  * Experienced Politicians
 
 • Database
 
-Ideal Experts: 
-
 Main Purpose:
+  * "To manage the Input Risk."
 
-Course of action:
+Responsible for:
+  * Setting the structure of each database according to how it is intended to be used.
+  * Gathering data about the various resources available around the world.
+  * Securing the data collected.
+  * Making the data available in a useable form as needed.
+  * Pruning the database.
+  * Establishing control procedures to help with detecting anomolies.
+
+Ideal Experts:
+  * Database experts
+  * Computer Scientists
+  * Big Data experts
+  * Cybersecurity experts
 
 • App Development
+
+Main Purpose:
+  * "To manage the Input Risk, and facilitate economic activities."
+
+Responsible for:
+  * Developing state of the art applications for helping people in interacting with the database in a controlled manner.
+  * Taking feedback from users and adjusting the applications accordingly.
+  * 
+
+Ideal Experts:
+  * Experienced App Developers
+  * Computer Scientists
+  * Cybersecurity Experts
+
 • Forecasts
 • Budgets
 • Reward Factors
@@ -25,7 +59,12 @@ Course of action:
 • Automation
 • Accounting
 • Inheritance
+
 • Talent
+
+Responsible for:
+  * Ensuring that the rights of people are not violated by asking people if they were forced to do anything, by reviewing documents about consent, etc. People should not be forced to do a job or relocate to some other place generally speaking, but they can be requested to do so. People also includes the RMs.
+
 • R&D
 
 

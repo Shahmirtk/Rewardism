@@ -1,67 +1,35 @@
 ~~~
 !Responsibilities of World Resources Management Organization (WRMO)
-*Gathering data about the various resources available around the world, and by taking into account the rate of usage of the resources, predicting the resources available in the near future.
-  *Identifying the different needs of the whole society, and then ranking them according to their significance (importance and urgency).
-  *Figuring out the best possible ways of utilizing resources by ranking the different ways of utilization according to their pros and cons.
-  *Utilizing the resources according to the findings, guidance from the RS and standard procedures to benefit the maximum number of people possible in the best way possible. 
-  *Reporting findings, performance (resources utilized (5 Ws and 1 H) and their opportunity cost), key-decisions, and reasoning (behind decisions taken or to be taken) to the reasoning system to ensure that the Economic System is working in the best interest of the whole society.
-  *Leaders of the Reasoning System will oversee the performance of the RM Experts and will give them feedback accordingly. (State that the goal is to take care of needs of every being on the planet, and to go even further and provide luxury items/services where possible, in the smoothest way possible; even more importantly to ensure that every resource is best utilized (talent, raw materials etc.) and the scarce ones are preserved until the best use(s) is/are available, i.e. wastage is avoided/mitigated) 
-*!Taking feedback from people whether their needs are being fulfilled or not, and what improvements would they like to see. Ensuring that the rights of people are not violated (for example, people should not be forced to do a job or relocate to some other place generally speaking, but they can be requested) (by asking people if they were forced to do something, by reviewing documents about consent etc.)
-  *!Giving a quarterly report to the public about the performance of "The Organization" in terms of running Rewardism, so that the public can decide whether the resources are being properly managed or not. The feedback from the public and the governing authorities should be accounte for.
+  * (Database) Gathering data about the various resources available around the world. 
+
+  * (Forecasts) By taking into account the rate of usage of the resources, predicting the resources available in the near future.
+
+  * (Resource Allocation) Identifying the different needs of the whole society, and then ranking them according to their significance (importance and urgency).
+  * (Resource Allocation) Figuring out the best possible ways of utilizing resources by ranking the different ways of utilization according to their pros and cons.
+  * (Resource Allocation) Utilizing the resources according to the findings, guidance from the RS and standard procedures to benefit the maximum number of people possible in the best way possible. The scarce ones are preserved until the best use(s) is/are available, i.e. wastage is avoided/mitigated.
+
+  * (Public Relations) Reporting findings, performance (resources utilized (5 Ws and 1 H) and their opportunity cost), key-decisions, and reasoning (behind decisions taken or to be taken) to the reasoning system to ensure that the Economic System is working in the best interest of the whole society.
+  * (Public Relations, Talent) Ensuring that the rights of people are not violated (for example, people should not be forced to do a job or relocate to some other place generally speaking, but they can be requested) (by asking people if they were forced to do something, by reviewing documents about consent etc.)
+
+  * (Talent) Taking feedback from people whether their needs are being fulfilled or not, and what improvements would they like to see.
 
 Management of:
 • Public Relations
 • Database
 • App Development
 • Forecasts
-• Budgets
-• Reward Factors
-• Rewarding Formulas
+• Resource Allocation
+    (Allocating Resources controlled by WRMO to the best utilizers. Different from funding companies.)
+• Reward Factors and Formulas
 • Companies' Funding
+    (Ensuring uneconomical companies are not funded and economical ones are. Reviewing performance of companies that were funded and acting accordingly.)
 • Automation
+    (Will work with Accounting division to automate accounting. Will work with rewarding related divisions to automate rewarding. Will keep automation controlled by involving humans.)
 • Accounting
 • Inheritance
 • Talent
 • R&D
-
--Automation
-
-#Elaborate Automated Accounting and Reporting
-
-#Elaborate Automated Rewarding
-
-#Elaborate Role of Humans in Context of Controlled Automation
 ~~~
-
-{
-
-Q. Will employers be able to control the reward earned by an employee?
-
-Q. Why manually set rewarding formulas and factors when there is already the law of supply and demand?
-
-Q: How will financial leverage work in Rewardism, if at all?
-
-Q. To have a negative balance is to be under debt, so will it not be possible under Rewardism?
-
-Q. Hire purchase (HP) is essentially like taking a loan, so will this option not be enabled under Rewardism?
-
-Q. What will be the power dynamics between a government and WRMO?
-
-Q. Will a Rewardist country be able to utilize the resources of another Rewardist country? In other words, will all Rewardist countries be considered as a whole for the purpose of management of resources?
-
-Q: How will Rewardist countries trade with non-Rewardist ones?
-
-Q: How will systems like Defence System, whose activity cannot really be measured reliably, work?
-
-Q. Suppose some person A offers ten times the value of a personal asset of a person B. Can this method not be used to bribe officials?
-
-Q. What if the elite let decision makers use their property, instead of selling or transferring it to them, as a means to bribe them?
-
-Q. What if the personal beliefs of a RM do not allow her to fund or support a company of a specific nature of business?
-
-Q: Suppose there's a substance X, which is without doubt harmful, and there is a high demand for this substance for hedonic reasons; obviously, investors will be attracted to meet this demand to increase their wealth. Under Rewardism, if the company gets high rating from consumers and helps burn a significant amount of RP, then wouldn't they benefit from others' demise just like in the older system?
-
-}
 
 # := Relevant to supporting/defending rather than explaining.
 
