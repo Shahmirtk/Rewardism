@@ -63,7 +63,7 @@ Erasing debt:
   ->	Some professions may be easier, cleaner, or more respectable than others.
   ->	Some professions are difficult or expensive to learn. 
   ->	Some trades are seasonal. 
-  ->	Earnings are higher in trades that require a large degree of trust (doctors, lawyers, etc.). 
+  ->	Earnings are higher in trades that require a large degree of trust (doctors, lawyers, etc.).
   ->	Earnings reflect the probability of success in any profession (rarity and beauty of talents in professions like acting, singing, etc.).  
 # <Deployment> People respect authority, strength, wisdom, prudence, maturity, age and wealth. {basis for respectable position holders' selection} 
 # <Deployment> Consent of the affected parties should be taken to get their support.

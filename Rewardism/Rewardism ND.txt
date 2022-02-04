@@ -1,23 +1,46 @@
 Divisions of WRMO
 
+• Governance
+
+Main Purpose: 
+  * "To govern Enterprise Risk Management."
+
+Responsible for:
+  * Setting the goals of the organization.
+  * Setting the risk tolerance of the organization.
+  * Communicating goals and risk tolerance to management.
+  * Providing guidance on achieving goals to management.
+  * Overseeing the whole organization and the world in general.
+  * Rewarding (punishing) better (below) than average performance.
+  * Making adjustments in goals and risk tolerance according to changes.
+
+Ideal Experts:
+  * Experienced Economists
+  * Risk Governance Experts
+  * Experienced Auditors
+  * Experienced Computer Scientists
+  * Experienced Psychologists
+  * Experienced Psychiatrists
+  * Experienced Politicians
+
 • Public Relations
 
 Main Purpose: 
-  * "To manage the Compatability Risk".
+  * "To manage the Compatability Risk."
 
 Responsible for: 
   * Understanding the concerns of each government.
-  * Understanding the concerns of economists.
+  * Understanding the concerns of the Governance Division.
   * Finding the best middle way and reaching reasonable agreements.
   * Maintaining reputation and goodwill of WRMO in the world. 
-  * Reporting performance (resources utilized (5 Ws and 1 H) and their opportunity cost), key-decisions, and reasoning (behind decisions taken or to be taken) to the relevant governments.
+  * Reporting performance, key-decisions, and reasoning, behind decisions taken or to be taken, to the relevant governments.
 
 Ideal Experts: 
   * Human Psychology Experts
   * Experienced Psychiatrists
   * Experienced Politicians
 
-• Database
+• Back end
 
 Main Purpose:
   * "To manage the Input Risk."
@@ -39,7 +62,7 @@ Ideal Experts:
 • App Development
 
 Main Purpose:
-  * "To manage the Input Risk, and facilitate economic activities."
+  * "To manage the Input Risk."
 
 Responsible for:
   * Developing state of the art applications for helping people in interacting with the database in a controlled manner.
@@ -52,18 +75,42 @@ Ideal Experts:
   * Cybersecurity Experts
 
 • Forecasts
-• Budgets
+
+  * By taking into account the rate of usage of the resources, predicting the resources available in the near future.
+
+• Resource Allocation
+
+  (Allocating Resources controlled by WRMO to the best utilizers. Different from funding companies.)
+
+  * Identifying the different needs of the whole society, and then ranking them according to their significance (importance and urgency).
+  * Figuring out the best possible ways of utilizing resources by ranking the different ways of utilization according to their pros and cons.
+  * Utilizing the resources according to the findings, guidance from the RS and standard procedures to benefit the maximum number of people possible in the best way possible. The scarce ones are preserved until the best use(s) is/are available, i.e. wastage is avoided/mitigated.
+
 • Reward Factors
 • Rewarding Formulas
 • Companies' Funding
+
+  (Ensuring uneconomical companies are not funded and economical ones are. Reviewing performance of companies that were funded and acting accordingly.)
+
 • Automation
+
+  (Will work with Accounting division to automate accounting. Will work with rewarding related divisions to automate rewarding. Will keep automation controlled by involving humans.)
+
 • Accounting
 • Inheritance
 
 • Talent
 
+Main Purpose:
+  * "To help humans realize their true potential."
+
 Responsible for:
   * Ensuring that the rights of people are not violated by asking people if they were forced to do anything, by reviewing documents about consent, etc. People should not be forced to do a job or relocate to some other place generally speaking, but they can be requested to do so. People also includes the RMs.
+  * Taking feedback from people whether their needs are being fulfilled or not, and what improvements would they like to see.
+  * Understanding the optimal environment specific to each individual and helping them get that environment for helping them achieve optimal performance. Kind of like Master Shifu understanding the best way to train Po.
+
+Ideal Experts:
+  *
 
 • R&D
 
