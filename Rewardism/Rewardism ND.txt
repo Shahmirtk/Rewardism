@@ -1,121 +1,18 @@
-Divisions of WRMO
+Q. How will the Points get their value?
+A. "And it is a mistake to imagine that wealth resides only in money. Money is just a medium of exchange. It is useful, because everyone accepts it. Yet what people actually want when they do accept it is not the money, but the things that they can buy with the money. Certainly, gold and silver have the merit of being more durable than some other commodities, and this adds to their usefulness as a store of value. But durability is not everything: we are perfectly happy to import wine from France and send them hardware in exchange. Nevertheless, the French are not so stupid as to amass more pots and pans than they need to cook their food, just because they are more durable. It would be a complete waste of resources. By the same token, neither we, nor any country, should seek to amass more gold and silver than is needed to facilitate trade. It would be a waste too – dead capital that would come out of the available resources we need to feed, clothe, maintain and employ the people. Money is a utensil, just like pots and pans." - The Condensed Wealth of Nations, Page 48
 
-• Governance
+  "I’m not sure if this question is coming from the angle of the popular idea that the dollar isn’t backed by anything. Typically, the question is considered to be rhetorical, and the supposed answer is supposed to shock us into realizing that the entire American economy is a house of cards built on a sand castle.
+  Whether or not that is the intent of the question, know that this is not true. The dollar has value, whether or not there is such-and-such an amount of gold in some building somewhere. Try this thought-experiment that will clarify where the value of the dollar is ultimately established.
+  Imagine a scenario in which the entire economy uses, say, Dogecoin. One day, the US Federal government passes a law that for whatever reason requires every person to send a the president a cupcake for his birthday. And furthermore, that cupcake must be obtained from an authorized government bake shop. The law provides some kind of penalty for failure to send a cupcake in.
+  What will be the effect of this provision on the economy? Well, people will want to acquire a cupcake in order to comply with the law. Where can you get it, and how? Well, if you have one of these special government-allowed cupcakes, fine. If you have two, you might want to give it to someone else so they can meet their own legal obligations. Soon, there will be those who will sell authorized cupcakes to people. And people will barter work, Dogecoin, and other goods for them. Doubtless, some people will borrow or steal them.
+  In this scenario, cupcakes have become valuable. But interestingly, they have become valuable to people who may not even like cupcakes. To those people, there is no intrinsic value to cupcakes; yet they still will be desperate to acquire them. And anyone with an excess — even if they think that inventory is worthless — will consider bartering them for other valuable things.
+  Often overlooked, this is the ultimate source of the dollar’s value. You can use gold and private bartering all you want, but at some point the law requires you to send dollars to the federal government. Thus you need to get some. And so, they become valuable whether or not you particularly care for them as dirty pieces of linen.
+  As you can see, dollars will remain as valuable as the law makes them through 1) the requirements of the tax code and 2) the limited supply allowed into circulation. With both of these backed by the threat of legal sanctions. That value will remain as long as there is a federal government to enforce those provisions." - Anonymous, Quora, "What is backing the American dollar?"
 
-Main Purpose: 
-  * "To govern Enterprise Risk Management."
-
-Responsible for:
-  * Setting the goals of the organization.
-  * Setting the risk tolerance of the organization.
-  * Communicating goals and risk tolerance to management.
-  * Providing guidance on achieving goals to management.
-  * Overseeing the whole organization and the world in general.
-  * Rewarding (punishing) better (below) than average performance.
-  * Making adjustments in goals and risk tolerance according to changes.
-
-Ideal Experts:
-  * Experienced Economists
-  * Risk Governance Experts
-  * Experienced Auditors
-  * Experienced Computer Scientists
-  * Experienced Psychologists
-  * Experienced Psychiatrists
-  * Experienced Politicians
-
-• Public Relations
-
-Main Purpose: 
-  * "To manage the Compatability Risk."
-
-Responsible for: 
-  * Understanding the concerns of each government.
-  * Understanding the concerns of the Governance Division.
-  * Finding the best middle way and reaching reasonable agreements.
-  * Maintaining reputation and goodwill of WRMO in the world. 
-  * Reporting performance, key-decisions, and reasoning, behind decisions taken or to be taken, to the relevant governments.
-
-Ideal Experts: 
-  * Human Psychology Experts
-  * Experienced Psychiatrists
-  * Experienced Politicians
-
-• Back end
-
-Main Purpose:
-  * "To manage the Input Risk."
-
-Responsible for:
-  * Setting the structure of each database according to how it is intended to be used.
-  * Gathering data about the various resources available around the world.
-  * Securing the data collected.
-  * Making the data available in a useable form as needed.
-  * Pruning the database.
-  * Establishing control procedures to help with detecting anomolies.
-
-Ideal Experts:
-  * Database experts
-  * Computer Scientists
-  * Big Data experts
-  * Cybersecurity experts
-
-• App Development
-
-Main Purpose:
-  * "To manage the Input Risk."
-
-Responsible for:
-  * Developing state of the art applications for helping people in interacting with the database in a controlled manner.
-  * Taking feedback from users and adjusting the applications accordingly.
-  * 
-
-Ideal Experts:
-  * Experienced App Developers
-  * Computer Scientists
-  * Cybersecurity Experts
-
-• Forecasts
-
-  * By taking into account the rate of usage of the resources, predicting the resources available in the near future.
-
-• Resource Allocation
-
-  (Allocating Resources controlled by WRMO to the best utilizers. Different from funding companies.)
-
-  * Identifying the different needs of the whole society, and then ranking them according to their significance (importance and urgency).
-  * Figuring out the best possible ways of utilizing resources by ranking the different ways of utilization according to their pros and cons.
-  * Utilizing the resources according to the findings, guidance from the RS and standard procedures to benefit the maximum number of people possible in the best way possible. The scarce ones are preserved until the best use(s) is/are available, i.e. wastage is avoided/mitigated.
-
-• Reward Factors
-• Rewarding Formulas
-• Companies' Funding
-
-  (Ensuring uneconomical companies are not funded and economical ones are. Reviewing performance of companies that were funded and acting accordingly.)
-
-• Automation
-
-  (Will work with Accounting division to automate accounting. Will work with rewarding related divisions to automate rewarding. Will keep automation controlled by involving humans.)
-
-• Accounting
-• Inheritance
-
-• Talent
-
-Main Purpose:
-  * "To help humans realize their true potential."
-
-Responsible for:
-  * Ensuring that the rights of people are not violated by asking people if they were forced to do anything, by reviewing documents about consent, etc. People should not be forced to do a job or relocate to some other place generally speaking, but they can be requested to do so. People also includes the RMs.
-  * Taking feedback from people whether their needs are being fulfilled or not, and what improvements would they like to see.
-  * Understanding the optimal environment specific to each individual and helping them get that environment for helping them achieve optimal performance. Kind of like Master Shifu understanding the best way to train Po.
-
-Ideal Experts:
-  *
-
-• R&D
-
-
-
+  Since, "Money is just a medium of exchange. It is useful, because everyone accepts it.", what really gives money its value is not the commodity backing it, but trust in the governing body authorizing it. In other words, a currency has value because some powerful people say so. How that value changes over time depends on a lot of factors, but perhaps the most important one is how difficult it is to get that currency. If you have to work hard to get a currency, that is obviously going to be much more valuable than if you could just print that currency for yourself.
+  One might think that something with a potentially infinite supply cannot really have any value. However, the problem is in the interpretation of the word supply. Supply does not just mean whether one can make more of something out of thin air, it also accounts for whether that thing is accessible. So, even if the Points are potentially infinite, it is the fact that they are not easy to get is what makes them valuable. That is why, no one should be able to have the power of giving anyone any point for no reason. Not even the ones running the system should be able to do so.
+  - Aren't NPs worthless if they are given without any effort: No, limited fixed supply. Limited purchasing. Has value for NP related businesses. Can be accepted by NP businesses to get something more valuable: RPs. Since, it is accepted, then it has value.
+  - How would you keep the value of RPs under control if you're going to give away so many for ending debt: Initially it will be a fixed value, like 1 RP = 100 USD, then after 3 years of the system being in place, an extra amount will be given if there is any drop in the value of the RPs. This way the Creditors will be given a justified amount and they will have more trust in the system.
 
 
 
