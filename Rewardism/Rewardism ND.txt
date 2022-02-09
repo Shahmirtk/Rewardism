@@ -1,46 +1,6 @@
-Q. How will the Points get their value?
-A. "And it is a mistake to imagine that wealth resides only in money. Money is just a medium of exchange. It is useful, because everyone accepts it. Yet what people actually want when they do accept it is not the money, but the things that they can buy with the money. Certainly, gold and silver have the merit of being more durable than some other commodities, and this adds to their usefulness as a store of value. But durability is not everything: we are perfectly happy to import wine from France and send them hardware in exchange. Nevertheless, the French are not so stupid as to amass more pots and pans than they need to cook their food, just because they are more durable. It would be a complete waste of resources. By the same token, neither we, nor any country, should seek to amass more gold and silver than is needed to facilitate trade. It would be a waste too � dead capital that would come out of the available resources we need to feed, clothe, maintain and employ the people. Money is a utensil, just like pots and pans." - The Condensed Wealth of Nations, Page 48
+﻿  You invite your friends to your wedding. One of your foreign friends, who lives in Capitalistan—a country that still follows the old cash-based system, calls you . “Hi, I am quite excited about your wedding and would love to be there. I am not so sure about how I will convert my money into Reward Points, though. Can you guide me?” she asks you on the phone. “Yeah, you should definitely come over. So, to get the RPs, you just gotta make an account online to get yourself a wallet, and then you can ask one of the authorized exchange companies to top up your wallet for whatever your currency is. It’s really that simple,” you answer. “Oh, so kinda like topping up Steam or my phone. Cool.”
+  Before she hangs up, she asks you, “And what about when I’m leaving, will I be able to buy back my country’s currency?” “Yes, just like you would buy any other asset using RPs. They will be burned away from your account according to whatever the exchange rate is at the time; you will get your currency, and the activity will be recorded in both your and the exchange company’s profile,” you let her know. “So, I’m sorry if I’m asking too much on the phone, do they get equivalent RPs according to the activity?” “Yeah, more or less. It is quite interesting, so I’m happy to answer dear. I’m looking forward to meeting you.” “Same. Bye!” “Bye now!”
+  ... You decide to expand your business further to countries without Rewardism. After two lengthy meetings with the RMs, you start trading internationally. A multi-currency account is opened for your company. BPs alloted to your company are burned to get the desired currencies for importing purposes. The activities are recorded in the relevant accounts. Options and futures are used to convert revenue earned in foreign currency to Points. The Points are recorded as normally activity is recorded. The number of Points earned are then compared to the number of BPs burned to assess your company’s performance, as usual. Foreign companies find your company’s services and products very economical.
+  You find the use of hedge funds, options and futures very fruitful as your company finds its way in the global market. A financial institution handles such transactions for you as it is not the core competency of your company. For individuals and institutions from Rewardist countries, such transactions can only take place through authorized companies. Whenever such a transaction is confirmed, the relevant amount of funds of all parties to the transaction are locked to deal with credit and settlement risk. Indeed, this means that such transactions cannot occur without the funds to support them. This way, your company becomes a global leader for other Rewardist companies.
 
-  "I�m not sure if this question is coming from the angle of the popular idea that the dollar isn�t backed by anything. Typically, the question is considered to be rhetorical, and the supposed answer is supposed to shock us into realizing that the entire American economy is a house of cards built on a sand castle.
-  Whether or not that is the intent of the question, know that this is not true. The dollar has value, whether or not there is such-and-such an amount of gold in some building somewhere. Try this thought-experiment that will clarify where the value of the dollar is ultimately established.
-  Imagine a scenario in which the entire economy uses, say, Dogecoin. One day, the US Federal government passes a law that for whatever reason requires every person to send a the president a cupcake for his birthday. And furthermore, that cupcake must be obtained from an authorized government bake shop. The law provides some kind of penalty for failure to send a cupcake in.
-  What will be the effect of this provision on the economy? Well, people will want to acquire a cupcake in order to comply with the law. Where can you get it, and how? Well, if you have one of these special government-allowed cupcakes, fine. If you have two, you might want to give it to someone else so they can meet their own legal obligations. Soon, there will be those who will sell authorized cupcakes to people. And people will barter work, Dogecoin, and other goods for them. Doubtless, some people will borrow or steal them.
-  In this scenario, cupcakes have become valuable. But interestingly, they have become valuable to people who may not even like cupcakes. To those people, there is no intrinsic value to cupcakes; yet they still will be desperate to acquire them. And anyone with an excess � even if they think that inventory is worthless � will consider bartering them for other valuable things.
-  Often overlooked, this is the ultimate source of the dollar�s value. You can use gold and private bartering all you want, but at some point the law requires you to send dollars to the federal government. Thus you need to get some. And so, they become valuable whether or not you particularly care for them as dirty pieces of linen.
-  As you can see, dollars will remain as valuable as the law makes them through 1) the requirements of the tax code and 2) the limited supply allowed into circulation. With both of these backed by the threat of legal sanctions. That value will remain as long as there is a federal government to enforce those provisions." - Anonymous, Quora, "What is backing the American dollar?"
-
-  Again, "Money is just a medium of exchange. It is useful, because everyone accepts it." For a currency to have value, it does not have to be backed by a commodity, but the public has to trust the governing body authorizing it. In other words, a currency has value because some powerful entity says so. Interestingly, there would not be just one organization backing the Points, but all the governments who accept Rewardism as their economic system, as they would want the Points to have stable, and predictable, value. So, it is likely to be the most stable, and possibly valuable, currency.
-  The value of a currency can change due to a number of factors, but perhaps the most important one is how difficult it is to get that currency. If you have to work hard to get a currency, that currency is obviously going to be much more valuable than a currency you can print for yourself. So, even if the Points are potentially infinite, it is the fact that they are not easy to get is what makes them valuable. That is why, no one should have the power of giving anyone any point without any good reason. The recorded respective reason behind each Point given will give it its value.
-  The restrictions on getting any kind of Point should be high. It should be much more difficult to get RPs, as compared to printing any older currency. One of the key roles of the economists of the future will be to keep the difficulty level of getting RPs high enough to keep humans challenged but not so high that they do not even bother to work. A balanced rewarding mechanism would help motivate people enough to be productive. Is a challenging environment also not more engaging? Rewardism helps economists by providing them controls over variables, which they can change to adjust the "difficulty level of the game." 
-  In games like Grand Theft Auto: Vice City, the virtual currency is potentially infinite, but the way the game makes that currency valuable is by rewarding players with a limited amount of it for doing some specific tasks; the task can be winning a race, controlling a territory, etc. Similarly, in games like DotA 2, the amount of virtual gold is essentially infinite, and yet it is quite valuable to each committed core player because a team with a higher networth than its rival has a considerable advantage over it. The rewarding mechanisms and economic systems of games have inspired me to come up with the idea of Rewardism.
-  A natural question that follows then is, "NPs will be given to even those who do no effort, will NPs not be worthless?" Indeed, NPs would be quite worthless to the sellers of necessities as they can just get the NPs for free anyway. However, the sellers of necessities will not get NPs in return for selling necessities, they will get RPs. The possibility of earning RPs can make the NPs-based businesses look quite lucrative; especially since, everyone will have NPs to buy the necessities from the necessities-providers. The impossibility of earning, and limited number of, NPs will also add to their value.
-  These Points are going to be the currencies of a relatively modern and more developed economic system, which means that they will be free of the problems of the older currencies and cash, at least to some extent. The value of Rewardism itself will be, in a way, reflected in the value of a RP. The higher the repuation of Rewardism and its supporting entities, the more people are likely to value these currencies. So, a primary goal of the governing entities would be to keep the reputation of Rewardism and its supporting entities high.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+• Employees must not have overlapping time with with other businesses and no more than 16 hours of work per day.
