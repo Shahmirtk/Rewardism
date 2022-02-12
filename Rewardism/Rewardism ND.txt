@@ -1,13 +1,13 @@
 ﻿Q. Will the RP be a global currency?
-A. Since an RP reflects the performance of the economic system, it does not make much sense that the currency in USA should suffer from inefficiencies in Japan and vice versa. Although, ideally, making the currency global can cause countries to cooperate, as the economic development of one country will matter to other countries as well. Realistically though, I do not think we have evolved to that stage yet, and to avoid making the deployment of Rewardism difficult, it make sense to keep the currency specific to each country.
+A. Since a RP reflects the performance of the economic system, it does not make much sense that the currency in USA should suffer from inefficiencies in Japan and vice versa. Although, ideally, making the currency global can cause countries to cooperate, as the economic development of one country will matter to other countries as well. Realistically though, I do not think we have evolved to that stage yet, and to avoid making the deployment of Rewardism difficult, it make sense to keep the currency specific to each country.
   One can then ask, “Well, why not apply the same principle to states, and even cities?” And indeed, they would be right to ask such a question; however, we can practically follow this middle path, where states and cities would cooperate with the states and cities of their own respective country. It is debatable, however, whether the RP should be specific to a country or an even bigger region, like a continent. This can be decided by further discussions with the experts and what the countries want.
 
 Q. How would the initial value of the RP of a country be decided?
 A: The initial value of the RP of a country would be pegged to the value of the country’s currency at the point of conversion. This way, it would be simpler to decide how to set budgets and prices, as people would be basically dealing in the same currency as before but with different characteristics. Furthermore, this would help capture the value of the country’s currency with respect to other currencies. Arguably, the currency of the country already reflects the performance of the currency, which can be used as a reference point for subsequent changes to the value of the currency.
 
-Q. What would cause the value of an RP to change?
-A. Since the value of an RP reflects the performance of the economic system in the region specific to that RP, the change in performance should updated the RP. Indeed, this is quite different from the traditional way a currency’s value changes; and yes, it does mean that the RP would be, more or less, immune from the whimsical market’s forces of supply and demand. This is likely to make the value of the RP more meaningful and stable.
-  We will say that at the reference point, the RP is equal to the Original Currency (OC)—the currency being used before the conversion. If the performance of the economic system in the region improves by 25%, we can say that the RP is now worth 1.25 times the older RP (RPo). Likewise, if the performance of the economic system in the region decreases by 25%, we can say that the RP is worth 0.75 times the (RPo). So, the formula for each subsequent period after the conversion point is:
+Q. What would cause the value of a RP to change?
+A. Since the value of a RP reflects the performance of the economic system in the region specific to that RP, the change in performance should be reflected in the updated RP. Indeed, this is quite different from the traditional way a currency’s value changes; and yes, it does mean that the RP would be, more or less, immune from the whimsical market’s forces of supply and demand. This is likely to make the value of the RP more meaningful and stable.
+  Recall that at the reference point, the RP is equal to the Original Currency (OC)—the currency being used before the conversion. If the performance of the economic system in the region improves by 25%, we can say that the RP is now worth 1.25 times the older RP (RPo). Likewise, if the performance of the economic system in the region decreases by 25%, we can say that the RP is worth 0.75 times the (RPo). So, the formula for each subsequent period after the conversion point is:
 
   RPu = (1 + σ) * RPo, (1)
 
@@ -27,8 +27,8 @@ A. Since the value of an RP reflects the performance of the economic system in t
     σ(n)   = the nth change in performance in the (n)th period, and
     OC   = the orignal currency that was in place before the conversion to Rewardism.
 
-  To clarify things, the reference point will help us decide what the average performance is. This average performance would have to be updated each period, so in other words, a moving average will be used. This makes sense because the updated RP would already have accounted for the improvement in performance relative to the previous period. So, the updated RP should only be updated if there is further improvement, or deterioration.
-  To measure performance, a lot of metrics can be used so that the measurements account for a broad range of factors. Performance appraisal should account for factors such as sustainability or long-term factors, survival or short-term factors, purchasing power, economic activity, rate of meeting the target Points, employment rate, reviews, etc. This would ensure that the currency not only reflects the short-term performance in a region, but also the long-term implications for the world.
+  To clarify things a bit, the reference point will help us decide what the average performance is. This average performance would have to be updated each period, so in other words, a moving average will be used. This makes sense because the updated RP would already have accounted for the improvement in performance relative to the previous period. So, the updated RP should only be updated if there is further improvement, or deterioration, in performance.
+  To measure performance, a lot of metrics can be incorporated so that the measurements account for a broad range of factors. Performance appraisal should account for factors such as sustainability or long-term factors, survival or short-term factors, purchasing power, economic activity, rate of meeting the target Points, employment rate, reviews, etc. This would ensure that the currency not only reflects the short-term performance in a region, but also the long-term implications for the world.
  The formula for calcuting the σ for a period can be:
 
   σ = w1F1 + w2F2 + ... + w(n)F(n)
@@ -36,7 +36,7 @@ A. Since the value of an RP reflects the performance of the economic system in t
   Where:
     σ = the change in performance in the period to which the update relates,
     wn = the weight of the nth factor,
-    Fn = the percentage change in performance according to the nth factor, and
+    Fn = the percentage change in performance with respect to the nth factor, and
     the sum of all weights = 1.
 
   This way, the economists can make countries focus on factors they think are very important. For example, if they believe that the environmental factors need to have more weight than short-term factors, they can easily increase the weight of the environmental factors, and the rest will happen kind of automatically. The weight of each performance factor will be pre-defined globally to keep currencies comparable, and to avoid cherrypicking weights for increasing the σ.
@@ -70,10 +70,10 @@ A. Since the value of an RP reflects the performance of the economic system in t
   1 RPbo = ( 1 / 0.0125) RPau = 80 RPau
   1 RPbu = 0.75 * 80 RPau = 60 RPau
 
-  So, the rate would become 60 RPa to 1 RPb. Here, you might notice that the value of one country’s RP increases by the decrease in the value of the RP, or other currency, of another country. This can lead to hostile behavior between countries; therefore, ideally, there should be one global currency so that each country cares about the performance of all other countries. However, I realize that the probability of that happening is quite low, especially initially.
+  So, the rate would become 60 RPa to 1 RPb. Here, you might notice that the relative value of one country’s RP increases by the decrease in the value of the RP, or other currency, of another country. This can lead to hostile behavior between countries; therefore, ideally, there should be one global currency so that each country cares about the performance of all other countries. However, I realize that the probability of that happening is quite low, especially initially.
 
-Specialized and authorized exchange guys. Dedicated systems.
-Immune from Supply and Demand? (Potentially infinite supply, fixed price...)
+Q. How will the authorized exchange companies benefit from providing their services?
+A. Let us refer to an authorized exchange company as AEC. Assume that an AEC has 1M of currency XP, and by default it does not own any RP at the start. Let us say that the rate of XP to RP is 100:1. However, the AEC would buy RPs at the rate of 98 XP to 1 RP, and it would sell RPs at the rate of 102 XP to 1 RP. To buy XP 10,000, a client would have to burn 102.04 RPs (10,000/98). This activity would be recorded in the profiles of both the client and the AEC. To buy 100 RPs from the AEC, the client would have to transfer XP 10,200 to the AEC, 100 RPs would automatically be credited to the client’s account. Again, the activity would be recorded in both the profiles.
+  So, the AEC received 102.04 RPs first and gave XP 10,000. Then, it received 10,200 XP and gave 100 RPs. By these two transactions, the net profit is 2.04 RPs and 200 XP. There can be a more powerful AEC (PAEC), that deals with the standard AECs instead of regular clients, where the AEC can convert the XPs to RPs and vice versa. The PAEC will also keep its own profit. To account for reviews and other factors, the RPs will flow from a sub-account of the AEC to the AEC’s main account after some adjustments, just like the activity recorded with other companies is adjusted to derive a net amount of RPs for the investors. This also applies to the PAEC. No one will be allowed to interfere in the automatic process of handling RPs.
 
-Q. What if people want the other currencies a lot? What if sellers of other currencies do not want RPs (maybe because of limited usability)? Won't that result in a drop in value of RPs? 
-A. Limited usability isn't a big deal when it comes to investments assets as they can be held just as investments.
+[Note: No RPs are needed in the sub-account of the AEC for a client to get them. It is an automated process where upon confirmation of receipt of the other currency, the client will automatically be rewarded. The AEC benefits because it provides its capital and services.]
