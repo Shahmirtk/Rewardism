@@ -1,6 +1,6 @@
-Divisions of WRMO
+ï»¿Divisions of WRMO
 
-• Governance
+ï¿½ Governance
 
 Main Purpose: 
   * "To govern Enterprise Risk Management."
@@ -23,7 +23,7 @@ Ideal Experts:
   * Experienced Psychiatrists
   * Experienced Politicians
 
-• Public Relations
+ï¿½ Public Relations
 
 Main Purpose: 
   * "To manage the Compatability Risk."
@@ -40,7 +40,7 @@ Ideal Experts:
   * Experienced Psychiatrists
   * Experienced Politicians
 
-• Back end
+ï¿½ Back end
 
 Main Purpose:
   * "To manage the Input Risk."
@@ -59,7 +59,7 @@ Ideal Experts:
   * Big Data experts
   * Cybersecurity experts
 
-• App Development
+ï¿½ App Development
 
 Main Purpose:
   * "To manage the Input Risk."
@@ -74,11 +74,11 @@ Ideal Experts:
   * Computer Scientists
   * Cybersecurity Experts
 
-• Forecasts
+ï¿½ Forecasts
 
   * By taking into account the rate of usage of the resources, predicting the resources available in the near future.
 
-• Resource Allocation
+ï¿½ Resource Allocation
 
   (Allocating Resources controlled by WRMO to the best utilizers. Different from funding companies.)
 
@@ -86,20 +86,20 @@ Ideal Experts:
   * Figuring out the best possible ways of utilizing resources by ranking the different ways of utilization according to their pros and cons.
   * Utilizing the resources according to the findings, guidance from the RS and standard procedures to benefit the maximum number of people possible in the best way possible. The scarce ones are preserved until the best use(s) is/are available, i.e. wastage is avoided/mitigated.
 
-• Reward Factors
-• Rewarding Formulas
-• Companies' Funding
+ï¿½ Reward Factors
+ï¿½ Rewarding Formulas
+ï¿½ Companies' Funding
 
   (Ensuring uneconomical companies are not funded and economical ones are. Reviewing performance of companies that were funded and acting accordingly.)
 
-• Automation
+ï¿½ Automation
 
   (Will work with Accounting division to automate accounting. Will work with rewarding related divisions to automate rewarding. Will keep automation controlled by involving humans.)
 
-• Accounting
-• Inheritance
+ï¿½ Accounting
+ï¿½ Inheritance
 
-• Talent
+ï¿½ Talent
 
 Main Purpose:
   * "To help humans realize their true potential."
@@ -112,39 +112,9 @@ Responsible for:
 Ideal Experts:
   *
 
-• R&D
+ï¿½ R&D
 
-~~~
-!Responsibilities of World Resources Management Organization (WRMO)
-  * (Database) Gathering data about the various resources available around the world. 
 
-  * (Forecasts) By taking into account the rate of usage of the resources, predicting the resources available in the near future.
-
-  * (Resource Allocation) Identifying the different needs of the whole society, and then ranking them according to their significance (importance and urgency).
-  * (Resource Allocation) Figuring out the best possible ways of utilizing resources by ranking the different ways of utilization according to their pros and cons.
-  * (Resource Allocation) Utilizing the resources according to the findings, guidance from the RS and standard procedures to benefit the maximum number of people possible in the best way possible. The scarce ones are preserved until the best use(s) is/are available, i.e. wastage is avoided/mitigated.
-
-  * (Public Relations) Reporting findings, performance (resources utilized (5 Ws and 1 H) and their opportunity cost), key-decisions, and reasoning (behind decisions taken or to be taken) to the reasoning system to ensure that the Economic System is working in the best interest of the whole society.
-  * (Public Relations, Talent) Ensuring that the rights of people are not violated (for example, people should not be forced to do a job or relocate to some other place generally speaking, but they can be requested) (by asking people if they were forced to do something, by reviewing documents about consent etc.)
-
-  * (Talent) Taking feedback from people whether their needs are being fulfilled or not, and what improvements would they like to see.
-
-Management of:
-• Public Relations
-• Database
-• App Development
-• Forecasts
-• Resource Allocation
-    (Allocating Resources controlled by WRMO to the best utilizers. Different from funding companies.)
-• Reward Factors and Formulas
-• Companies' Funding
-    (Ensuring uneconomical companies are not funded and economical ones are. Reviewing performance of companies that were funded and acting accordingly.)
-• Automation
-    (Will work with Accounting division to automate accounting. Will work with rewarding related divisions to automate rewarding. Will keep automation controlled by involving humans.)
-• Accounting
-• Inheritance
-• Talent
-• R&D
 ~~~
 
 # := Relevant to supporting/defending rather than explaining.
@@ -158,7 +128,7 @@ Real wealth:
 # Money is a utensil, just like pots and pans. The fact that wealth and money are separate things can be shown quite easily. After all, a person who receives a guinea of income today may spend that same guinea tomorrow, thus providing the income of a second; and that person may spend the same guinea on the next day, providing the income of a third. So, the amount of money in circulation is clearly much less than the total income of the nation. National income is the quantity of goods bought and sold, not the metal pieces that happen to be used to facilitate the exchange of that product. {highlight significance of activity over money} 
 
 Human nature (against cynicism):
-#“How selfish soever man may be supposed, there are evidently some principles in his nature, which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it, except the pleasure of seeing it.” - The Theory of Moral Sentiments
+#ï¿½How selfish soever man may be supposed, there are evidently some principles in his nature, which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it, except the pleasure of seeing it.ï¿½ - The Theory of Moral Sentiments
 # "A man grows rich by employing a multitude of manufacturers: he grows poor by maintaining a multitude of menial servants." {on the significance of doing your work yourself}
 # Opposition from those in power: accounting for the self-interest of those in power will make a system more likely to be established, simply because they will support it.
 
@@ -166,15 +136,15 @@ Against profligacy:
 # The first remedy for self-neglect and profligacy is the study of science and philosophy. The second is to amuse and divert people by promoting the arts. {on the significance of art, science and philosophy} => Explain how to deal with very high buying power and demand.
 
 Directing:
-# “The sovereign is completely discharged from a duty [for which] no human wisdom or knowledge could ever be sufficient; the duty of superintending the industry of private people, and of directing it towards the employments most suitable to the interest of the society.” {on the significance of liberty and non-interference} => Explain how it is possible to direct it towards the employments most suitable to the interest of the society
+# ï¿½The sovereign is completely discharged from a duty [for which] no human wisdom or knowledge could ever be sufficient; the duty of superintending the industry of private people, and of directing it towards the employments most suitable to the interest of the society.ï¿½ {on the significance of liberty and non-interference} => Explain how it is possible to direct it towards the employments most suitable to the interest of the society
 
 Erasing debt:
 # So capital is being transferred from people who have a keen interest in using it productively to those, mere creditors, who have no interest in the condition of land or the good management of the capital stock at all.
 
 # Seperation of responsibilities will allow both (government and WRMO) to focus on their specific ones and better perform. 
 
-# <Public Officals> “The endowments of schools and colleges have necessarily diminished more or less the necessity of application in the teachers Their subsistence [is] altogether independent of their success and reputation in their particular professions” {on the significance of performance-based rewards} 
-# <Public Officals>  “... and it has, I am afraid, been too common for vessels to fit out for the sole purpose of catching, not the fish, but the bounty.” <this is particularly relevant to setting the reward appropriately>
+# <Public Officals> ï¿½The endowments of schools and colleges have necessarily diminished more or less the necessity of application in the teachers Their subsistence [is] altogether independent of their success and reputation in their particular professionsï¿½ {on the significance of performance-based rewards} 
+# <Public Officals>  ï¿½... and it has, I am afraid, been too common for vessels to fit out for the sole purpose of catching, not the fish, but the bounty.ï¿½ <this is particularly relevant to setting the reward appropriately>
 # <Employment Income> {link these points to the basis on which people should be rewarded} The non-pecuniary costs and benefits of different industries: 
   ->	Some professions may be easier, cleaner, or more respectable than others.
   ->	Some professions are difficult or expensive to learn. 
