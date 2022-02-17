@@ -1,9 +1,9 @@
 ﻿Divisions of WRMO
 
-� Governance
+> Governance
 
 Main Purpose: 
-  * "To govern Enterprise Risk Management."
+  * "To govern the managers of Enterprise Risk."
 
 Responsible for:
   * Setting the goals of the organization.
@@ -23,7 +23,7 @@ Ideal Experts:
   * Experienced Psychiatrists
   * Experienced Politicians
 
-� Public Relations
+>> Public Relations
 
 Main Purpose: 
   * "To manage the Compatability Risk."
@@ -40,7 +40,23 @@ Ideal Experts:
   * Experienced Psychiatrists
   * Experienced Politicians
 
-� Back end
+>>> App Development
+
+Main Purpose:
+  * "To manage the Frontend and Backend divisions."
+
+Responsible for:
+  * Understanding the concerns of the backend.
+  * Understanding the concerns of the frontend.
+  * Connecting the backend to the frontend.
+
+Ideal Experts:
+  * Experienced App Developers
+  * Computer Scientists
+  * Cybersecurity Experts
+  * Experienced Project Managers
+
+	� Backend
 
 Main Purpose:
   * "To manage the Input Risk."
@@ -52,6 +68,7 @@ Responsible for:
   * Making the data available in a useable form as needed.
   * Pruning the database.
   * Establishing control procedures to help with detecting anomolies.
+  * Communicating with Frontend for smoother development of applications.
 
 Ideal Experts:
   * Database experts
@@ -59,7 +76,7 @@ Ideal Experts:
   * Big Data experts
   * Cybersecurity experts
 
-� App Development
+	� Frontend
 
 Main Purpose:
   * "To manage the Input Risk."
@@ -67,39 +84,34 @@ Main Purpose:
 Responsible for:
   * Developing state of the art applications for helping people in interacting with the database in a controlled manner.
   * Taking feedback from users and adjusting the applications accordingly.
-  * 
+  * Communicating with Backend for smoother development of applications.
 
 Ideal Experts:
   * Experienced App Developers
   * Computer Scientists
   * Cybersecurity Experts
 
-� Forecasts
-
-  * By taking into account the rate of usage of the resources, predicting the resources available in the near future.
-
-� Resource Allocation
-
-  (Allocating Resources controlled by WRMO to the best utilizers. Different from funding companies.)
+>>> Resource Allocation
+  (Allocating Resources controlled by WRMO to the best utilizers.)
 
   * Identifying the different needs of the whole society, and then ranking them according to their significance (importance and urgency).
   * Figuring out the best possible ways of utilizing resources by ranking the different ways of utilization according to their pros and cons.
   * Utilizing the resources according to the findings, guidance from the RS and standard procedures to benefit the maximum number of people possible in the best way possible. The scarce ones are preserved until the best use(s) is/are available, i.e. wastage is avoided/mitigated.
 
-� Reward Factors
-� Rewarding Formulas
-� Companies' Funding
+	� Forecasts
+  * By taking into account the rate of usage of the resources, predicting the resources available in the near future.
 
+	� Reward Factors
+	� Rewarding Formulas
+	� Companies' Funding
   (Ensuring uneconomical companies are not funded and economical ones are. Reviewing performance of companies that were funded and acting accordingly.)
 
-� Automation
-
+>>> Automation
   (Will work with Accounting division to automate accounting. Will work with rewarding related divisions to automate rewarding. Will keep automation controlled by involving humans.)
 
-� Accounting
-� Inheritance
+	� Accounting
 
-� Talent
+>>> Talent
 
 Main Purpose:
   * "To help humans realize their true potential."
@@ -112,9 +124,7 @@ Responsible for:
 Ideal Experts:
   *
 
-� R&D
-
-
+>>> R&D
 ~~~
 
 # := Relevant to supporting/defending rather than explaining.
@@ -151,5 +161,7 @@ Erasing debt:
   ->	Some trades are seasonal. 
   ->	Earnings are higher in trades that require a large degree of trust (doctors, lawyers, etc.).
   ->	Earnings reflect the probability of success in any profession (rarity and beauty of talents in professions like acting, singing, etc.).  
-# <Deployment> People respect authority, strength, wisdom, prudence, maturity, age and wealth. {basis for respectable position holders' selection} 
-# <Deployment> Consent of the affected parties should be taken to get their support.
+<Deployment> People respect authority, strength, wisdom, prudence, maturity, age and wealth. {basis for respectable position holders' selection} 
+<Deployment> Consent of the affected parties should be taken to get their support.
+<Deployment> • What if the RPs of countries under debt are not accepted by their creditors, perhaps because of fear of deterioration? A: Five years after the initial payment against debt, if the value of the currency deteriorates, then, a balancing figure will be paid to account for the deterioration. For example, if the total on a country A amounts to 1M RPAs, the initial payment would be 1M RPAs; after five years, if RPAs are worth 93% of what they were worth initially, then, a balancing figure of 70,000 RPAs would be paid to the creditor.
+  Keep in mind that this new system, with its new features and further tweaks by experts, is likely to outperform the economic system in place before it. This means that the value of the RPs of a country, be it an under-developed country, are likely to increase. So, the creditors are likely to be better off with getting payments in the form of RPs, as compared to the origincal currency of a country. This is because their “investment” is likely to appreciate in value over time.

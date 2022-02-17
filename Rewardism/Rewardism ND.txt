@@ -1,23 +1,54 @@
-﻿- Why does the RP of a region reflect the economy of that region?
-A. Consider the following example,
+﻿WRMO
 
-t0: 1 RPa = 1 RPb = 1 Gs
-t1: 1 RPa = 2 Gs, 1 RPb = 1 Gs
-t1: 1 RPa = 2 RPb = 2 Gs
+Resource Allocation
 
-  Where:
-RPa is the currency of country A,
-RPb is the currency of country B, and where
-Gs is a standard bar of gold.
+  Main Purpose:
+  * “To allocate the resources controlled by the WRMO to the best utilizers.”
 
-  At t0, a reasonable person would be willing to buy 1 RPb for 1 RPa, because she can buy one standard bar of Gold with either of them. At t1, the same person would not be willing to buy 1 RPb for 1 RPa, because now she can buy 2 standard bars of Gold with 1 RPa but only 1 standard bar of Gold with 1 RPb. She would be willing to pay 1 RPa for 2 RPbs. So, the exchange rate has to reflect the economy of each region.
+  Responsible for:
+  * Identifying the different needs of the whole society, and then ranking them according to their significance (importance and urgency).
+  * Figuring out the best possible ways of utilizing resources by ranking the different ways of utilization according to their pros and cons.
+  * Utilizing the resources according to the findings, guidance from the RS and standard procedures to benefit the maximum number of people possible in the best way possible. The scarce ones are preserved until the best use(s) is/are available, i.e. wastage is avoided/mitigated.
 
-- How will the assets registers show the latest market values of assets?
-A. At this point, we must be aware of a significant risk of both bribery, and money-laundering. To understand how we are exposed to these risks when it comes to the valuation of assets, consider the following example:
+  Ideal Experts:
+  * Experienced Economists
+  * Experienced Financial Analysts
+  * Experienced Investment Analysts
 
-  A person X wants to bribe Y—a key decision-maker. Y has a painting that he bought for just 20 RPs. Without proper control procedures in place to manage money-laundering and bribery risks, the painting could be valued at 20 million RPs. Although X cannot directly transfer the RPs to Y, she can buy the asset from Y, and Y would, rightfully, get the 20 million. Interestingly, this would be recorded as a legitimate transaction in the profiles of both X, and Y.
+  [Note: resources mentioned in this section refer to the resources of the Rewardist countries, unless mentioned otherwise. Also, the ideal experts are the same in the Resource Allocation division and all its sub-divisions.]
 
-  This highlights how significant it is to value assets objectively. Not only is there a need for a strong basis for the market value of an asset, there is also a need for auditing asset valuations and detecting anomolous market values. Audits are likely to deter professional asset valuers from valuing assets unfairly. Using modern data science tools and statistical tools can help detect anomolous market values, which can act as signals or indicators for auditors and investigators.
-  If the asset, or a similar asset, is actively traded then the market value can be updated quite easily. For example, if the asset is a share that is traded on some stock exchange, the value of the share can be updated by getting the latest value from the stock exchange. Even in the case of assets that are not as actively traded as public shares, any recent sale of the same, or a similar asset, will indicate what the current market value of the asset is.
-  In the case of very illiquid assets, there is a real difficulty. This, I believe, is where the exposure to risks mentioned earlier is the highest. In such cases, an authorized professional asset valuer will be needed to value the assets. I am not really an expert at valuing such illiquid assets, however, such assets must be valued such that the valuer is able to explain to an auditor why such and such a value was set. If a reasonable basis cannot be determined, the asset shall remain at its original cost.
-  Just like no one should be able to reward themselves, likewise, no one should be able to value their own assets. This applies to authorized professional valuers as well. The reason behind this—to deal with the significant threat to objectivity, can be understood quite intuitively. This is likely to help us avoid the problems associated with behavioral biases like “Endowment Bias”—ascribing more value to assets already owned, and “Anchoring Bias”—clinging to arbitrary price levels.
+  Sub-divisions:
+
+  - Forecasts
+
+  Main Purpose:
+  * “To predict the resources available in the near future by taking into account the rate of usage of the resources.”
+
+  Responsible for:
+  * Estimating the rate of usage of resources of the Rewardist countries.
+  * Estimating the rate of production.
+  * Using modern techniques to forecast the availability of resources.
+
+  - Reward Factors & Formulas
+
+  Main Purpose:
+  * “To identify the relevant factors, and to formulate ideal formulas, for rewarding purposes.”
+
+  Responsible for:
+  * Investigating which factors are relevant to rewarding, and which are irrelevant.
+  * Using different models to estimate the appropriate weights of reward factors, where applicable.
+  * Running simulations, doing scenario analyses, and running stress tests to find out the effects of reward factors and formulas on performance before implementing them.
+  * Finding out the actual affect on the world of implementing the formulas.
+  * Taking feedback from reasonable people about the effects of the formulas on their motivation and other aspects of life.
+  * Reporting the findings to the main division.
+
+  - Companies
+
+  Main Purpose:
+  * “To ensure that only the best companies utilize the resources, and to enable the new companies to rise.” 
+
+  Responsible for:
+  * Ensuring that uneconomical companies are not funded and economical ones are.
+  * Reviewing performance of companies that were funded and acting accordingly.
+  * Keeping a check on RMs.
+  * Reporting performance of companies funded to the main division.
