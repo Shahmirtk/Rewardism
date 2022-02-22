@@ -1,10 +1,102 @@
-﻿WRMO
+﻿Divisions of WRMO
 
-Resource Allocation
+> Governance
+
+Main Purpose: 
+  * "To govern the managers of Enterprise Risk."
+
+Responsible for:
+  * Setting the goals of the organization.
+  * Setting the risk tolerance of the organization.
+  * Communicating goals and risk tolerance to management.
+  * Providing guidance on achieving goals to management.
+  * Overseeing the whole organization and the world in general.
+  * Rewarding (punishing) better (below) than average performance.
+  * Making adjustments in goals and risk tolerance according to changes.
+
+Ideal Experts:
+  * Experienced Economists
+  * Risk Governance Experts
+  * Experienced Auditors
+  * Experienced Computer Scientists
+  * Experienced Psychologists
+  * Experienced Psychiatrists
+  * Experienced Politicians
+
+>> Public Relations
+
+Main Purpose: 
+  * "To manage the Compatability Risk."
+
+Responsible for: 
+  * Understanding the concerns of each government.
+  * Understanding the concerns of the Governance Division.
+  * Finding the best middle way and reaching reasonable agreements.
+  * Maintaining reputation and goodwill of WRMO in the world. 
+  * Reporting performance, key-decisions, and reasoning, behind decisions taken or to be taken, to the relevant governments.
+
+Ideal Experts: 
+  * Human Psychology Experts
+  * Experienced Psychiatrists
+  * Experienced Politicians
+
+>>> App Development
+
+Main Purpose:
+  * "To manage the Frontend and Backend divisions."
+
+Responsible for:
+  * Understanding the concerns of the backend.
+  * Understanding the concerns of the frontend.
+  * Connecting the backend to the frontend.
+
+Ideal Experts:
+  * Experienced App Developers
+  * Computer Scientists
+  * Cybersecurity Experts
+  * Experienced Project Managers
+
+	� Backend
+
+Main Purpose:
+  * "To manage the Input Risk."
+
+Responsible for:
+  * Setting the structure of each database according to how it is intended to be used.
+  * Gathering data about the various resources available around the world.
+  * Securing the data collected.
+  * Making the data available in a useable form as needed.
+  * Pruning the database.
+  * Establishing control procedures to help with detecting anomolies.
+  * Communicating with Frontend for smoother development of applications.
+
+Ideal Experts:
+  * Database experts
+  * Computer Scientists
+  * Big Data experts
+  * Cybersecurity experts
+
+	� Frontend
+
+Main Purpose:
+  * "To manage the Input Risk."
+
+Responsible for:
+  * Developing state of the art applications for helping people in interacting with the database in a controlled manner.
+  * Taking feedback from users and adjusting the applications accordingly.
+  * Communicating with Backend for smoother development of applications.
+
+Ideal Experts:
+  * Experienced App Developers
+  * Computer Scientists
+  * Cybersecurity Experts
+
+>>> Resource Allocation
 
   Introduction
-    By resource, I mean a fundamental element which is used in the production of a good or the provision of a service. “To which fundamental level must one break down an object to get to this fundamental element?” One might ask. Arguably the building block of the universe, if there is such a thing, is what should be called the resource, as that is what, by definition, every product is made up of, and essentially that is what is being used to provide a service; however, since it is not feasible, at least at the time of writing this, to create any object we wish out of the building block, we have to stop at the level where further breakdown would result in elements which cannot really be used or where further breakdown is not reasonable. Reasonability of breakdown depends on whether the further breakdown of the object is preferrable over the use of the object as it is.
+    By resource, I mean a fundamental element which is used in the production of a good or for the provision of a service. “To which fundamental level must one break down an object to get to this fundamental element?” One might ask. Arguably the building block of the universe, if there is such a thing, is what should be called the resource, as that is what, by definition, every product is made up of, and essentially that is what is being used to provide a service; however, since it is not feasible, at least at the time of writing this, to create any object we wish out of the building block, we have to stop at the level where further breakdown would result in elements which cannot really be used or where further actual, as opposed to conceptual, breakdown is not reasonable. Reasonability of breakdown depends on whether the further breakdown of the object is preferrable over the use of the object as it is.
     Take for example, a computer. A computer is itself a product and can be used to provide a range of services. But the computer is not really a resource as it can be broken down into processor, ram, etc. Those components can then be further broken down, until we have copper, silicon, etc. These elements are the real resources because further breakdown is likely to be irreversible, and because these elements can be used to make not just a computer, but other products. For practical reasons, however, a computer might be considered as a resource if the breakdown of the computer is not reasonable. What fundamental level must be considered, depends on the scenario then. So, when considering the available resources, an economist can think in terms of both the availability of silicon, and the availability of computers.
+    Resource allocation is not limited to the allocation of a resource to the right company, but also to the right cause, and to the right era. Allocation to the right company is necessary because even if you allocate a resource to the right cause and era, the wrong company will not be able to utilize it properly. The right company, then, is that company which knows how to optimally utilize the resource, mainly because of its experience with the same or similar resources and associated projects. The right cause is the highest cause, that which has the highest significance according to its urgency and potential for impact on the world. The right era is the era till which the resource must be preserved, for mainly the reason that the resource is scarce, and earlier consumption will deprive future generations of access to it. Since, with time technology generally improves, it is better to wait for technology to advance enough to utilize the scarce resource optimally.
 
   [Note: Resources mentioned in the explanation of this division refer to the resources of the Rewardist countries, unless mentioned otherwise. Also, the ideal experts are the same in the Resource Allocation division and all its sub-divisions.]
 
@@ -12,11 +104,17 @@ Resource Allocation
   * “To govern the resource allocation process.”
 
   Responsible for:
-  * Identifying the different needs of the world, and then ranking them according to their significance (importance and urgency).
+  * Identifying the different necessities and desires of the world, and then ranking them according to their significance (importance and urgency).
   * Setting the standards for resource allocation such that the meeting of those standards results in resources being optimally utilized.
-  * Communicating the needs identified and the standards set to the leaders of the RMs, and educating them about the best practices of resource allocation.
-  * Communicating with its sub-divisions to get a clear picture of the state of resource allocation process. The state of resource allocation process includes what resources are, or will be, available and where, how resources have been utilized so far, what is the intended future use of resources, the opportunity costs, and how satisfied people are with the services of the RMs.
-  * Further optimizing the resource allocation process after understanding the current state of resource allocation process, and the previous decisions made.
+  * Communicating the different necessities, desires, their respective rankings, and the standards to the leaders of the RMs, and educating them about the best practices of resource allocation.
+  * Communicating with its sub-divisions to get a clear picture of the state of the resource allocation process. This state includes:
+    > what, and where, resources are, or will be, available,
+    > how resources have been allocated, and used so far,
+    > what the results of past allocations are, and whether they are better, equal, or worse than expected,
+    > what the intended future use of resources is,
+    > the opportunity costs, and
+    > how satisfied people and governments are with the services of the RMs.
+  * Further optimizing the resource allocation process according to the analysis and evaluation of the information received from the sub-divisions, while keeping in mind the previous decisions made, and their results.
 
   Ideal Experts:
   * Experienced Economists
@@ -24,40 +122,62 @@ Resource Allocation
   * Experienced Investment Analysts
   * Experienced Stasticians
   * Experienced Programmers
+  * Experienced Project Managers
 
   Sub-divisions:
 
   - Forecasts
 
   Main Purpose:
-  * “To predict the availability of resources in the future by taking into account the rate of usage of the resources.”
+  * “Forecasting the state of the resource allocation process.”
 
   Responsible for:
-  * Estimating the rate of production.
-  * Estimating the rate of consumption.
-  * Estimating the rate of 
-  * Using the estimates and modern forecasting techniques to forecast the availability of resources in the future.
+  * Figuring out what, and where, resources will be available in the future.
+  * Figuring out how resources will be allocated in the future.
+  * Estimating the opportunity costs of future allocations.
+  * Estimating the ratings of people and governments, given to RMs, in the future.
+  * Communicating the findings to the main division—Resource Allocation.
 
-  - Reward Factors & Formulas
+  - Reward Formulas
 
   Main Purpose:
-  * “To identify the relevant factors, and to formulate ideal formulas, for rewarding purposes.”
+  * “To formulate optimal formulas for optimal rewarding.”
 
   Responsible for:
-  * Investigating which factors are relevant to rewarding, and which are irrelevant.
-  * Using different models to estimate the appropriate weights of reward factors, where applicable.
-  * Running simulations, doing scenario analyses, and running stress tests to find out the effects of reward factors and formulas on performance before implementing them.
-  * Finding out the actual affect on the world of implementing the formulas.
+  * Distinguishing the factors relevant to optimal rewarding from the irrelevant ones.
+  * Using different models to estimate the optimal weights of reward factors, where applicable.
+  * Running simulations, doing scenario analyses, and running stress tests to find out the ex ante effects of the formulas on the economy.
+  * Finding out the ex post effects of the formulas on the economy.
   * Taking feedback from reasonable people about the effects of the formulas on their motivation and other aspects of life.
   * Reporting the findings to the main division.
 
   - Companies
 
   Main Purpose:
-  * “To ensure that only the best companies utilize the resources, and to enable the new companies to rise.” 
+  * “To ensure that only the best companies are given access to the resources, and to enable the new companies to rise.” 
 
   Responsible for:
-  * Ensuring that uneconomical companies are not funded and economical ones are.
+  * Ensuring that uneconomical companies are not funded, and economical ones are.
   * Reviewing performance of companies that were funded and acting accordingly.
-  * Keeping a check on RMs.
-  * Reporting performance of companies funded to the main division.
+  * Governing RMs.
+  * Reporting performance of companies funded to the main division, along with the opportunity costs.
+
+>>> Automation
+  (Will work with Accounting division to automate accounting. Will work with rewarding related divisions to automate rewarding. Will keep automation controlled by involving humans.)
+
+	� Accounting
+
+>>> Talent
+
+Main Purpose:
+  * "To help humans realize their true potential."
+
+Responsible for:
+  * Ensuring that the rights of people are not violated by asking people if they were forced to do anything, by reviewing documents about consent, etc. People should not be forced to do a job or relocate to some other place generally speaking, but they can be requested to do so. People also includes the RMs.
+  * Taking feedback from people whether their needs are being fulfilled or not, and what improvements would they like to see.
+  * Understanding the optimal environment specific to each individual and helping them get that environment for helping them achieve optimal performance. Kind of like Master Shifu understanding the best way to train Po.
+
+Ideal Experts:
+  *
+
+>>> R&D
