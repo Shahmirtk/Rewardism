@@ -33,14 +33,14 @@ Responsible for:
   * Understanding the concerns of the Governance Division.
   * Finding the best middle way and reaching reasonable agreements.
   * Maintaining reputation and goodwill of WRMO in the world. 
-  * Reporting performance, key-decisions, and reasoning, behind decisions taken or to be taken, to the relevant governments.
+  * Reporting performance, key-decisions, and reasoning, behind decisions taken or to be taken, to the relevant governments, and to the Governance Division.
 
 Ideal Experts: 
   * Human Psychology Experts
   * Experienced Psychiatrists
   * Experienced Politicians
 
->>> App Development
+>>> Application Development
 
 Main Purpose:
   * "To manage the Frontend and Backend divisions."
@@ -49,19 +49,22 @@ Responsible for:
   * Understanding the concerns of the backend.
   * Understanding the concerns of the frontend.
   * Connecting the backend to the frontend.
+  * Reporting the current, past, and forecasted status of applications to the Public Relations Division.
 
 Ideal Experts:
   * Experienced App Developers
-  * Computer Scientists
+  * Experienced Computer Scientists
   * Cybersecurity Experts
   * Experienced Project Managers
 
-	� Backend
+  Sub-divisions:
 
-Main Purpose:
+  - Backend
+
+  Main Purpose:
   * "To manage the Input Risk."
 
-Responsible for:
+  Responsible for:
   * Setting the structure of each database according to how it is intended to be used.
   * Gathering data about the various resources available around the world.
   * Securing the data collected.
@@ -70,25 +73,25 @@ Responsible for:
   * Establishing control procedures to help with detecting anomolies.
   * Communicating with Frontend for smoother development of applications.
 
-Ideal Experts:
+  Ideal Experts:
   * Database experts
-  * Computer Scientists
+  * Experienced Computer Scientists
   * Big Data experts
   * Cybersecurity experts
 
-	� Frontend
+  - Frontend
 
-Main Purpose:
+  Main Purpose:
   * "To manage the Input Risk."
 
-Responsible for:
+  Responsible for:
   * Developing state of the art applications for helping people in interacting with the database in a controlled manner.
   * Taking feedback from users and adjusting the applications accordingly.
   * Communicating with Backend for smoother development of applications.
 
-Ideal Experts:
+  Ideal Experts:
   * Experienced App Developers
-  * Computer Scientists
+  * Experienced Computer Scientists
   * Cybersecurity Experts
 
 >>> Resource Allocation
@@ -115,13 +118,15 @@ Ideal Experts:
     > the opportunity costs, and
     > how satisfied people and governments are with the services of the RMs.
   * Further optimizing the resource allocation process according to the analysis and evaluation of the information received from the sub-divisions, while keeping in mind the previous decisions made, and their results.
+  * Reporting the current, past, and forecasted status of the resource allocation process to the Public Relations Division.
 
   Ideal Experts:
   * Experienced Economists
   * Experienced Financial Analysts
   * Experienced Investment Analysts
   * Experienced Stasticians
-  * Experienced Programmers
+  * Experienced Computer Scientists
+  * Experienced Data Scientists
   * Experienced Project Managers
 
   Sub-divisions:
@@ -148,7 +153,7 @@ Ideal Experts:
   * Using different models to estimate the optimal weights of reward factors, where applicable.
   * Running simulations, doing scenario analyses, and running stress tests to find out the ex ante effects of the formulas on the economy.
   * Finding out the ex post effects of the formulas on the economy.
-  * Taking feedback from reasonable people about the effects of the formulas on their motivation and other aspects of life.
+  * Taking feedback from reasonable individuals about the appropriateness of the “difficulty level”, the effects of the formulas on their motivation and other aspects of life.
   * Reporting the findings to the main division.
 
   - Companies
@@ -165,7 +170,36 @@ Ideal Experts:
 >>> Automation
   (Will work with Accounting division to automate accounting. Will work with rewarding related divisions to automate rewarding. Will keep automation controlled by involving humans.)
 
-	� Accounting
+  Main Purpose:
+  * “To help manage the Human Risk by controlled automation, and by the use of Expert Systems.”
+
+  Responsible for:
+  * Communicating with the relevant divisions and sub-divisions for understanding the technicalities, and for building the knowledge-base.
+  * Collaborating with the Application Development Division in developing the programs needed for successful management of the Human Risk, and in developing applications in a way that they support automation.
+  * Communicating with the Governance Division and the Public Relations Division to understand where human involvment is necessary, so that automation can be done in a controlled manner.
+  * Ensuring that the guidance from other divisions is accounted for, and that the relevant control procedures are in place for managing risks.
+  * Reporting the current, past, and forecasted status of automation to the Public Relations Division.
+
+  Ideal Experts:
+  * Experts of AI
+  * Experienced Computer Scientists
+  * Experienced Data Scientists
+
+  Sub-divisions:
+
+  - Accounting
+
+  Main Purpose:
+  * “To add relevant information about accounting to the knowledge-base.”
+
+  Responsible for:
+  * Understanding the latest standards, research, and developments in the accountancy field.
+  * Updating the knowledge-base with the latest knowledge.
+  * Answering the queries of other divisions and sub-divisions regarding accountancy.
+
+  Ideal Experts:
+  * Experienced Accountants
+  * Experienced Auditors
 
 >>> Talent
 
@@ -173,11 +207,15 @@ Main Purpose:
   * "To help humans realize their true potential."
 
 Responsible for:
-  * Ensuring that the rights of people are not violated by asking people if they were forced to do anything, by reviewing documents about consent, etc. People should not be forced to do a job or relocate to some other place generally speaking, but they can be requested to do so. People also includes the RMs.
-  * Taking feedback from people whether their needs are being fulfilled or not, and what improvements would they like to see.
-  * Understanding the optimal environment specific to each individual and helping them get that environment for helping them achieve optimal performance. Kind of like Master Shifu understanding the best way to train Po.
+  * Getting people the necessities of life, and enabling them to earn the luxuries of life.
+  * Taking feedback from people whether their needs are being fulfilled or not, and what improvements would they like to see, and reporting the feedback to the Public Relations Division.
+  * Understanding the optimal environment specific to each individual and helping them get that environment to help them perform optimally; kind of like Master Shifu understanding the best way to train Po.
+  * Preventing the violation of the rights of people.
+  * Highlighting any violation of the rights of people by asking them if they were forced to do anything, reviewing documents about consent, etc., and reporting the findings to the Public Relations Division. People should not be forced to do anything, generally speaking, but they can be requested to do so. People also includes the people working in the WRMO.
+  * Recording the performance of supervised talent.
+  * Reporting the current, past, and forecasted performance of supervised talent.
 
 Ideal Experts:
-  *
-
->>> R&D
+  * Experienced Psychologists
+  * Experienced Psychiatrists
+  * Experienced Human Resource Managers
