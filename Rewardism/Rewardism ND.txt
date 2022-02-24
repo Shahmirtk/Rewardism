@@ -3,24 +3,39 @@
 > Governance
 
 Main Purpose: 
-  * "To govern the managers of Enterprise Risk."
+  * "To govern ‘Enterprise Risk Management’."
 
 Responsible for:
+  * Setting the optimal work culture of the organization.
   * Setting the goals of the organization.
   * Setting the risk tolerance of the organization.
-  * Communicating goals and risk tolerance to management.
-  * Providing guidance on achieving goals to management.
-  * Overseeing the whole organization and the world in general.
-  * Rewarding (punishing) better (below) than average performance.
-  * Making adjustments in goals and risk tolerance according to changes.
+  * Communicating the goals and the risk tolerance of the organization to management.
+  * Providing guidance on achieving the goals to management.
+  * Overseeing the whole organization and the world in general, including understanding the concerns of leaders, and helping them solve their significant problems.
+  * Rewarding (punishing) above (below) average performance.
+  * Making adjustments in goals and risk tolerance as the conditions change.
+  * Enabling whistleblowers to highlight key problems in the organization.
 
 Ideal Experts:
   * Experienced Economists
-  * Risk Governance Experts
+  * Experienced Statisticians
+  * Experienced Financial Analysts
+  * Experienced Investment Analysts
+  * Enterprise Risk Management Experts
+  * Experienced Project Managers
   * Experienced Auditors
+  * Experienced Accountants
   * Experienced Computer Scientists
+  * Cybersecurity Experts
+  * Experienced Application Developers
+  * Database Experts
+  * BigData Experts
+  * Experienced Data Scientists
+  * AI Experts
   * Experienced Psychologists
   * Experienced Psychiatrists
+  * Experienced Human Resource Managers
+  * Experienced Teachers
   * Experienced Politicians
 
 >> Public Relations
@@ -32,18 +47,19 @@ Responsible for:
   * Understanding the concerns of each government.
   * Understanding the concerns of the Governance Division.
   * Finding the best middle way and reaching reasonable agreements.
-  * Maintaining reputation and goodwill of WRMO in the world. 
-  * Reporting performance, key-decisions, and reasoning, behind decisions taken or to be taken, to the relevant governments, and to the Governance Division.
+  * Maintaining a high reputation and goodwill of the WRMO in the world. 
+  * Reporting performance, key-decisions, and reasoning behind decisions taken or to be taken, to the relevant governments, and to the Governance Division.
 
 Ideal Experts: 
-  * Human Psychology Experts
+  * Experienced Psychologists
   * Experienced Psychiatrists
+  * Experienced Human Resource Managers
   * Experienced Politicians
 
 >>> Application Development
 
 Main Purpose:
-  * "To manage the Frontend and Backend divisions."
+  * "To manage the Input Risk."
 
 Responsible for:
   * Understanding the concerns of the backend.
@@ -52,8 +68,10 @@ Responsible for:
   * Reporting the current, past, and forecasted status of applications to the Public Relations Division.
 
 Ideal Experts:
-  * Experienced App Developers
+  * Experienced Application Developers
   * Experienced Computer Scientists
+  * Database Experts
+  * BigData Experts
   * Cybersecurity Experts
   * Experienced Project Managers
 
@@ -62,32 +80,34 @@ Ideal Experts:
   - Backend
 
   Main Purpose:
-  * "To manage the Input Risk."
+  * "To help the main division—Application Development—manage the Input Risk."
 
   Responsible for:
   * Setting the structure of each database according to how it is intended to be used.
-  * Gathering data about the various resources available around the world.
+  * Collecting data relevant to the organization.
   * Securing the data collected.
-  * Making the data available in a useable form as needed.
   * Pruning the database.
-  * Establishing control procedures to help with detecting anomolies.
-  * Communicating with Frontend for smoother development of applications.
+  * Making the data available in a useable form as needed.
+  * Establishing control procedures to help detect anomolies.
+  * Collaborating with Frontend in the development of applications.
+  * Reporting relevant information to the main division.
 
   Ideal Experts:
-  * Database experts
+  * Database Experts
   * Experienced Computer Scientists
-  * Big Data experts
-  * Cybersecurity experts
+  * BigData Experts
+  * Cybersecurity Experts
 
   - Frontend
 
   Main Purpose:
-  * "To manage the Input Risk."
+  * "To help the main division manage the Input Risk."
 
   Responsible for:
-  * Developing state of the art applications for helping people in interacting with the database in a controlled manner.
+  * Developing state of the art applications for helping people interact with the database in a controlled manner.
   * Taking feedback from users and adjusting the applications accordingly.
   * Communicating with Backend for smoother development of applications.
+  * Reporting relevant information to the main division.
 
   Ideal Experts:
   * Experienced App Developers
@@ -207,15 +227,16 @@ Main Purpose:
   * "To help humans realize their true potential."
 
 Responsible for:
-  * Getting people the necessities of life, and enabling them to earn the luxuries of life.
+  * Collaborating with other divisions in optimizing the whole process of the provision of necessities to the people, so that people can focus on their life, instead of wasting time on mere survival related activities.
   * Taking feedback from people whether their needs are being fulfilled or not, and what improvements would they like to see, and reporting the feedback to the Public Relations Division.
   * Understanding the optimal environment specific to each individual and helping them get that environment to help them perform optimally; kind of like Master Shifu understanding the best way to train Po.
   * Preventing the violation of the rights of people.
-  * Highlighting any violation of the rights of people by asking them if they were forced to do anything, reviewing documents about consent, etc., and reporting the findings to the Public Relations Division. People should not be forced to do anything, generally speaking, but they can be requested to do so. People also includes the people working in the WRMO.
-  * Recording the performance of supervised talent.
-  * Reporting the current, past, and forecasted performance of supervised talent.
+  * Highlighting any violation of the rights of people by asking them if they were forced to do anything, reviewing relevant documents, and reporting the findings to the Public Relations Division. People should not be forced to do anything, generally speaking, they can only be requested to do so. Exceptions can be made for army officers, and similar professionals. People also includes the people working in the WRMO.
+  * Recording the performance of the supervised talent.
+  * Reporting the current, past, and forecasted performance of supervised talent to the Public Relations Division.
 
 Ideal Experts:
   * Experienced Psychologists
   * Experienced Psychiatrists
   * Experienced Human Resource Managers
+  * Experienced Teachers
