@@ -1,5 +1,8 @@
-﻿<Deployment> People respect authority, strength, wisdom, prudence, maturity, age and wealth. {basis for respectable position holders' selection} 
-<Deployment> Consent of the affected parties should be taken to get their support.
-<Deployment> • What if the RPs of countries under debt are not accepted by their creditors, perhaps because of fear of deterioration? A: Five years after the initial payment against debt, if the value of the currency deteriorates, then, a balancing figure will be paid to account for the deterioration. For example, if the total on a country A amounts to 1M RPAs, the initial payment would be 1M RPAs; after five years, if RPAs are worth 93% of what they were worth initially, then, a balancing figure of 70,000 RPAs would be paid to the creditor.
+﻿<Deployment> 
+
+• What if the RPs of countries under debt are not accepted by their creditors, perhaps because of fear of deterioration?
+A: Five years after the initial payment against debt, if the value of the currency deteriorates, then, a balancing figure will be paid to account for the deterioration. For example, if the total on a country A amounts to 1M RPAs, the initial payment would be 1M RPAs; after five years, if RPAs are worth 93% of what they were worth initially, then, a balancing figure of 70,000 RPAs would be paid to the creditor.
   Keep in mind that this new system, with its new features and further tweaks by experts, is likely to outperform the economic system in place before it. This means that the value of the RPs of a country, be it an under-developed country, are likely to increase. So, the creditors are likely to be better off with getting payments in the form of RPs, as compared to the origincal currency of a country. This is because their “investment” is likely to appreciate in value over time.
+
+</Deployment>
 
