@@ -6,6 +6,5 @@
   4. An Overview of Rewardism
   5. Q&A
   6. Risks and Control Procedures
-  7. The Human Resource
-  8. Deployment
-  9. Why Rewardism
+  7. Deployment
+  8. Why Rewardism
