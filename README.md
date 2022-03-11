@@ -1,6 +1,6 @@
 ﻿Rewardism
 ----
-  1. The Philosophy Behind it All
+  1. First Principles
   2. Communism
   3. Capitalism
   4. An Overview of Rewardism
