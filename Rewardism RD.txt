@@ -1,14 +1,20 @@
-﻿<Deployment> 
+﻿! := Relevant to Chapter 7: Deployment
 
-• What if the RPs of countries under debt are not accepted by their creditors, perhaps because of fear of deterioration?
+! Keep the Explanation of Rewardism in mind when writing. Explain why you made Rewardism this way, and not some other way.
+! People might not trust this digital currency: People like Elon, Bill, etc., if convinced, can influence people who trust them to trust this digital currency.
+! Seems like a scam, doesn't feel very practical: Discuss with professionals and refine it. They can then give people assurance that this is no scam. Government support can help too.
+! Erasing debt of people feels unfair to those without debt: Think of it like being either sick, normal or very healthy. Treating the sick to make them normal is not really unfair to those who are already normal or very healthy. Those who are given the RPs for the debt owed to them are just being given what they were owed, so it's not a point of concern.
+! People might try to exploit the debt-reward scenario: Need sound proof of outflow and inflow of economic benefit. In absence of reliable evidence, further investigation is due before debt can be cleared. In case of significant doubt, no RPs will be given. This risk is high among individuals, especially from village due to lack of bank statements availability. Can consider jirga or similar thing there. First all assets of the debtor must be sold to meet the cost. Any remaining amount will be forgiven. Debtor will effectively be brought to 0 from negative. Creditor will be fully compensated. Records should be kept for audits.
+! Inflation problem: too many RPs might be in circulation after erasing debt; debt-erasing might cause the value of RPs to drop significantly.
+! Potential use of Distributed Ledger Technology: tokenization for asset ownership verification, streamlined transaction processes, immutable historical records...
+! Not every country will accept Rewardism right away, some will want to see its effects on those who adopt it, while others would lead the way. For Rewardism to spread, it has to prove how effective it is in those leaders.
+! A document should clearly dictate what level of control the WRMO will have in the relevant Rewardist country. It should clearly distinguish between the roles and powers of the two governments.
+! What if the RPs of countries under debt are not accepted by their creditors, perhaps because of fear of deterioration?
 A: Five years after the initial payment against debt, if the value of the currency deteriorates, then, a balancing figure will be paid to account for the deterioration. For example, if the total on a country A amounts to 1M RPAs, the initial payment would be 1M RPAs; after five years, if RPAs are worth 93% of what they were worth initially, then, a balancing figure of 70,000 RPAs would be paid to the creditor.
   Keep in mind that this new system, with its new features and further tweaks by experts, is likely to outperform the economic system in place before it. This means that the value of the RPs of a country, be it an under-developed country, are likely to increase. So, the creditors are likely to be better off with getting payments in the form of RPs, as compared to the origincal currency of a country. This is because their “investment” is likely to appreciate in value over time.
 
-</Deployment>
+! <From Older ND>
 
-<From Older ND>
-
-<Deployment>
 what is the best way to establish this new system? Ideally, there should be no loss of life or resource; whoever loses control over his/her property (including any business) should be given a reasonable amount of reward points in return. Basically, justice should be a top priority. Please think about the best way yourself before reading my suggestion. That way you can compare the two and hopefully, bring further improvement.
 Is it not possible that I am unaware of some flaws in my reasoning? Perhaps what I consider best for everyone or what I think is advancement of us humans might actually be the reason for our downfall and misery; is that not possible? How can I ensure my reasoning is as free of flaws as possible? The answer is 'constructive criticism' - not just finding the fallacies in others’ arguments but also appreciating criticism of my own ideas and arguments, and acknowledging the fact that there can be flaws in my reasoning too. Does it not make more sense to actually question what I consider 'best', to understand different opinions and to allow constructive criticism, before we put in the effort to bring about that change? I must not let dogma, peer pressure, traditions or any emotional factor cloud my judgement. So, the initial stage would be the understanding and criticizing of Rewardism by the well-educated, and wise ones.
   Before you make an investment, start a career, or take any important decision, what is it that you do so carefully? Assuming that you take such decisions responsibly, you first carry out an in-depth analysis of whatever data is available and evaluate it; you consider as many possibilities as you can and you weigh your options; you think about all the ways it can go wrong; in other words, you try to understand every significant thing relating to the task at hand, especially the relevant consequences, and you do this as objectively as you can. So, in the preliminary stage you have to understand everything relating to the system, how to establish it, and the different consequences of establishing it. By now, I hope you have a good understanding about the importance of establishing the reward-based decision and about the weaknesses of the money-based system.
@@ -26,31 +32,16 @@ Is it not possible that I am unaware of some flaws in my reasoning? Perhaps what
   The executors should not be left on their own, rather, they must provide their managers with all the necessary evidence of the work they have done, and they must update the managers about the work they intend to do. The managers should only accept the evidence if they have reasonable assurance that it is sufficient and appropriate, and they must authorize the workers only if the work to be done falls in line with the current plan. The overseers should be provided with the relevant evidence on a timely basis by the managers so that they can take the necessary action on time. If the plan is executed successfully and the overseers are convinced that the new system has been deployed properly, then there should be a final generous reward for everyone who contibuted, in proportion to their contributions.
   So, what should the document explaining the plan include? Even though this planning is a complicated task which requires the joint effort of many experienced intellectuals, I would like to contribute too. The document should clearly explain the process of hiring the executors of the plan. Specifics like education, experience, character etc. should be specified. Their salaries & rewards should be set before the hiring process, though, some flexibility should be possible during the process. The nature of job, working hours, meetings, appraisal, etc., should be explained too. Clearly explaining all these points should help ensure that the right people are hired and that they are properly informed and motivated.
   Accounts of all entities of a Rewardist country should be made. The assets of all entities should be recorded in their respective asset registers. Each assets value in RPs should simply be what its value is in the original currency, as initially, the RP of each country should be pegged to the currency of that country.
-  Think about the weaknesses or risks associated with this reward-based system. What are the threats to the establishment of this system? 
-</Deployment>
-
-<Why Rewardism>
-I would like you to compare the money-based system with the perfect economic system that I have hopefully created clearly in your mind. Carefully analyse how the two are different and why there are such differences.
-If these needs are accounted for successfully, child mortality rate should decrease and the physical and mental health of the population should improve generally. If you are properly educated, you are more likely to advance to great heights because you are more likely to understand what great heights are and their importance and also how to get there.
-I want you to imagine what such a system should be like, what must change in the present system, and what kind of world do you want to live in with your loved ones? More importantly think about ‘why’ such changes are necessary.
-‘If you have your Why? of life, you can put up with just about any How?’ - Friedrich Nietzsche
-If you humans understand why you want to struggle and put in the effort to achieve something, you can put up with just about any difficulty or problem, however, if no convincing cause is there, you will not find it worth achieving and thus, it will become very difficult for you to achieve it. Another factor that plays an important role in achieving just about anything is hope, because even if you know why something has to change but have no hope of achieving it, you are unlikely to put in the necessary effort; without hope you are most likely to think ‘what is the point of all my effort, people do not change, nothing will change’. Having a reason and hope to change the world to make it worth living in will help you greatly in bringing about that change.
-  As this should be the base standard of living of everyone, nobody should be left out because of factors like his/her financial status, gender, ethnicity, religion etc. deal with this weakness in such a way that its benefits such as how it incentivizes productivity and innovation are retained; ‘Don’t throw the baby with the bathwater’, if you may. After all, if you get rid of money completely, how will you differ between those who do meaningful work and those who do not care?
-  Such a currency is unlikely to cause people to become immoral because achieving it through a dishonest manner is going to be very difficult and not without consequences; rather, it is likely to cause people to do more meaningful work for maintaining and improving the world. I do not see how it would be easy to bribe someone or do corruption in this system, especially because these activities rely heavily on transferring and hiding money; similarly, money laundering would become impossible as it is really the act of hiding the source of money. Though I know you humans, you will still find a way; nevertheless, the wise must strive to prevent evil.
-  And what better resource than an intellectual? It is also said that a very wise and famous scientist among you, Mr. Albert Einstein, considered himself as a world citizen. Here, let me help you peek into his interview, by George Sylvester Viereck, through this excerpt of The Saturday Evening Post:
-  “ Do you look upon yourself as a German
-or as a Jew?"
-  “ It is quite possible," Einstein replied,
-“to be both. I look upon myself as a man.
-Nationalism is an infantile disease.   It is
-the measles of mankind."
-  ‘But what does globalization have to do with helping countries drowning in debt?’, you ask? Ask yourself: ‘Can your left hand owe anything to your right hand? Can your body function optimally if some part of it is denied energy or very important nutrients?’ To really understand the importance of true globalization, you must consider the whole world and all the conscious beings as a single entity; then, you should understand how the suffering of even the smallest part of it is sad and wrong; then, you should realize how much the success of others is important for your own success.
-  To better understand this point, take the most developed country in the world and consider the whole world to be that one country, just with access to more resources. The reward-based system deals with the negative side of consumerism easily because ideally, only meaningful work is rewarded. Considering the preciousness of reward points and the unavailability of meaningless services & products, you humans wasting your hard-earned reward points seems unlikely to me. Furthermore, the resources managers must try their best to minimize excessive consumption, so that the maximum number of people can benefit from the limited resources.
-</Why Rewardism>
+  Think about the weaknesses or risks associated with this reward-based system. What are the threats to the establishment of this system?
 
 </From Older ND>
 
-# := Relevant to Chapter 8: Why Rewardism.
+***
+
+# := Relevant to Chapter 8: Why Rewardism
+
+Approach:
+# Write why people with different levels of wealth and different entities would want Rewardism implemented from their PoV.
 
 Purpose of economic system:
 # The total wealth/resources of the world are finite and no man can increase that really. The task of the economist is then to utilize and spread these resources and this wealth in the best possible way.
@@ -83,4 +74,25 @@ Erasing debt:
   ->	Some professions are difficult or expensive to learn. 
   ->	Some trades are seasonal. 
   ->	Earnings are higher in trades that require a large degree of trust (doctors, lawyers, etc.).
-  ->	Earnings reflect the probability of success in any profession (rarity and beauty of talents in professions like acting, singing, etc.).  
+  ->	Earnings reflect the probability of success in any profession (rarity and beauty of talents in professions like acting, singing, etc.). 
+
+# <From Older ND>
+
+I would like you to compare the money-based system with the perfect economic system that I have hopefully created clearly in your mind. Carefully analyse how the two are different and why there are such differences.
+If these needs are accounted for successfully, child mortality rate should decrease and the physical and mental health of the population should improve generally. If you are properly educated, you are more likely to advance to great heights because you are more likely to understand what great heights are and their importance and also how to get there.
+I want you to imagine what such a system should be like, what must change in the present system, and what kind of world do you want to live in with your loved ones? More importantly think about ‘why’ such changes are necessary.
+‘If you have your Why? of life, you can put up with just about any How?’ - Friedrich Nietzsche
+If you humans understand why you want to struggle and put in the effort to achieve something, you can put up with just about any difficulty or problem, however, if no convincing cause is there, you will not find it worth achieving and thus, it will become very difficult for you to achieve it. Another factor that plays an important role in achieving just about anything is hope, because even if you know why something has to change but have no hope of achieving it, you are unlikely to put in the necessary effort; without hope you are most likely to think ‘what is the point of all my effort, people do not change, nothing will change’. Having a reason and hope to change the world to make it worth living in will help you greatly in bringing about that change.
+  As this should be the base standard of living of everyone, nobody should be left out because of factors like his/her financial status, gender, ethnicity, religion etc. deal with this weakness in such a way that its benefits such as how it incentivizes productivity and innovation are retained; ‘Don’t throw the baby with the bathwater’, if you may. After all, if you get rid of money completely, how will you differ between those who do meaningful work and those who do not care?
+  Such a currency is unlikely to cause people to become immoral because achieving it through a dishonest manner is going to be very difficult and not without consequences; rather, it is likely to cause people to do more meaningful work for maintaining and improving the world. I do not see how it would be easy to bribe someone or do corruption in this system, especially because these activities rely heavily on transferring and hiding money; similarly, money laundering would become impossible as it is really the act of hiding the source of money. Though I know you humans, you will still find a way; nevertheless, the wise must strive to prevent evil.
+  And what better resource than an intellectual? It is also said that a very wise and famous scientist among you, Mr. Albert Einstein, considered himself as a world citizen. Here, let me help you peek into his interview, by George Sylvester Viereck, through this excerpt of The Saturday Evening Post:
+  “ Do you look upon yourself as a German
+or as a Jew?"
+  “ It is quite possible," Einstein replied,
+“to be both. I look upon myself as a man.
+Nationalism is an infantile disease.   It is
+the measles of mankind."
+  ‘But what does globalization have to do with helping countries drowning in debt?’, you ask? Ask yourself: ‘Can your left hand owe anything to your right hand? Can your body function optimally if some part of it is denied energy or very important nutrients?’ To really understand the importance of true globalization, you must consider the whole world and all the conscious beings as a single entity; then, you should understand how the suffering of even the smallest part of it is sad and wrong; then, you should realize how much the success of others is important for your own success.
+  To better understand this point, take the most developed country in the world and consider the whole world to be that one country, just with access to more resources. The reward-based system deals with the negative side of consumerism easily because ideally, only meaningful work is rewarded. Considering the preciousness of reward points and the unavailability of meaningless services & products, you humans wasting your hard-earned reward points seems unlikely to me. Furthermore, the resources managers must try their best to minimize excessive consumption, so that the maximum number of people can benefit from the limited resources.
+
+</From Older ND>
