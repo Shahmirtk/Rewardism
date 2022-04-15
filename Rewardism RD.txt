@@ -3,6 +3,9 @@
 Approach:
 # Write why people with different levels of wealth and different entities would want Rewardism implemented from their PoV.
 # Keep the Explanation of Rewardism in mind when writing. Explain why you made Rewardism this way, and not some other way.
+# Take the cons of both Capitalism and Communism, and explain how Rewardism deals with them.
+# Take the pros of both Capitalism and Communism, and explain how Rewardism accounts for them.
+# Ask reader to imagine a world without a need for money in order to fulfill basic needs, and being rewarded reward points. How that would be better and what problems could arise. Why reward points necessary, why differentiation needed, how reward points would not give rise to (or reduce the possibility of) corruption, and be a cause for great effects (explain how rewarding reward points will act as a cause for promotion of important activities), how it will address the problem of lack of motivation to work hard, and it would differentiate between those working hard and those who do not care about the society, why basic needs should be fulfilled for free, why transparency in transactions and sources of reward points is necessary (increased authenticity and value of reward points); in order to ensure no one tries to get the reward points illegally. (Explain benefits- purity, less possibility of making bad decisions/corruption, more focused on important things like research and protecting the environment and important resources, making new inventions to help the society, compatible with AI taking over humans’ jobs, easy to manipulate the general public in to doing things in the best interest of everyone by setting the reward points available accordingly.) Explain how deep the benefits of this system go by explaining the long-term effects. (Increase in the “deepness” of mankind. Not worrying about trivial things like survival and accumulating wealth; instead focusing on growth and actually living. *Mention reaching different galaxies, living in harmony, and finding true wealth: knowledge.)
 
 Purpose of economic system:
 # The total wealth/resources of the world are finite and no man can increase that really. The task of the economist is then to utilize and spread these resources and this wealth in the best possible way.
@@ -11,6 +14,9 @@ Purpose of economic system:
 Real wealth:
 # "Labour remains the real price: money prices are just nominal prices. We buy in from others things that it would cost us more toil and trouble to do for ourselves. The real wealth that we obtain from exchanging with others is their labor, not their money." {use this quote for promoting the idea that money is not important but people and their activities so if we can promote good activities using reward-based system it would be better than people doing weird stuff to get money}  
 # Money is a utensil, just like pots and pans. The fact that wealth and money are separate things can be shown quite easily. After all, a person who receives a guinea of income today may spend that same guinea tomorrow, thus providing the income of a second; and that person may spend the same guinea on the next day, providing the income of a third. So, the amount of money in circulation is clearly much less than the total income of the nation. National income is the quantity of goods bought and sold, not the metal pieces that happen to be used to facilitate the exchange of that product. {highlight significance of activity over money} 
+
+COMPARISON WITH UBI:
+#Give reference to UBI (Kurzgesagt’s video about it); how your concept is different from it, the possible problems with UBI and how your concept can deal with those problems: money would mean possibility of spending on unnecessary goods, the root problem still would exist _ money corrupting and causing impurity.
 
 Human nature (against cynicism):
 #�How selfish soever man may be supposed, there are evidently some principles in his nature, which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it, except the pleasure of seeing it.� - The Theory of Moral Sentiments
@@ -21,31 +27,27 @@ Against profligacy:
 # The first remedy for self-neglect and profligacy is the study of science and philosophy. The second is to amuse and divert people by promoting the arts. {on the significance of art, science and philosophy} => Explain how to deal with very high buying power and demand.
 
 Directing:
-# �The sovereign is completely discharged from a duty [for which] no human wisdom or knowledge could ever be sufficient; the duty of superintending the industry of private people, and of directing it towards the employments most suitable to the interest of the society.� {on the significance of liberty and non-interference} => Explain how it is possible to direct it towards the employments most suitable to the interest of the society
+# �The sovereign is completely discharged from a duty [for which] no human wisdom or knowledge could ever be sufficient; the duty of superintending the industry of private people, and of directing it towards the employments most suitable to the interest of the society.� {on the significance of liberty and non-interference} => Explain how it is possible to direct it towards the employments most suitable to the interest of the society, and why the government shouldn’t interfere.
 
 Repaying debt:
 # So capital is being transferred from people who have a keen interest in using it productively to those, mere creditors, who have no interest in the condition of land or the good management of the capital stock at all. <Move to Cons of Capitalism?>
 # Repaying debt of people feels unfair to those without any debt obligation: Think of it like being either sick, normal or very healthy. Treating the sick to make them normal is not really unfair to those who are already normal or very healthy. Those who are given the RPs for the debt owed to them are just being given what they were owed, so it's not a point of concern.
 
 The Capital Gains Problem:
-#Problem at Hand: People can just buy assets they think will rise in value, and sell when their value rises, making income by just benefiting from the change in price. In other words, making RPs without actually putting in any effort.
-
-#Solution: 
-- If an individual buys an asset A for 100M RPs, and sells it after 1 year for 200M RPs, but the rate of inflation is only 10%, then the individual only gets 110M RPs in their account, and the buyer gets 200M RPs deducted. This is likely to prevent people from selling assets at excessively high prices without any real increase in value.
-- In the case of companies, if a company had bought the same asset A, but also made improvements worth 10M RPs, and sold it for 200M RPS. The company would have gotten 110 + (10M * Relevant Factor (e.g., 1.2)) = 122M RPs. These would then be distributed to the owners of the company.
+#Problem at Hand: People can just buy assets they think will rise in value, and sell when their value rises, making income by just benefiting from the change in price. In other words, making RPs without actually putting in any effort. At this point, we must be aware of two significant risks: Bribery; and money-laundering. Consider the following example:
+  A person X wants to bribe Y—a key decision-maker. Y has a painting that he bought for just $20. Without proper control procedures in place to manage the risk of money-laundering or bribery, the painting could be revalued at $20M. X could buy the asset from Y, and Y would, rightfully, get the 20 million. Interestingly, this would be recorded as a legitimate transaction in the accounts of both X, and Y.
+  This highlights the danger of a lack of appropriate control procedures. 
+#Why no CG:
 - The reason for putting a cap is to prevent the unnecessary increase in price of assets, and to prevent people from making money without putting in any real effort.
 - So long as risk is concerned for companies, this is not that significant anymore as pseudo-debt is involved, and not the owners' own money.
 - So long as risk is concerned for individuals, they ought to transfer this risk to more experienced companies, and earn RPs through more reliable and valuable methods.
+- Just like no one should be able to reward themselves, likewise, no one should be able to value their own assets. This applies to authorized professional valuers as well. This is necessary to deal with the significant threat to objectivity. Also, this is likely to help us avoid the problems associated with behavioral biases like “Endowment Bias”—ascribing more value to assets already owned, and “Anchoring Bias”—clinging to arbitrary price levels.
 
 The Conversion From Non-Rewardist Country Problem:
 #What Exactly The Restrictions Are: Mainly, can't do anything that results in income without doing anything *valuable*, and can't allow the problems of debt to rise again.
-
 #Why These Restrictions: No debt related problems if no such thing as debt. Besides, companies already get pseudo-debt, which shall be enough for meeting expenses. So, there is no need for debt. People don't need debt, because there's the concept of Installments/Rent for more expensive assets, and their necessities are accounted for freely. A share in a company's income is what you deserve for putting in the effort, and for starting the company in the first place, or simply for your idea. With no need for funding from investors, there would be no need to put up a share on a stock market. You can't just buy a share of a company you didn't start. Does it not make sense that people's *Rewards* should increase only by an activity that is *worth rewarding*?
-
 #The Problem at Hand: People can just move to a non-Rewardist country, earn income in the old and unchanged environment, and effectively convert that money to RPs. Similar case with companies. People can also avoid losing inheritance by moving to a non-Rewardist country.
-
 #Why This is a Problem: You're trying to restrict people to get wealthy only by doing valuable things. In other words, you're trying to prevent people from being *rewarded* for activities *not worth rewarding*. But they can just avoid those restrictions in non-Rewardist countries, and come back later; making the restrictions meaningless, more or less. You're trying to prevent people from getting wealth they haven't really earned. But they can just get their wealth in another country.
-
 #Possible Solutions: 
 Basically, the solution is that we're interested in *how* you earned the money you're trying to convert, or how you received the asset you're trying to get registered. If you can prove its fairness, and we are satisfied, we will allow you to convert the money, or get the asset registered.
 - I will have to discuss with the pros how to solve this problem. 
@@ -67,6 +69,21 @@ The One Mango Tree
 # Seperation of responsibilities will allow both (government and WRMO) to focus on their specific ones and better perform.
 # The WRMO as a platform for Economists to control the economy. 
 # Shifted focus from revenue to activity.
+# Mention that Economics, while some aspects of it being rationalist, is more or less, an empirical field. So, the true effects of Rewardism can only be known from empirical evidence, and shall be tuned accordingly.
+# Not using personal capital, so willing to take higher risks, and managers can a lot some time for the company to recover. With own capital, people might not want to face losses, so, good companies in difficult times might not live to recover. More support by the WRMO can lead to improvements in the supply chain, as suppliers would expect the company to continue.
+# Activity: One café sells 100 cups, another sells 30. One makes revenue of 100, other makes a revenue of 120. Higher activity is that of 100, not 120 one.
+# Utility: If the reviews of the 100 one are better than that of 30 one, then the utility of 100 one is more.
+# Would’ve completely removed inheritance but this might be too big of a sudden change. Maybe later in future we can bring a new patch that removes the feature of inheritance. Main purpose of removing it is to ensure assets are with those who have rightfully earned them or can best utilize them.
+# *Explain how your method differs from the Communists in the sense that we are not going at war against the bourgeoisie but against the old ways and so asking for the help of the bourgeoisie in doing so.
+
+# Decent wages are essential for the well-being of labourers and their families. But to pay decent wages is in the interests of employers, too. When wages are high, workers are better fed and stronger. They also have the prospect of saving and improving their condition, which makes them more inclined to work diligently. And when workers are given sufficient rest, they are likely to be healthier and more productive. {link this with the significance of rewarding generously, and how Rewardism helps avoid drastically low levels of income}
+# Some countries have attempted to outlaw the lending of money at interest. But this has simply increased the evil of usury, rather than preventing it. People still want to borrow money, but now they have to pay not just the interest, but a premium for the risk that the creditor runs in lending illegally. {how Rewardism deals better with the problems of debt}
+# Indeed, the system of perfect liberty leaves the state only three duties to attend to: defence, justice and certain public works. {Contrast the role of government with that of the WRMO, and how this is beneficial.}
+# “The affluence of the rich excites the indignation of the poor, who are often both driven by want, and prompted by envy, to invade his possessions. It is only under the shelter of the civil magistrate that the owner of that valuable property, which is acquired by the labour of many years, or perhaps of many successive generations, can sleep a single night in security.” {on the significance of security of property, and the role of the government}
+# “Civil government, so far as it is instituted for the security of property, is in reality instituted for the defence of the rich against the poor, or of those who have some property against those who have none at all.” <-- does not mean it is a bad system, for people to accumulate capital, they must have confidence that their property, which may take years of effort to acquire, will not be stolen from them. And this capital accumulation is essential for economic growth.
+# “Public services are never better performed than when their reward comes in consequence of their being performed, and is proportioned to the diligence employed in performing them.” <Link to reward-based system.>
+# Private capitals would certainly suffer greatly if all the costs of a war had to be raised through tax rises at the time (though it might make wars shorter, less popular, and less likely to happen). {possible reasons for war: lending, interest, profits... remedy: taxation}
+# what is in it for the normal: chance to truly enjoy their life and reach their max potential, compensated for their assets by giving them reward points likewise. -why should leaders of nations decide to adopt this system and become one with the international nation: access to resources from around the globe and a better and well-thought-out system with international support and standards;
 
 # <Public Officals> �The endowments of schools and colleges have necessarily diminished more or less the necessity of application in the teachers Their subsistence [is] altogether independent of their success and reputation in their particular professions� {on the significance of performance-based rewards} 
 # <Public Officals>  �... and it has, I am afraid, been too common for vessels to fit out for the sole purpose of catching, not the fish, but the bounty.� <this is particularly relevant to setting the reward appropriately>
@@ -76,9 +93,6 @@ The One Mango Tree
   ->	Some trades are seasonal. 
   ->	Earnings are higher in trades that require a large degree of trust (doctors, lawyers, etc.).
   ->	Earnings reflect the probability of success in any profession (rarity and beauty of talents in professions like acting, singing, etc.). 
-
-# Mention that Economics, while some aspects of it being rationalist, is more or less, an empirical field. So, the true effects of Rewardism can only be known from empirical evidence, and shall be tuned accordingly.
-# Not using personal capital, so willing to take higher risks, and managers can a lot some time for the company to recover. With own capital, people might not want to face losses, so, good companies in difficult times might not live to recover. More support by the WRMO can lead to improvements in the supply chain, as suppliers would expect the company to continue.
 
 # <From Older ND>
 
