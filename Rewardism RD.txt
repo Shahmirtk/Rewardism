@@ -3,100 +3,35 @@
 [
 Approach:
 # Keep the Explanation of Rewardism in mind when writing. Explain why you made Rewardism this way, and not some other way.
-# Take the cons of both Capitalism and Communism, and explain how Rewardism deals with them.
-# Take the pros of both Capitalism and Communism, and explain how Rewardism accounts for them.
 # Write why the two classes would want Rewardism implemented, from their PoV. There being two groups of people sitting in front of you in an auditorium, the reader sitting in the group relevant to him. Start by adressing the small group of people, the “ruling class.” Explain why it is important to convince them first: mainly, because it is actually they who need convincing, the other class already wants a change to come; they need convincing because they’re already well-off in the current system; and because they, having the power, by definition, have the ability to bring about the change, or enable it, and those without power can’t do much. It is not only the very rich who have power, as a large force of poor ones can be powerful too. But violence seems unnecessary.
 # Within the two groups, are those who listen and reason, and those who don’t. Those who don’t, they are irrelevant, as no matter what I say, they will either not listen, or even if they do listen, they won’t really listen because of their own inability to reason.
+# Take the cons of both Capitalism and Communism, and explain how Rewardism deals with them.
+# Take the pros of both Capitalism and Communism, and explain how Rewardism accounts for them.
 ]
 
-# First Principles:
-- Look back at “First Principles,” and see if Rewardism is line with the ideal economic system.
-- The total wealth/resources of the world are finite and no man can increase that really. The task of the economist is then to utilize and spread these resources and this wealth in the best possible way. {from CWoN?}
-- "Consumption is the sole end and purpose of all production; and the interest of the producer ought to be attended to, only so far as it may be necessary for promoting that of the consumer." {on the significance of giving preference to consumers over producers}
-
-# How Rewardism inherits the pros of Communism:
-
-If we wish to bring about a system better than Communism, the new system must,
-- Focus on bringing about real change, rather than just being caught up in theorizing.
-- Prefer simplicity over complexity; avoid Kafkaesqueness.
-- Value human resource and focus on the development of everyone.
-- Deal with class antagonism so as to deal with the risk of major disturbance.
-- Value freedom and individualism; get rid of "chains" and enable wings.
-- Deal with the corrupting nature of wealth and the power it brings.
-- Help people avoid materialistic pursuits and focus on evolution in a more philosophical sense.
-- Free people from the concerns of survival and enable them to think at a higher level.
-- Allow people to have enough free time to think, experiment, and evolve.
-- Promote automation and advancement of technology; for this, it should ensure people are not dependent on any job.
-- Promote people to gain the "luminous summits" of science and philosophy in general.
-- Bring about a purity of will.
-
-# How Rewardism deals with the cons of Communism:
-
-If we wish to bring about a system better than Communism, the new system must avoid:
-- A violent shift from the old ways to the new ones: A peaceful way should be given preference over violence as a means to deploy the new system.
-- Opposition from those in power: Accounting for the concerns of those in power will make a system more likely to be established, simply because they will support it.
-- Emotional and illogical thinking: Objective and logical thinking will help us establish a better system through avoiding falsehoods and harmful exaggerations.
-- Losing the benefits of the old system: Benefits such as motivation and respect given by property, enhanced productivity by specialization, etc., should be accounted for.
-- Giving anyone unfettered power: To avoid the unreasonable exploitation of resources, including human resource, by any being, the new system must balance power distribution; however, I realize that this is more a matter of politics than economics.
-
-# How Rewardism inherits the pros of Capitalism:
-
-To summarize, the pros of Capitalism are:
-- Capitalism being practical: It working because of its reliance on our self-interest, rather than our benevolence, and because the market being naturally self-regulating.
-- Wastage of resources being punished: Those who best utilize resources to meet the highest demand being the ones who benefit the most, others failing to compete with them.
-- Competition and liberty being promoted: Consumers benefiting from higher quality and lower prices when competition and liberty is higher; this pushing us to think more open-mindedly and to become more competent, evolving us in the process.
-- Advancement of science and technology being promoted: Companies equipped with better technology getting tasks done more efficiently, giving them a competitive edge over others.
-- Better user experience being promoted: Customer satisfaction becoming a matter of life and death for companies in a competitive environment, allowing customers to voice their concerns and get the best possible treatment.
-- Law and order being promoted: Without the aid of the Civil Magistrate, owners of property running the risk of losing their property; a safe and secure environment being best for traders to trade without fear of injustices.
-- Rewarding being promoted and slavery being opposed: Employees normally doing their best to earn rewards such as bonuses, promotions, etc.; rewarding appropriately encouraging better performance and confidence, meaning higher efficiency.
-- Globalization and diversity in mastery being promoted: Countries who benefit from cheaper products and specializations of other countries focusing on their own specializations and cutting unnecessary costs; resources being better managed this way as countries avoid reinventing the wheel.
-
-# How Rewardism deals with the cons of Capitalism:
-
-To summarize, the cons of Capitalism are:
-- Profitability not being equivalent to usefulness: The pursuit of wealth possibly damaging the environment or people affected by the business.
-- Enlightenment being difficult to achieve and maintain: Many factors such as demands, undue influence, dependence, etc., making it almost impossible to become and remain enlightened.
-- Money being transferable anonymously: Anonymously transferable money causing problems like bribery, blackmail, theft, corruption, transfer of diseases, etc.; key decision-makers being influenced by the ruling class being a threat to objective decision-making.
-- The interests of investors, public officials and the general public being misaligned: One wanting lower taxes, but the other's wages depending on those taxes, one wanting lower wages, but the others depending on those wages.
-- The system being very complex: Kafkaesqueness leading to problems such as poor understanding of the system, rules being broken, and advancement being slowed down; if it invites fraud, it is flawed.
-- Rarest luxuries not necessarily being available to the most deserving: Rarest of luxuries given to those who can afford them, instead of those who deserve them; in other words, the source of money being irrelevant as long as the bid is the highest.
-- Base standard of living not being set: Living beings suffering because of lack of access to the basic necessities of life; potential being wasted; thinking limited to survival.
-- Modern slavery hindering our growth: Debtors depending excessively on their respective creditors, and being controlled by them; money, which could be used for the development of the debtors, being wasted in cost of capital.
-- True freedom not being achieved: Dependence on useless or boring jobs, and needing to satisfy employers or customers really restraining people.
-- Automation being delayed: Dependence on jobs that can be automated delaying advancement of AI and making it a grey area; each automated job making the system less stable.
-- No proper system being in place for rewarding meaningful work: Standard of living of those doing meaningful work not necessarily improving, or at least, not improving to the level of those doing meaningless, or even harmful, work; talent being demoralized by not being appreciated. {
-#| Decent wages are essential for the well-being of labourers and their families. But to pay decent wages is in the interests of employers, too. When wages are high, workers are better fed and stronger. They also have the prospect of saving and improving their condition, which makes them more inclined to work diligently. And when workers are given sufficient rest, they are likely to be healthier and more productive. {link this with the significance of rewarding generously, and how Rewardism helps avoid drastically low levels of income}
-# <Employment Income> {link these points to the basis on which people should be rewarded} The non-pecuniary costs and benefits of different industries: 
-  ->	Some professions may be easier, cleaner, or more respectable than others.
-  ->	Some professions are difficult or expensive to learn. 
-  ->	Some trades are seasonal. 
-  ->	Earnings are higher in trades that require a large degree of trust (doctors, lawyers, etc.).
-  ->	Earnings reflect the probability of success in any profession (rarity and beauty of talents in professions like acting, singing, etc.).
-#| “Public services are never better performed than when their reward comes in consequence of their being performed, and is proportioned to the diligence employed in performing them.” <Link to reward-based system.>
-# <Public Officals> �The endowments of schools and colleges have necessarily diminished more or less the necessity of application in the teachers Their subsistence [is] altogether independent of their success and reputation in their particular professions� {on the significance of performance-based rewards} 
-# <Public Officals>  �... and it has, I am afraid, been too common for vessels to fit out for the sole purpose of catching, not the fish, but the bounty.� <this is particularly relevant to setting the reward appropriately>
-}
-
-# Mention that Economics, while some aspects of it being rationalist, is more or less, an empirical field. So, the true effects of Rewardism can only be known from empirical evidence, and shall be tuned accordingly.
+^‘If you have your Why? of life, you can put up with just about any How?’ - Friedrich Nietzsche
+^If you humans understand why you want to struggle and put in the effort to achieve something, you can put up with just about any difficulty or problem, however, if no convincing cause is there, you will not find it worth achieving and thus, it will become very difficult for you to achieve it. Another factor that plays an important role in achieving just about anything is hope, because even if you know why something has to change but have no hope of achieving it, you are unlikely to put in the necessary effort; without hope you are most likely to think ‘what is the point of all my effort, people do not change, nothing will change’. Having a reason and hope to change the world to make it worth living in will help you greatly in bringing about that change.
 
 <PoV of Ruling Class>
-
-Real wealth:
-# "Labour remains the real price: money prices are just nominal prices. We buy in from others things that it would cost us more toil and trouble to do for ourselves. The real wealth that we obtain from exchanging with others is their labor, not their money." {use this quote for promoting the idea that money is not important but people and their activities so if we can promote good activities using reward-based system it would be better than people doing weird stuff to get money}  
-# Money is a utensil, just like pots and pans. The fact that wealth and money are separate things can be shown quite easily. After all, a person who receives a guinea of income today may spend that same guinea tomorrow, thus providing the income of a second; and that person may spend the same guinea on the next day, providing the income of a third. So, the amount of money in circulation is clearly much less than the total income of the nation. National income is the quantity of goods bought and sold, not the metal pieces that happen to be used to facilitate the exchange of that product. {highlight significance of activity over money} 
 
 Human nature (against cynicism):
 # �How selfish soever man may be supposed, there are evidently some principles in his nature, which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it, except the pleasure of seeing it.� - The Theory of Moral Sentiments
 # "A man grows rich by employing a multitude of manufacturers: he grows poor by maintaining a multitude of menial servants." {on the significance of doing your work yourself}
 # Opposition from those in power: accounting for the self-interest of those in power will make a system more likely to be established, simply because they will support it.
+# The question you should be asking yourself is, “What do I really want?” Is it really just the materialistic pleasures? Or do you want something deeper than that? Do you not want to connect with the world, your fellow humans, and *actually* live? What does it mean to you to *actually* and *truly* live? Can Rewardism not help you get to your ideal world? And can it not help you better than any other economic system?
+
+Real wealth:
+# Money is a utensil, just like pots and pans. The fact that wealth and money are separate things can be shown quite easily. After all, a person who receives a guinea of income today may spend that same guinea tomorrow, thus providing the income of a second; and that person may spend the same guinea on the next day, providing the income of a third. So, the amount of money in circulation is clearly much less than the total income of the nation. National income is the quantity of goods bought and sold, not the metal pieces that happen to be used to facilitate the exchange of that product. {highlight significance of activity over money}
+# "Labour remains the real price: money prices are just nominal prices. We buy in from others things that it would cost us more toil and trouble to do for ourselves. The real wealth that we obtain from exchanging with others is their labor, not their money." {use this quote for promoting the idea that money is not important but people and their activities so if we can promote good activities using reward-based system it would be better than people doing weird stuff to get money}
+# Even if you say that you can get work done by AI, you still would need humans for the “human stuff” — mainly art. And real wealth is not how much money you have in the bank, but what you obtain from exchanging with others —the experience, the art, the love, and that which you cannot get from yourself.
 
 The One Mango Tree
 # What if there was just one mango tree with limited mangoes. Compare control and distribution in the two systems: Capitalism and Rewardism. Capitalism: - Controlled by the richest and fiercest. Mangoes sold to the highest bidder. Rewardism: - Controlled by the wisest and sincerest. Mangoes given to the most deserving. (link with proper system of rewarding ensuring that buyers actually deserve rewards, and not just got their flipping NFTs)
 
 Not a Competitor to the USD:
 #
-• Pegged to USD first (in USA, the USA's version of RP), so value of the USD is what will give it value.
-• USA can be the leader in adopting Rewardism. Can transfer US currency from a fragile sand castle to a robust fortress. No need to think of the RP as a competitor. What's in a name? RPs can be the new USD.
+• Pegged to USD first (in USA, the USA's version of RP).
+• USA can be the leader in adopting Rewardism. Can transfer US currency from an old castle to a robust fortress. No need to think of the RP as a competitor. What's in a name? USD RP can be thought of as the new USD.
 • World-wide acceptance of Rewardism can make USA a proud leader of a new system.
 • It is paramount to respect the power of the most powerful in a kingdom. It is only after being the most admired of the king, can you expect to be the heir to the throne. RP is not a king that wants to compete with another king, it wants to be the successor.
 • "The king is dead, long live the king."
@@ -111,7 +46,7 @@ Property, Directing, and the Role of the Government:
 # Why should leaders of nations decide to adopt this system and become one with the international nation: access to resources from around the globe and a better and well-thought-out system with international support and standards;
 
 Why No Inheritance:
-# Would’ve completely removed inheritance but this might be too big of a sudden change. Maybe later in future we can bring a new patch that removes the feature of inheritance. Main purpose of removing it is to ensure assets are with those who have rightfully earned them or can best utilize them.
+# Would’ve completely removed inheritance but this might be too big of a sudden change. Maybe later in future we can bring a new patch that removes the feature of inheritance. Main purpose of removing it is to ensure assets are with those who have rightfully earned them or can best utilize them. Nevertheless, I do not think it will be considered an essential feature of Rewardism, so, although I recommend that the concept of inheritance be slowly taken away, it is not necessary for a Rewardist region to not allow inheritance.
 
 The Capital Gains Problem:
 # Problem at Hand: People can just buy assets they think will rise in value, and sell when their value rises, making income by just benefiting from the change in price. In other words, making RPs without actually putting in any effort. At this point, we must be aware of two significant risks: Bribery; and money-laundering. Consider the following example:
@@ -151,9 +86,12 @@ Against profligacy:
 
 #| Private capitals would certainly suffer greatly if all the costs of a war had to be raised through tax rises at the time (though it might make wars shorter, less popular, and less likely to happen). {possible reasons for war: lending, interest, profits... Reduced cause for war in Rewardism}
 
-# Shifted focus from revenue to activity.
+# Shifted focus from revenue & profit to activity.
 # Activity: One café sells 100 cups, another sells 30. One makes revenue of 100, other makes a revenue of 120. Higher activity is that of 100, not 120 one.
 # Utility: If the reviews of the 100 one are better than that of 30 one, then the utility of 100 one is more.
+# Profits are normally eroded in the long-term as market structure reaches perfect competition, but in Rewardism, this state of zero economic profit is likely to be the default mode. As, the owners of companies are more interested in the rewards than the profit, and rewards are based on activity and quality, rather than profits.
+
+# Better complaint-management system, so avoiding unnecessary violence or halting of economic activity.
 ---
 
 COMPARISON WITH UBI (Why not just solve everything by a UBI?):
@@ -168,21 +106,82 @@ Pros of Rewardism:
 
 </ PoV of Normals>
 
-# <From Older ND>
+# First Principles:
+- Look back at “First Principles,” and see if Rewardism is in-line with the ideal economic system.
+- The total wealth/resources of the world are finite and no man can increase that really. The task of the economist is then to utilize and spread these resources and this wealth in the best possible way. {from CWoN?}
+- "Consumption is the sole end and purpose of all production; and the interest of the producer ought to be attended to, only so far as it may be necessary for promoting that of the consumer." {on the significance of giving preference to consumers over producers}
 
-If these needs are accounted for successfully, child mortality rate should decrease and the physical and mental health of the population should improve generally. If you are properly educated, you are more likely to advance to great heights because you are more likely to understand what great heights are and their importance and also how to get there.
-‘If you have your Why? of life, you can put up with just about any How?’ - Friedrich Nietzsche
-If you humans understand why you want to struggle and put in the effort to achieve something, you can put up with just about any difficulty or problem, however, if no convincing cause is there, you will not find it worth achieving and thus, it will become very difficult for you to achieve it. Another factor that plays an important role in achieving just about anything is hope, because even if you know why something has to change but have no hope of achieving it, you are unlikely to put in the necessary effort; without hope you are most likely to think ‘what is the point of all my effort, people do not change, nothing will change’. Having a reason and hope to change the world to make it worth living in will help you greatly in bringing about that change.
-  As this should be the base standard of living of everyone, nobody should be left out because of factors like his/her financial status, gender, ethnicity, religion etc. deal with this weakness in such a way that its benefits such as how it incentivizes productivity and innovation are retained; ‘Don’t throw the baby with the bathwater’, if you may. After all, if you get rid of money completely, how will you differ between those who do meaningful work and those who do not care?
-  Such a currency is unlikely to cause people to become immoral because achieving it through a dishonest manner is going to be very difficult and not without consequences; rather, it is likely to cause people to do more meaningful work for maintaining and improving the world. I do not see how it would be easy to bribe someone or do corruption in this system, especially because these activities rely heavily on transferring and hiding money; similarly, money laundering would become impossible as it is really the act of hiding the source of money. Though I know you humans, you will still find a way; nevertheless, the wise must strive to prevent evil.
-  And what better resource than an intellectual? It is also said that a very wise and famous scientist among you, Mr. Albert Einstein, considered himself as a world citizen. Here, let me help you peek into his interview, by George Sylvester Viereck, through this excerpt of The Saturday Evening Post:
+# How Rewardism inherits the pros of Communism:
+
+If we wish to bring about a system better than Communism, the new system must,
+- Focus on bringing about real change, rather than just being caught up in theorizing.
+- Prefer simplicity over complexity; avoid Kafkaesqueness.
+- Value human resource and focus on the development of everyone.
+- Deal with class antagonism so as to deal with the risk of major disturbance.
+- Value freedom and individualism; get rid of "chains" and enable wings.
+- Deal with the corrupting nature of wealth and the power it brings.
+- Help people avoid materialistic pursuits and focus on evolution in a more philosophical sense.
+- Free people from the concerns of survival and enable them to think at a higher level.
+- Allow people to have enough free time to think, experiment, and evolve.
+- Promote automation and advancement of technology; for this, it should ensure people are not dependent on any job.
+- Promote people to gain the "luminous summits" of science and philosophy in general.
+- Bring about a purity of will.
+
+# How Rewardism deals with the cons of Communism:
+
+If we wish to bring about a system better than Communism, the new system must avoid:
+- A violent shift from the old ways to the new ones: A peaceful way should be given preference over violence as a means to deploy the new system.
+- Opposition from those in power: Accounting for the concerns of those in power will make a system more likely to be established, simply because they will support it.
+- Emotional and illogical thinking: Objective and logical thinking will help us establish a better system through avoiding falsehoods and harmful exaggerations.
+- Losing the benefits of the old system: Benefits such as motivation and respect given by property, enhanced productivity by specialization, etc., should be accounted for.
+- Giving anyone unfettered power: To avoid the unreasonable exploitation of resources, including human resource, by any being, the new system must balance power distribution; however, I realize that this is more a matter of politics than economics.
+
+# How Rewardism inherits the pros of Capitalism:
+
+To summarize, the pros of Capitalism are:
+- Capitalism being practical: It working because of its reliance on our self-interest, rather than our benevolence, and because the market being naturally self-regulating.
+- Wastage of resources being punished: Those who best utilize resources to meet the highest demand being the ones who benefit the most, others failing to compete with them.
+- Competition and liberty being promoted: Consumers benefiting from higher quality and lower prices when competition and liberty is higher; this pushing us to think more open-mindedly and to become more competent, evolving us in the process.
+- Advancement of science and technology being promoted: Companies equipped with better technology getting tasks done more efficiently, giving them a competitive edge over others.
+- Better user experience being promoted: Customer satisfaction becoming a matter of life and death for companies in a competitive environment, allowing customers to voice their concerns and get the best possible treatment.
+- Law and order being promoted: Without the aid of the Civil Magistrate, owners of property running the risk of losing their property; a safe and secure environment being best for traders to trade without fear of injustices.
+- Rewarding being promoted and slavery being opposed: Employees normally doing their best to earn rewards such as bonuses, promotions, etc.; rewarding appropriately encouraging better performance and confidence, meaning higher efficiency.
+- Globalization and diversity in mastery being promoted: Countries who benefit from cheaper products and specializations of other countries focusing on their own specializations and cutting unnecessary costs; resources being better managed this way as countries avoid reinventing the wheel. {And what better resource than an intellectual? It is also said that a very wise and famous scientist among you, Mr. Albert Einstein, considered himself as a world citizen. Here, let me help you peek into his interview, by George Sylvester Viereck, through this excerpt of The Saturday Evening Post:
   “ Do you look upon yourself as a German
 or as a Jew?"
   “ It is quite possible," Einstein replied,
 “to be both. I look upon myself as a man.
 Nationalism is an infantile disease.   It is
 the measles of mankind."
-  ‘But what does globalization have to do with helping countries drowning in debt?’, you ask? Ask yourself: ‘Can your left hand owe anything to your right hand? Can your body function optimally if some part of it is denied energy or very important nutrients?’ To really understand the importance of true globalization, you must consider the whole world and all the conscious beings as a single entity; then, you should understand how the suffering of even the smallest part of it is sad and wrong; then, you should realize how much the success of others is important for your own success.
-  To better understand this point, take the most developed country in the world and consider the whole world to be that one country, just with access to more resources. The reward-based system deals with the negative side of consumerism easily because ideally, only meaningful work is rewarded. Considering the preciousness of reward points and the unavailability of meaningless services & products, you humans wasting your hard-earned reward points seems unlikely to me. Furthermore, the resources managers must try their best to minimize excessive consumption, so that the maximum number of people can benefit from the limited resources.
+  ‘But what does globalization have to do with helping countries drowning in debt?’, you ask? Ask yourself: ‘Can your left hand owe anything to your right hand? Can your body function optimally if some part of it is denied energy or very important nutrients?’ To really understand the importance of true globalization, you must consider the whole world and all the conscious beings as a single entity; then, you should understand how the suffering of even the smallest part of it is saddening and wrong; then, you should realize how much the success of others is important for your own success. To better understand this point, take the most developed country in the world and consider the whole world to be that one country, just with access to more resources.}
 
-</From Older ND>
+# How Rewardism deals with the cons of Capitalism:
+
+To summarize, the cons of Capitalism are:
+- Profitability not being equivalent to usefulness: The pursuit of wealth possibly damaging the environment or people affected by the business.
+- Enlightenment being difficult to achieve and maintain: Many factors such as demands, undue influence, dependence, etc., making it almost impossible to become and remain enlightened.
+- Money being transferable anonymously: Anonymously transferable money causing problems like bribery, blackmail, theft, corruption, transfer of diseases, etc.; key decision-makers being influenced by the ruling class being a threat to objective decision-making. {^Deal with the shortcomings of money in such a way that its benefits such as how it incentivizes productivity and innovation are retained; ‘Don’t throw the baby with the bathwater’, if you may. After all, if you get rid of money completely, how will you differ between those who do meaningful work and those who do not care?
+^Such a currency is unlikely to cause people to become immoral because achieving it through a dishonest manner is going to be very difficult and not without consequences; rather, it is likely to cause people to do more meaningful work to maintain and improve the world. I do not see how it would be easy to bribe someone or do corruption in this system, especially because these activities rely heavily on transferring and hiding money; similarly, money laundering would become impossible as it is really the act of hiding the source of money. Though I know you humans, you will still find a way; nevertheless, the wise must strive to prevent evil.}
+- The interests of investors, public officials and the general public being misaligned: One wanting lower taxes, but the other's wages depending on those taxes, one wanting lower wages, but the others depending on those wages.
+- The system being very complex: Kafkaesqueness leading to problems such as poor understanding of the system, rules being broken, and advancement being slowed down; if it invites fraud, it is flawed.
+- Rarest luxuries not necessarily being available to the most deserving: Rarest of luxuries given to those who can afford them, instead of those who deserve them; in other words, the source of money being irrelevant as long as the bid is the highest.
+- Base standard of living not being set: Living beings suffering because of lack of access to the basic necessities of life; potential being wasted; thinking limited to survival. {^If these needs are accounted for successfully, child mortality rate should decrease and the physical and mental health of the population should improve generally. If you are properly educated, you are more likely to advance to great heights because you are more likely to understand what great heights are and their importance and also how to get there.}
+- Modern slavery hindering our growth: Debtors depending excessively on their respective creditors, and being controlled by them; money, which could be used for the development of the debtors, being wasted in cost of capital.
+- True freedom not being achieved: Dependence on useless or boring jobs, and needing to satisfy employers or customers really restraining people.
+- Automation being delayed: Dependence on jobs that can be automated delaying advancement of AI and making it a grey area; each automated job making the system less stable.
+- No proper system being in place for rewarding meaningful work: Standard of living of those doing meaningful work not necessarily improving, or at least, not improving to the level of those doing meaningless, or even harmful, work; talent being demoralized by not being appreciated. {#| Decent wages are essential for the well-being of labourers and their families. But to pay decent wages is in the interests of employers, too. When wages are high, workers are better fed and stronger. They also have the prospect of saving and improving their condition, which makes them more inclined to work diligently. And when workers are given sufficient rest, they are likely to be healthier and more productive. {link this with the significance of rewarding generously, and how Rewardism helps avoid drastically low levels of income}
+# <Employment Income> {link these points to the basis on which people should be rewarded} The non-pecuniary costs and benefits of different industries: 
+  ->	Some professions may be easier, cleaner, or more respectable than others.
+  ->	Some professions are difficult or expensive to learn. 
+  ->	Some trades are seasonal. 
+  ->	Earnings are higher in trades that require a large degree of trust (doctors, lawyers, etc.).
+  ->	Earnings reflect the probability of success in any profession (rarity and beauty of talents in professions like acting, singing, etc.).
+#| “Public services are never better performed than when their reward comes in consequence of their being performed, and is proportioned to the diligence employed in performing them.” <Link to reward-based system.>
+# <Public Officals> �The endowments of schools and colleges have necessarily diminished more or less the necessity of application in the teachers Their subsistence [is] altogether independent of their success and reputation in their particular professions� {on the significance of performance-based rewards} 
+# <Public Officals>  �... and it has, I am afraid, been too common for vessels to fit out for the sole purpose of catching, not the fish, but the bounty.� <this is particularly relevant to setting the reward appropriately>
+^The reward-based system deals with the negative side of consumerism easily because ideally, only meaningful work is rewarded. Considering the preciousness of reward points and the unavailability of meaningless services & products, you humans wasting your hard-earned reward points seems unlikely to me. Furthermore, the resources managers must try their best to minimize excessive consumption, so that the maximum number of people can benefit from the limited resources.
+}
+
+# Mention that Economics, while some aspects of it being rationalist, is more or less, an empirical field. So, the true effects of Rewardism can only be known from empirical evidence, and shall be tuned accordingly.
+
+# Give a summary of the ideal Rewardism.
