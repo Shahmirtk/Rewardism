@@ -10,7 +10,7 @@ Approach:
 ]
 
 ^‘If you have your Why? of life, you can put up with just about any How?’ - Friedrich Nietzsche
-^If you humans understand why you want to struggle and put in the effort to achieve something, you can put up with just about any difficulty or problem, however, if no convincing cause is there, you will not find it worth achieving and thus, it will become very difficult for you to achieve it. Another factor that plays an important role in achieving just about anything is hope, because even if you know why something has to change but have no hope of achieving it, you are unlikely to put in the necessary effort; without hope you are most likely to think ‘what is the point of all my effort, people do not change, nothing will change’. Having a reason and hope to change the world to make it worth living in will help you greatly in bringing about that change.
+^If you understand why you want to struggle and put in the effort to achieve something, you can put up with just about any difficulty or problem, however, if no convincing cause is there, you will not find it worth achieving and thus, it will become very difficult for you to achieve it. Another factor that plays an important role in achieving just about anything is hope, because even if you know why something has to change but have no hope of achieving it, you are unlikely to put in the necessary effort; without hope you are most likely to think ‘what is the point of all my effort, people do not change, nothing will change’. Having a reason and hope to change the world to make it worth living in will help you greatly in bringing about that change.
 
 <PoV of Ruling Class>
 
@@ -68,12 +68,14 @@ Standards for Companies:
 # Standards set for companies are not to make them all the same, it's to reduce the likelihood of underperformance occurring.
 
 ---
-# A new playground, and the interesting principle.
+# <Linked to No CG, and Lack of Proper Rewarding Mechanism> When people look at someone wealthy, do they really think, “This guy must have done a lot of good for the world?” Differentiating the actually talented and useful people who actually put in the effort from others. Being wealthy under Rewardism means something really worth rewarding has been done. Higher transparency by clear records is likely to strengthen trust in the wealthy ones. {contrast with using meaningless ways to get rich, and how two rich people are not necessarily of the same value in Capitalism. Connect point to a natural tendency to connect with fellow humans, and being valued.}
+# If you don’t care about being differentiated, being valued, earning trust of other beings, or connecting with others, you still likely want wealth to increase in proportion to the meaningfulness of the work done. You probably do not like that you, who  earns his income through bringing so much value, are less wealthy than some people who just happen to know what and when to buy or sell, or who flip NFTs. Is it not absurd that who adds value can be less wealthy than someone who knows how to profit in a market without necessarily adding any value? Is the lack of a proper rewarding system not a point of concern to you?
 
+# If you don’t care about the lack of a proper rewarding system in Capitalism, you probably would want things to not be as Kafkaesque. Wouldn’t you like taxes to go away?
 # No more taxes! Much less Kafkaesque environment.
-
-# Not using personal capital, so willing to take higher risks, and managers can a lot some time for the company to recover. With own capital, people might not want to face losses, so, good companies in difficult times might not live to recover. More support by the WRMO can lead to improvements in the supply chain, as suppliers would expect the company to continue.
+# Don’t you want to have the freedom to make decisions, i.e., without the interference of creditors and equityholders?
 # No more stock market related problems, better sources of funding, more bold decisions.
+# Not using personal capital, so willing to take higher risks, and RMs can alot some time for the company to recover. With own capital, people might not want to face losses, so, good companies in difficult times might not live to recover. More support by the WRMO can lead to improvements in the supply chain, as suppliers would expect the company to continue.
 # High research costs bankrupting perfectly competitive firms in Capitalism, but this isn't a big deal in Rewardism, as investments are treated differently for performance appraisal reasons.
 #| Some countries have attempted to outlaw the lending of money at interest. But this has simply increased the evil of usury, rather than preventing it. People still want to borrow money, but now they have to pay not just the interest, but a premium for the risk that the creditor runs in lending illegally. {how Rewardism deals better with the problems of debt}
 
@@ -84,11 +86,25 @@ Standards for Companies:
 # Utility: If the reviews of the 100 one are better than that of 30 one, then the utility of 100 one is more.
 # Economists would agree that highest level of output at the lowest price is given by a market with a structure closest to perfect competition, and in Rewardism, this structure is to be the default mode wherever possible. Since rewards are not to be linked to profits, zero economic profit is likely to be the default profit level in Rewardism.
 
-# Better complaint-management system, so avoiding violence, or hindrance of economic activity.
+# Manages class-struggle related problems. Better complaint-management system, so avoiding violence, or hindrance of economic activity.
+
+# If nothing else convinces you, perhaps: the excitement of a new playground, and the interesting principle.
 ---
 
 COMPARISON WITH UBI (Why not just solve everything by a UBI?):
-#Give reference to UBI (Kurzgesagt’s video about it); how your concept is different from it, the possible problems with UBI and how your concept can deal with those problems: money would mean possibility of spending on unnecessary goods, the root problem still would exist _ money corrupting and causing impurity.
+# Give reference to UBI (Kurzgesagt’s video about it); how your concept is different from it, the possible problems with UBI and how your concept can deal with those problems: money would mean possibility of spending on unnecessary goods, the root problem still would exist _ money corrupting and causing impurity.
+
+Summary of PoV of RC:
+# Give a summary.
+# Differentiating valuables from others.
+# Wealth increase in proportion to meaningfulness of work done.
+# No more taxes.
+# Better funding system, more freedom in making decisions.
+# Less likelihood of causing war, due to elimination of possibility of earning interest.
+# Shift of focus from revenue & profit to activity * utility. Allowing business owners to get wealthier at zero profit level.
+# Class-struggle related issues better managed. Wealthy ones and non-wealthy ones both on same page, more or less.
+# Exciting new playground, and the change is interesting too.
+# Much better and deeper solution than mere UBI.
 
 </ PoV of Ruling Class>
 
