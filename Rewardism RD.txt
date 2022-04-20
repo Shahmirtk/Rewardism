@@ -29,7 +29,6 @@ The One Mango Tree
 # What if there was just one mango tree with limited mangoes. Compare control and distribution in the two systems: Capitalism and Rewardism. Capitalism: - Controlled by the richest and fiercest. Mangoes sold to the highest bidder. Rewardism: - Controlled by the wisest and sincerest. Mangoes given to the most deserving. (link with proper system of rewarding ensuring that buyers actually deserve rewards, and not just got their flipping NFTs)
 
 Not a Competitor to the USD:
-#
 • Pegged to USD first (in USA, the USA's version of RP).
 • USA can be the leader in adopting Rewardism. Can transfer US currency from an old castle to a robust fortress. No need to think of the RP as a competitor. What's in a name? USD RP can be thought of as the new USD.
 • World-wide acceptance of Rewardism can make USA a proud leader of a new system.
@@ -58,18 +57,6 @@ The Capital Gains Problem:
 - So long as risk is concerned for individuals, they ought to transfer this risk to more experienced companies, and earn RPs through more reliable and valuable methods.
 - Just like no one should be able to reward themselves, likewise, no one should be able to value their own assets. This applies to authorized professional valuers as well. This is necessary to deal with the significant threat to objectivity. Also, this is likely to help us avoid the problems associated with behavioral biases like “Endowment Bias”—ascribing more value to assets already owned, and “Anchoring Bias”—clinging to arbitrary price levels.
 
-The Conversion From Non-Rewardist Country Problem:
-#What Exactly The Restrictions Are: Mainly, can't do anything that results in income without doing anything *valuable*, and can't allow the problems of debt to rise again.
-#Why These Restrictions: No debt related problems if no such thing as debt. Besides, companies already get pseudo-debt, which shall be enough for meeting expenses. So, there is no need for debt. People don't need debt, because there's the concept of Installments/Rent for more expensive assets, and their necessities are accounted for freely. A share in a company's income is what you deserve for putting in the effort, and for starting the company in the first place, or simply for your idea. With no need for funding from investors, there would be no need to put up a share on a stock market. You can't just buy a share of a company you didn't start. Does it not make sense that people's *Rewards* should increase only by an activity that is *worth rewarding*?
-#The Problem at Hand: People can just move to a non-Rewardist country, earn income in the old and unchanged environment, and effectively convert that money to RPs. Similar case with companies. People can also avoid losing inheritance by moving to a non-Rewardist country.
-#Why This is a Problem: You're trying to restrict people to get wealthy only by doing valuable things. In other words, you're trying to prevent people from being *rewarded* for activities *not worth rewarding*. But they can just avoid those restrictions in non-Rewardist countries, and come back later; making the restrictions meaningless, more or less. You're trying to prevent people from getting wealth they haven't really earned. But they can just get their wealth in another country.
-#Possible Solutions: 
-Basically, the solution is that we're interested in *how* you earned the money you're trying to convert, or how you received the asset you're trying to get registered. If you can prove its fairness, and we are satisfied, we will allow you to convert the money, or get the asset registered.
-- I will have to discuss with the pros how to solve this problem. 
-- If the whole world became Rewardist, there would be no place to flee to for the purpose of getting wealthier by *non-kosher* means.
-- It should be noted that the powers of the WRMO are restricted to Rewardist countries. What the non-Rewardist ones do cannot really be controlled by the WRMO. So, any control procedure must account for the level of control the WRMO has. A person that wishes to no longer be in a Rewardist country will not be the matter of WRMO. For a non-Rewardist person to get the nationality of a Rewardist country, there will be restrictions on how much wealth can be converted to RPs. For a non-Rewardist company to open a branch in a Rewardist country, they will be treated as a new company and there will be restrictions on how much wealth of the non-Rewardist company can be converted to BPs. Basically, whatever wealth is supported by evidence of being earned in a way considered fair by the WRMO will be convertible, rest like loans and money earned through capital gains, would be considered nonconvertible. If anyone's guest arrives into a Rewardist country from a non-Rewardist country, they can bring in their luggage, and get a profile made here, which shall have some NPs and they would have their ID, both of which can be used to access products and services of necessities. They can also convert wealth that is allowed to be converted for purchasing items of luxuries.
-- As Adam Smith would want, there should be almost no restrictions on international trade. Non-Rewardist ones would still be able to buy the products and services of the Rewardist countries that are available for purchase internationally, which shall be in control of the WRMO for reasons such as maintaining quality, and preventing illegal sales.
-
 Repaying debt:
 # So capital is being transferred from people who have a keen interest in using it productively to those, mere creditors, who have no interest in the condition of land or the good management of the capital stock at all. <Move to Cons of Capitalism?>
 # Repaying debt of people feels unfair to those without any debt obligation: Think of it like being either sick, normal or very healthy. Treating the sick to make them normal is not really unfair to those who are already normal or very healthy. Those who are given the RPs for the debt owed to them are just being given what they were owed, so it's not a point of concern.
@@ -77,21 +64,27 @@ Repaying debt:
 Against profligacy:
 # The first remedy for self-neglect and profligacy is the study of science and philosophy. The second is to amuse and divert people by promoting the arts. {on the significance of art, science and philosophy} => Explain how to deal with very high buying power and demand.
 
+Standards for Companies:
+# Standards set for companies are not to make them all the same, it's to reduce the likelihood of underperformance occurring.
+
 ---
+# A new playground, and the interesting principle.
+
 # No more taxes! Much less Kafkaesque environment.
 
 # Not using personal capital, so willing to take higher risks, and managers can a lot some time for the company to recover. With own capital, people might not want to face losses, so, good companies in difficult times might not live to recover. More support by the WRMO can lead to improvements in the supply chain, as suppliers would expect the company to continue.
 # No more stock market related problems, better sources of funding, more bold decisions.
+# High research costs bankrupting perfectly competitive firms in Capitalism, but this isn't a big deal in Rewardism, as investments are treated differently for performance appraisal reasons.
 #| Some countries have attempted to outlaw the lending of money at interest. But this has simply increased the evil of usury, rather than preventing it. People still want to borrow money, but now they have to pay not just the interest, but a premium for the risk that the creditor runs in lending illegally. {how Rewardism deals better with the problems of debt}
 
 #| Private capitals would certainly suffer greatly if all the costs of a war had to be raised through tax rises at the time (though it might make wars shorter, less popular, and less likely to happen). {possible reasons for war: lending, interest, profits... Reduced cause for war in Rewardism}
 
-# Shifted focus from revenue & profit to activity.
+# Shifted focus from revenue & profit to activity & utility.
 # Activity: One café sells 100 cups, another sells 30. One makes revenue of 100, other makes a revenue of 120. Higher activity is that of 100, not 120 one.
 # Utility: If the reviews of the 100 one are better than that of 30 one, then the utility of 100 one is more.
-# Profits are normally eroded in the long-term as market structure reaches perfect competition, but in Rewardism, this state of zero economic profit is likely to be the default mode. As, the owners of companies are more interested in the rewards than the profit, and rewards are based on activity and quality, rather than profits.
+# Economists would agree that highest level of output at the lowest price is given by a market with a structure closest to perfect competition, and in Rewardism, this structure is to be the default mode wherever possible. Since rewards are not to be linked to profits, zero economic profit is likely to be the default profit level in Rewardism.
 
-# Better complaint-management system, so avoiding unnecessary violence or halting of economic activity.
+# Better complaint-management system, so avoiding violence, or hindrance of economic activity.
 ---
 
 COMPARISON WITH UBI (Why not just solve everything by a UBI?):
@@ -182,6 +175,6 @@ To summarize, the cons of Capitalism are:
 ^The reward-based system deals with the negative side of consumerism easily because ideally, only meaningful work is rewarded. Considering the preciousness of reward points and the unavailability of meaningless services & products, you humans wasting your hard-earned reward points seems unlikely to me. Furthermore, the resources managers must try their best to minimize excessive consumption, so that the maximum number of people can benefit from the limited resources.
 }
 
-# Mention that Economics, while some aspects of it being rationalist, is more or less, an empirical field. So, the true effects of Rewardism can only be known from empirical evidence, and shall be tuned accordingly.
+# While some aspects of Economics are intuitively understood, it is, more or less, dependent on empirical evidence. So, the true effects of Rewardism can only be known from empirical evidence, and shall be tuned accordingly.
 
-# Give a summary of the ideal Rewardism.
+# Give a summary of the ideal form of Rewardism.
