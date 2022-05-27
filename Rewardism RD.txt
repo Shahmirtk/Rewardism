@@ -3,18 +3,16 @@
 [
 Approach:
 # Keep the Explanation of Rewardism in mind when writing. Explain why you made Rewardism this way, and not some other way.
-# Write why the two classes would want Rewardism implemented, from their PoV. There being two groups of people sitting in front of you in an auditorium, the reader sitting in the group relevant to him. Start by adressing the small group of people, the “ruling class.” Explain why it is important to convince them first: mainly, because it is actually they who need convincing, the other class already wants a change to come; they need convincing because they’re already well-off in the current system; and because they, having the power, by definition, have the ability to bring about the change, or enable it, and those without power can’t do much. It is not only the very rich who have power, as a large force of poor ones can be powerful too. But violence seems unnecessary.
-# Within the two groups, are those who listen and reason, and those who don’t. Those who don’t, they are irrelevant, as no matter what I say, they will either not listen, or even if they do listen, they won’t really listen because of their own inability to reason.
+/# Write why the two classes would want Rewardism implemented, from their PoV. There being two groups of people sitting in front of you in an auditorium, the reader sitting in the group relevant to him. Start by adressing the small group of people, the “ruling class.” Explain why it is important to convince them first: mainly, because it is actually they who need convincing, the other class already wants a change to come; they need convincing because they’re already well-off in the current system; and because they, having the power, by definition, have the ability to bring about the change, or enable it, and those without power can’t do much. It is not only the very rich who have power, as a large force of poor ones can be powerful too. But violence seems unnecessary.
+/# Within the two groups, are those who listen and reason, and those who don’t. Those who don’t, they are irrelevant, as no matter what I say, they will either not listen, or even if they do listen, they won’t really listen because of their own inability to reason.
 # Take the cons of both Capitalism and Communism, and explain how Rewardism deals with them.
 # Take the pros of both Capitalism and Communism, and explain how Rewardism accounts for them.
 ]
 
-^‘If you have your Why? of life, you can put up with just about any How?’ - Friedrich Nietzsche
-^If you understand why you want to struggle and put in the effort to achieve something, you can put up with just about any difficulty or problem, however, if no convincing cause is there, you will not find it worth achieving and thus, it will become highly unlikely that you achieve it. As Elon Musk puts it, “When something is important enough, you do it even if the odds are not in your favor.” The significance of doing something because it is necessary is also demonstrated in the movie, “Interstellar,” in the famous docking scene.
+/^‘If you have your Why? of life, you can put up with just about any How?’ - Friedrich Nietzsche
+/^If you understand why you want to struggle and put in the effort to achieve something, you can put up with just about any difficulty or problem, however, if no convincing cause is there, you will not find it worth achieving and thus, it will become highly unlikely that you achieve it. As Elon Musk puts it, “When something is important enough, you do it even if the odds are not in your favor.” The significance of doing something because it is necessary is also demonstrated in the movie, “Interstellar,” in the famous docking scene.
 
-<PoV of Ruling Class>
-
-Human nature (against cynicism):
+/Human nature (against cynicism):
 # “How selfish soever man may be supposed, there are evidently some principles in his nature, which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it, except the pleasure of seeing it.” - The Theory of Moral Sentiments
 # Opposition from those in power: accounting for the self-interest of those in power will make a system more likely to be established, simply because they will support it.
 # The question you should be asking yourself is, “What do I really want?” Is it really just the materialistic pleasures? Or do you want something deeper than that? Do you not want to connect with the world, your fellow humans, and *actually* live? What does it mean to you to *actually* and *truly* live? Can Rewardism not help you get to your ideal world? And can it not help you better than any other economic system?
@@ -106,15 +104,6 @@ Summary of PoV of RC:
 # Class-struggle related issues better managed. Wealthy ones and non-wealthy ones both on same page, more or less.
 # Exciting new playground, and the process of change is interesting too.
 # Much better and deeper solution than mere UBI.
-
-</ PoV of Ruling Class>
-
-< PoV of Normals>
-
-Pros of Rewardism:
-# Ask readers to deeply imagine life in a Rewardist region, and, by contrasting it with their current life, to understand how important the shift to Rewardism is for them.
-
-</ PoV of Normals>
 
 # Begin again:
 - Look back at “First Principles,” and see if Rewardism is in-line with the ideal economic system.
