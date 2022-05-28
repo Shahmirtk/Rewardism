@@ -17,19 +17,20 @@ Approach:
 # Opposition from those in power: accounting for the self-interest of those in power will make a system more likely to be established, simply because they will support it.
 # The question you should be asking yourself is, “What do I really want?” Is it really just the materialistic pleasures? Or do you want something deeper than that? Do you not want to connect with the world, your fellow humans, and *actually* live? What does it mean to you to *actually* and *truly* live? Can Rewardism not help you get to your ideal world? And can it not help you better than any other economic system?
 
-Real wealth:
+/Real wealth:
 # "Labour remains the real price: money prices are just nominal prices. We buy in from others things that it would cost us more toil and trouble to do for ourselves. The real wealth that we obtain from exchanging with others is their labor, not their money." {use this quote for promoting the idea that money is not important but people and their activities so if we can promote good activities using reward-based system it would be better than people doing weird stuff to get money}
 # Even if you say that you can get work done by AI, you still would need humans for the “human stuff” — mainly art. And real wealth is not how much money you have in the bank, but what you obtain from exchanging with others —the experience, the art, the love, and that which you cannot do yourself.
 
-The One Mango Tree
+The Big Forgiveness:
+# No matter how you earned your income. Let us forgive and forget, and move on to a better world.
+
+The One Mango Tree:
 # What if there was just one mango tree with limited mangoes. Compare control and distribution in the two systems: Capitalism and Rewardism. Capitalism: - Controlled by the richest and fiercest. Mangoes sold to the highest bidder. Rewardism: - Controlled by the wisest and sincerest. Mangoes given to the most deserving. (link with proper system of rewarding ensuring that buyers actually deserve rewards, and not just by flipping NFTs; also, link with the reader not being the fiercest or richest, but being the one who can best utilize the resources.)
 
 Not a Competitor to the USD:
 • Pegged to USD first (in USA, the USA's version of RP). So, the US RP would effectively be the new USD. Moving to the newer and better system can lead to the strengthening of the new USD against the currencies of the non-Rewardist regions.
 • Respecting the power of the most powerful in a kingdom is paramount to become the most powerful. It is only after being the most admired of the king, can you expect to be the heir to the throne. RP is not a king that wants to compete with another king, it wants to be the successor.
 • "The king is dead, long live the king."
-
-Possible Concerns
 
 Property, Directing, and the Role of the Government:
 # “The sovereign is completely discharged from a duty [for which] no human wisdom or knowledge could ever be sufficient; the duty of superintending the industry of private people, and of directing it towards the employments most suitable to the interest of the society.” {on the significance of liberty and non-interference} => Explain how it is possible to direct it towards the employments most suitable to the interest of the society, and why the government shouldn’t interfere (the WRMO representing the private affairs, seperate from the gov, but answerable to it).
@@ -39,9 +40,6 @@ Property, Directing, and the Role of the Government:
 # The WRMO as a platform for Economists to control the economy.
 # Why should leaders of nations decide to adopt this system and become one with the international nation: access to resources from around the globe and a better and well-thought-out system with international support and standards;
 
-Standards for Companies:
-# Standards set for companies are not to make them all the same, it's to reduce the likelihood of underperformance occurring. Strictness of adhering to standards depends on the nature of business. In some businesses, meeting standards would be appreciated and rewarded, but not necessarily required.
-
 Why No Inheritance:
 # Would’ve completely removed inheritance but this might be too big of a sudden change. Maybe later in future we can bring a new patch that removes the feature of inheritance. Main purpose of removing it is to ensure assets are with those who have rightfully earned them or can best utilize them. Nevertheless, I do not think it will be considered an essential feature of Rewardism, so, although I recommend that the concept of inheritance be slowly taken away, it is not necessary for a Rewardist region to not allow inheritance.
 
@@ -50,6 +48,7 @@ The Capital Gains Problem:
   A person X wants to bribe Y—a key decision-maker. Y has a painting that he bought for just $20. Without proper control procedures in place to manage the risk of money-laundering or bribery, the painting could be revalued at $20M. X could buy the asset from Y, and Y would, rightfully, get the 20 million. Interestingly, this would be recorded as a legitimate transaction in the accounts of both X, and Y.
   This highlights the danger of a lack of appropriate control procedures. 
 # Why no CG:
+- When people look at someone wealthy, do they really think, “This guy must have done a lot of good for the world?” Differentiating the actually talented and useful people who actually put in the effort from others. Being wealthy under Rewardism means something really worth rewarding has been done. Higher transparency by clear records is likely to strengthen trust in the wealthy ones. {contrast with using meaningless ways to get rich, and how two rich people are not necessarily of the same value in Capitalism. Connect point to a natural tendency to connect with fellow humans, and being valued.}
 - The reason for putting a cap is to prevent the unnecessary increase in price of assets, and to prevent people from making money without putting in any real effort.
 - So long as risk is concerned for companies, this is not that significant anymore as pseudo-debt is involved, and not the owners' own money.
 - So long as risk is concerned for individuals, they ought to transfer this risk to more experienced companies, and earn RPs through more reliable and valuable methods.
@@ -59,51 +58,32 @@ Repaying debt:
 # So capital is being transferred from people who have a keen interest in using it productively to those, mere creditors, who have no interest in the condition of land or the good management of the capital stock at all. <Move to Cons of Capitalism?>
 # Repaying debt of people feels unfair to those without any debt obligation: Think of it like being either sick, normal or very healthy. Treating the sick to make them normal is not really unfair to those who are already normal or very healthy. Those who are given the RPs for the debt owed to them are just being given what they were owed, so it's not a point of concern.
 
+Standards for Companies:
+# Standards set for companies are not to make them all the same, it's to reduce the likelihood of underperformance occurring. Strictness of adhering to standards depends on the nature of business. In some businesses, meeting standards would be appreciated and rewarded, but not necessarily required.
+
 Against profligacy:
 # The first remedy for self-neglect and profligacy is the study of science and philosophy. The second is to amuse and divert people by promoting the arts. {on the significance of art, science and philosophy} => Explain how to deal with very high buying power and demand.
 
----
-Write the following in the relevant Pro or Con disucssion.
+Comparison with UBI:
+# (Why not just solve everything by a UBI?) Give reference to UBI (Kurzgesagt’s video about it); how your concept is different from it, the possible problems with UBI and how your concept can deal with those problems: money would mean possibility of spending on unnecessary goods, the root problem still would exist _ money corrupting and causing impurity.
 
-# <Linked to No CG, and Lack of Proper Rewarding Mechanism> When people look at someone wealthy, do they really think, “This guy must have done a lot of good for the world?” Differentiating the actually talented and useful people who actually put in the effort from others. Being wealthy under Rewardism means something really worth rewarding has been done. Higher transparency by clear records is likely to strengthen trust in the wealthy ones. {contrast with using meaningless ways to get rich, and how two rich people are not necessarily of the same value in Capitalism. Connect point to a natural tendency to connect with fellow humans, and being valued.}
-# If you don’t care about being differentiated, being valued, earning trust of other beings, or connecting with others, you still likely want wealth to increase in proportion to the meaningfulness of the work done. You probably do not like that you, who  earns his income through bringing so much value, are less wealthy than some people who just happen to know what and when to buy or sell, or who flip NFTs. Is it not absurd that who adds value can be less wealthy than someone who knows how to profit in a market without necessarily adding any value? Is the lack of a proper rewarding system not a point of concern to you?
-
-# If you don’t care about the lack of a proper rewarding system in Capitalism, you probably would want things to not be as Kafkaesque. Wouldn’t you like taxes to go away?
-# No more taxes! Much less Kafkaesque environment.
-# No more stock market related problems, better sources of funding, more bold decisions.
-# Don’t you want to have the freedom to make decisions, i.e., without the interference of creditors and equityholders? Yes, the RMs will replace the equityholders, and you would be answerable to them, but you will likely have more freedom, especially since the type of capital is psuedodebt.
-# Not using personal capital, so willing to take higher risks, and RMs can alot some time for the company to recover. With own capital, people might not want to face losses, so, good companies in difficult times might not live to recover. More support by the WRMO can lead to improvements in the supply chain, as suppliers would expect the company to continue.
-# High research costs bankrupting perfectly competitive firms in Capitalism, but this isn't a big deal in Rewardism, as investments are treated differently for performance appraisal reasons.
-#| Some countries have attempted to outlaw the lending of money at interest. But this has simply increased the evil of usury, rather than preventing it. People still want to borrow money, but now they have to pay not just the interest, but a premium for the risk that the creditor runs in lending illegally. {how Rewardism deals better with the problems of debt}
-#| Private capitals would certainly suffer greatly if all the costs of a war had to be raised through tax rises at the time (though it might make wars shorter, less popular, and less likely to happen). {possible reasons for war: lending, interest, profits... Reduced cause for war in Rewardism}
-
-# Money is a utensil, just like pots and pans. The fact that wealth and money are separate things can be shown quite easily. After all, a person who receives a guinea of income today may spend that same guinea tomorrow, thus providing the income of a second; and that person may spend the same guinea on the next day, providing the income of a third. So, the amount of money in circulation is clearly much less than the total income of the nation. National income is the quantity of goods bought and sold, not the metal pieces that happen to be used to facilitate the exchange of that product. {highlight significance of activity over money}
-# Shifted focus from revenue & profit to activity & utility.
-# Activity: One café sells 100 cups, another sells 30. One makes revenue of 100, other makes a revenue of 120. Higher activity is that of 100, not 120 one.
-# Utility: If the reviews of the 100 one are better than that of 30 one, then the utility of 100 one is more.
-# Economists would agree that highest level of output at the lowest price is given by a market with a structure closest to perfect competition, and in Rewardism, this structure is to be the default mode wherever possible. Since rewards are not to be linked to profits, zero economic profit is likely to be the default profit level in Rewardism.
-
-# Manages class-struggle related problems. Better complaint-management system, so avoiding violence, or hindrance of economic activity.
-
-# The Big Forgiveness. No matter how you earned your income. Let us forgive and forget, and move on to a better world.
-
+A New Playground:
 # If nothing else convinces you, perhaps: the excitement of a new playground, and the interesting principle.
----
-
-COMPARISON WITH UBI (Why not just solve everything by a UBI?):
-# Give reference to UBI (Kurzgesagt’s video about it); how your concept is different from it, the possible problems with UBI and how your concept can deal with those problems: money would mean possibility of spending on unnecessary goods, the root problem still would exist _ money corrupting and causing impurity.
 
 Summary of PoV of RC:
-# Give a summary.
-# Differentiating valuables from others.
-# Wealth increase in proportion to meaningfulness of work done.
-# No more taxes.
-# Better funding system, more freedom in making decisions.
-# Less likelihood of causing war, due to elimination of possibility of earning interest.
-# Shift of focus from revenue & profit to activity * utility. Allowing business owners to get wealthier at zero profit level.
-# Class-struggle related issues better managed. Wealthy ones and non-wealthy ones both on same page, more or less.
-# Exciting new playground, and the process of change is interesting too.
-# Much better and deeper solution than mere UBI.
+# Human Nature
+# Real wealth
+# The Big Forgiveness
+# The One Mango Tree
+# Not a Competitor to the USD
+# Property, Directing, and the Role of the Government
+# Why No Inheritance
+# The Capital Gains Problem
+# Repaying debt
+# Standards for Companies
+# Against profligacy
+# Comparison with UBI
+# A New Playground
 
 # Begin again:
 - Look back at “First Principles,” and see if Rewardism is in-line with the ideal economic system.
@@ -117,7 +97,7 @@ If we wish to bring about a system better than Communism, the new system must,
 - Focus on bringing about real change, rather than just being caught up in theorizing.
 - Prefer simplicity over complexity; avoid Kafkaesqueness.
 - Value human resource and focus on the development of everyone.
-- Deal with class antagonism so as to deal with the risk of major disturbance.
+- Deal with class antagonism so as to deal with the risk of major disturbance. {# Manages class-struggle related problems. Better complaint-management system, so avoiding violence, or hindrance of economic activity.}
 - Value freedom and individualism; get rid of "chains" and enable wings.
 - Deal with the corrupting nature of wealth and the power it brings.
 - Help people avoid materialistic pursuits and focus on evolution in a more philosophical sense.
@@ -163,8 +143,19 @@ To summarize, the cons of Capitalism are:
 - Enlightenment being difficult to achieve and maintain: Many factors such as demands, undue influence, dependence, etc., making it almost impossible to become and remain enlightened.
 - Money being transferable anonymously: Anonymously transferable money causing problems like bribery, blackmail, theft, corruption, transfer of diseases, etc.; key decision-makers being influenced by the ruling class being a threat to objective decision-making. {^Deal with the shortcomings of money in such a way that its benefits such as how it incentivizes productivity and innovation are retained; ‘Don’t throw the baby with the bathwater’, if you may. After all, if you get rid of money completely, how will you differ between those who do meaningful work and those who do not care?
 ^Such a currency is unlikely to cause people to become immoral because achieving it through a dishonest manner is going to be very difficult and not without consequences; rather, it is likely to cause people to do more meaningful work to maintain and improve the world. I do not see how it would be easy to bribe someone or do corruption in this system, especially because these activities rely heavily on transferring and hiding money; similarly, money laundering would become impossible as it is really the act of hiding the source of money. Though I know you humans, you will still find a way; nevertheless, the wise must strive to prevent evil.}
-- The interests of investors, public officials and the general public being misaligned: One wanting lower taxes, but the other's wages depending on those taxes, one wanting lower wages, but the others depending on those wages.
-- The system being very complex: Kafkaesqueness leading to problems such as poor understanding of the system, rules being broken, and advancement being slowed down; if it invites fraud, it is flawed.
+- The interests of investors, public officials and the general public being misaligned: One wanting lower taxes, but the other's wages depending on those taxes, one wanting lower wages, but the others depending on those wages. {# Money is a utensil, just like pots and pans. The fact that wealth and money are separate things can be shown quite easily. After all, a person who receives a guinea of income today may spend that same guinea tomorrow, thus providing the income of a second; and that person may spend the same guinea on the next day, providing the income of a third. So, the amount of money in circulation is clearly much less than the total income of the nation. National income is the quantity of goods bought and sold, not the metal pieces that happen to be used to facilitate the exchange of that product. {highlight significance of activity over money}
+# Shifted focus from revenue & profit to activity & utility.
+# Activity: One café sells 100 cups, another sells 30. One makes revenue of 100, other makes a revenue of 120. Higher activity is that of 100, not 120 one.
+# Utility: If the reviews of the 100 one are better than that of 30 one, then the utility of 100 one is more.
+# Economists would agree that highest level of output at the lowest price is given by a market with a structure closest to perfect competition, and in Rewardism, this structure is to be the default mode wherever possible. Since rewards are not to be linked to profits, zero economic profit is likely to be the default profit level in Rewardism.}
+- The system being very complex: Kafkaesqueness leading to problems such as poor understanding of the system, rules being broken, and advancement being slowed down; if it invites fraud, it is flawed. {# If you don’t care about the lack of a proper rewarding system in Capitalism, you probably would want things to not be as Kafkaesque. Wouldn’t you like taxes to go away?
+# No more taxes! Much less Kafkaesque environment.
+# No more stock market related problems, better sources of funding, more bold decisions.
+# Don’t you want to have the freedom to make decisions, i.e., without the interference of creditors and equityholders? Yes, the RMs will replace the equityholders, and you would be answerable to them, but you will likely have more freedom, especially since the type of capital is psuedodebt.
+# Not using personal capital, so willing to take higher risks, and RMs can allot some time for the company to recover. With own capital, people might not want to face losses, so, good companies in difficult times might not live to recover. More support by the WRMO can lead to improvements in the supply chain, as suppliers would expect the company to continue.
+# High research costs bankrupting perfectly competitive firms in Capitalism, but this isn't a big deal in Rewardism, as investments are treated differently for performance appraisal reasons.
+#| Some countries have attempted to outlaw the lending of money at interest. But this has simply increased the evil of usury, rather than preventing it. People still want to borrow money, but now they have to pay not just the interest, but a premium for the risk that the creditor runs in lending illegally. {how Rewardism deals better with the problems of debt}
+#| Private capitals would certainly suffer greatly if all the costs of a war had to be raised through tax rises at the time (though it might make wars shorter, less popular, and less likely to happen). {possible reasons for war: lending, interest, profits... Reduced cause for war in Rewardism}
 - Rarest luxuries not necessarily being available to the most deserving: Rarest of luxuries given to those who can afford them, instead of those who deserve them; in other words, the source of money being irrelevant as long as the bid is the highest.
 - Base standard of living not being set: Living beings suffering because of lack of access to the basic necessities of life; potential being wasted; thinking limited to survival. {^If these needs are accounted for successfully, child mortality rate should decrease and the physical and mental health of the population should improve generally. If you are properly educated, you are more likely to advance to great heights because you are more likely to understand what great heights are and their importance and also how to get there.}
 - Modern slavery hindering our growth: Debtors (countries mainly) depending excessively on their respective creditors, and being controlled by them; money, which could be used for the development of the debtors, being wasted in cost of capital.
@@ -181,6 +172,7 @@ To summarize, the cons of Capitalism are:
 # <Public Officals> �The endowments of schools and colleges have necessarily diminished more or less the necessity of application in the teachers Their subsistence [is] altogether independent of their success and reputation in their particular professions� {on the significance of performance-based rewards} 
 # <Public Officals>  �... and it has, I am afraid, been too common for vessels to fit out for the sole purpose of catching, not the fish, but the bounty.� <this is particularly relevant to setting the reward appropriately>
 ^The reward-based system deals with the negative side of consumerism easily because ideally, only meaningful work is rewarded. Considering the preciousness of reward points and the unavailability of meaningless services & products, you humans wasting your hard-earned reward points seems unlikely to me. Furthermore, the resources managers must try their best to minimize excessive consumption, so that the maximum number of people can benefit from the limited resources.
+^If you don’t care about being differentiated, being valued, earning trust of other beings, or connecting with others, you still likely want wealth to increase in proportion to the meaningfulness of the work done. You probably do not like that you, who  earns his income through bringing so much value, are less wealthy than some people who just happen to know what and when to buy or sell, or who flip NFTs. Is it not absurd that who adds value can be less wealthy than someone who knows how to profit in a market without necessarily adding any value? Is the lack of a proper rewarding system not a point of concern to you?
 } R: Money creation through activity rather than lending.
 
 # While some aspects of Economics are intuitively understood, it is, more or less, dependent on empirical evidence. So, the true effects of Rewardism can only be known from empirical evidence, and shall be tuned accordingly.
