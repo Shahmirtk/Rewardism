@@ -37,4 +37,15 @@ It is not your fault that you did whatever you did. Had there been a better syst
 
 On Inheritance
 
+Before I help you understand why I oppose inheritance, understand that the lack of inheritance is not an essential feature of Rewardism. All the other features of Rewardism can be implemented while still allowing for inheritance. Now, consider a world without the notion of inheritance. Think of the value of property in such a world. How would people perceive the well-off ones? How would your life be different?
+Now consider the world where people inherit the properties of their ancestors. Which world better manages resources? Does it not make sense that property should belong to those who have actually earned it, instead of those who are merely born in the *right family*? When you look at someone in a luxury car, do you think of the person as being a valuable contributor to the society, or are their doubts as to the source of the car?
+I realize that the cold turkey method might not be appropriate. An abrupt end to inheritance might be too big a change for it to be feasible. That is why I suggest that we start by allowing people to inherit their immediate parents’ wealth, but disallowing any further inheritance. This change is not as big as completely ending inheritance, so, it is more feasible. In the future, when we have evolved enough, there can be an update that completely ends inheritance.
+*Patch End-Inheritance will have to wait for now.*
 
+On Capital Gains
+
+Linked with the authenticity and value of property, and the need for a proper rewarding mechanism is the issue of capital gains. To better understand what the issues at hand are, consider the following fictitious examples:
+
+	*1. John earns his income by doing heart surgery mainly. Sam makes a living exploiting weaknesses in the stock market. While John is saving lives, Sam is buying low and selling high. Arguably, John contributes more to the society than Sam. Yet, Sam earns more than John, simply by benefitting from capital gains. Do you not see what is wrong here?*
+	*2. Salman bought a small land and a newly developed house in a developing society in his city an year ago. Now that the society is more developed, the prices there have increased. Without doing any effort, simply by waiting an year, Salman has more than doubled his networth. With the high demand for property in that society, he easily sells the house and locks in his profit. He holds on to the land for further capital appreciation. Do you not see what is wrong here?*
+	*3. Eliza, a business owner in India, wants to bribe Raj, a powerful government official there. Rewardism has been deployed in India but capital gains were allowed. Raj buys a simple painting for 5,000 INR RPs. Eliza offers to buy the painting for 50M INR RPs. The transaction occurs, Raj earns about 50M INR RPs, and 50M INR RPs are burned away from Eliza’s account. This is recorded as a genuine transaction in the both, Raj’s, and Eliza’s acount. Do you not see what is wrong here?*
