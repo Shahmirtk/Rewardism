@@ -27,7 +27,7 @@ Approach:
 /On Inheritance:
 # Would’ve completely removed inheritance but this might be too big of a sudden change. Maybe later in future we can bring a new patch that removes the feature of inheritance. Main purpose of removing it is to ensure assets are with those who have rightfully earned them or can best utilize them. Nevertheless, I do not think it will be considered an essential feature of Rewardism, so, although I recommend that the concept of inheritance be slowly taken away, it is not necessary for a Rewardist region to not allow inheritance.
 
-The Capital Gains Problem:
+/The Capital Gains Problem:
 # Problem at Hand: People can just buy assets they think will rise in value, and sell when their value rises, making income by just benefiting from the change in price. In other words, making RPs without actually putting in any effort. At this point, we must be aware of two significant risks: Bribery; and money-laundering. Consider the following example:
   A person X wants to bribe Y—a key decision-maker. Y has a painting that he bought for just $20. Without proper control procedures in place to manage the risk of money-laundering or bribery, the painting could be revalued at $20M. X could buy the asset from Y, and Y would, rightfully, get the 20 million. Interestingly, this would be recorded as a legitimate transaction in the accounts of both X, and Y.
   This highlights the danger of a lack of appropriate control procedures. 
