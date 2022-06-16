@@ -38,26 +38,28 @@ Approach:
 - So long as risk is concerned for individuals, they ought to transfer this risk to more experienced companies, and earn RPs through more reliable and valuable methods.
 - Just like no one should be able to reward themselves, likewise, no one should be able to value their own assets. This applies to authorized professional valuers as well. This is necessary to deal with the significant threat to objectivity. Also, this is likely to help us avoid the problems associated with behavioral biases like “Endowment Bias”—ascribing more value to assets already owned, and “Anchoring Bias”—clinging to arbitrary price levels.
 
-The One Mango Tree:
-# What if there was just one mango tree with limited mangoes. Compare control and distribution in the two systems: Capitalism and Rewardism. Capitalism: - Controlled by the richest and fiercest. Mangoes sold to the highest bidder. Rewardism: - Controlled by the wisest and sincerest. Mangoes given to the most deserving. (link with proper system of rewarding ensuring that buyers actually deserve rewards, and not just by flipping NFTs; also, link with the reader not being the fiercest or richest, but being the one who can best utilize the resources.)
+/Property, Superintending, and Directing:
+#| “The affluence of the rich excites the indignation of the poor, who are often both driven by want, and prompted by envy, to invade his possessions. It is only under the shelter of the civil magistrate that the owner of that valuable property, which is acquired by the labour of many years, or perhaps of many successive generations, can sleep a single night in security.” {on the significance of security of property, and the role of the government} <-- does not mean it is a bad system, for people to accumulate capital, they must have confidence that their property, which may take years of effort to acquire, will not be stolen from them. And this capital accumulation is essential for economic growth.
+# “The sovereign is completely discharged from a duty [for which] no human wisdom or knowledge could ever be sufficient; the duty of superintending the industry of private people, and of directing it towards the employments most suitable to the interest of the society.” {on the significance of liberty and non-interference} => Explain how it is possible to direct it towards the employments most suitable to the interest of the society.
 
-Property, Directing, and the Role of the Government:
-# “The sovereign is completely discharged from a duty [for which] no human wisdom or knowledge could ever be sufficient; the duty of superintending the industry of private people, and of directing it towards the employments most suitable to the interest of the society.” {on the significance of liberty and non-interference} => Explain how it is possible to direct it towards the employments most suitable to the interest of the society, and why the government shouldn’t interfere (the WRMO representing the private affairs, seperate from the gov, but answerable to it).
-#| “Indeed, the system of perfect liberty leaves the state only three duties to attend to: defence, justice and certain public works.” Seperation of responsibilities will allow both (government and WRMO) to focus on their specific ones and better perform. {Contrast the role of government with that of the WRMO, and how this is beneficial. Also, point out that the Rewardism is a system of *almost* perfect liberty.}
-#| “The affluence of the rich excites the indignation of the poor, who are often both driven by want, and prompted by envy, to invade his possessions. It is only under the shelter of the civil magistrate that the owner of that valuable property, which is acquired by the labour of many years, or perhaps of many successive generations, can sleep a single night in security.” {on the significance of security of property, and the role of the government}
-#| “Civil government, so far as it is instituted for the security of property, is in reality instituted for the defence of the rich against the poor, or of those who have some property against those who have none at all.” <-- does not mean it is a bad system, for people to accumulate capital, they must have confidence that their property, which may take years of effort to acquire, will not be stolen from them. And this capital accumulation is essential for economic growth.
-# The WRMO as a platform for Economists to control the economy.
-# Why should leaders of nations decide to adopt this system and become one with the international nation: access to resources from around the globe and a better and well-thought-out system with international support and standards;
-
-Repaying debt:
-# So capital is being transferred from people who have a keen interest in using it productively to those, mere creditors, who have no interest in the condition of land or the good management of the capital stock at all. <Move to Cons of Capitalism?>
+/Repaying debt:
 # Repaying debt of people feels unfair to those without any debt obligation: Think of it like being either sick, normal or very healthy. Treating the sick to make them normal is not really unfair to those who are already normal or very healthy. Those who are given the RPs for the debt owed to them are just being given what they were owed, so it's not a point of concern.
 
-Standards for Companies:
+/Standards for Companies:
 # Standards set for companies are not to make them all the same, it's to reduce the likelihood of underperformance occurring. Strictness of adhering to standards depends on the nature of business. In some businesses, meeting standards would be appreciated and rewarded, but not necessarily required.
+
+Infinitude:
+# The infinite Points at the disposal of the WRMO is not necessarily an issue because the system has been designed to avoid wastage. Think of the games again, while the game currency is effectively infinite, the games are designed with a difficulty level that makes players play carefully. While a perpetuity goes on for infinity, given a discount rate of 10%, there is a finite present value.
+# Since companies have to cover the BPs they spend to stay alive, they will themselves not ask for more BPs than they can cover.
+# Since companies are rewarded for keeping costs and prices low, they will themselves not waste their BPs.
+# Since people cannot reward themselves, and every reward has a reason associated with it, excessive rewarding seems unlikely.
+# At the end, it all boils down to what difficulty level the Economists set. The higher the difficulty, the more *worth it* the rewards will be, and the more careful entities will be with the finite resources they have.
 
 Against profligacy:
 # The first remedy for self-neglect and profligacy is the study of science and philosophy. The second is to amuse and divert people by promoting the arts. {on the significance of art, science and philosophy} => Explain how to deal with very high buying power and demand.
+
+The One Mango Tree:
+# What if there was just one mango tree with limited mangoes. Compare control and distribution in the two systems: Capitalism and Rewardism. Capitalism: - Controlled by the richest and fiercest. Mangoes sold to the highest bidder. Rewardism: - Controlled by the wisest and sincerest. Mangoes given to the most deserving. (link with proper system of rewarding ensuring that buyers actually deserve rewards, and not just by flipping NFTs; also, link with the reader not being the fiercest or richest, but being the one who can best utilize the resources.)
 
 Comparison with UBI:
 # (Why not just solve everything by a UBI?) Give reference to UBI (Kurzgesagt’s video about it); how your concept is different from it, the possible problems with UBI and how your concept can deal with those problems: money would mean possibility of spending on unnecessary goods, the root problem still would exist _ money corrupting and causing impurity.
@@ -69,14 +71,14 @@ Summary of PoV of RC:
 # Human Nature
 # Real wealth
 # The Big Forgiveness
-# Why No Inheritance
-# The One Mango Tree
-# Not a Competitor to the USD
-# Property, Directing, and the Role of the Government
-# The Capital Gains Problem
+# On Inheritance
+# On Capital Gains
+# Property, Superintending, and Directing
 # Repaying debt
 # Standards for Companies
+# Infinitude
 # Against profligacy
+# The One Mango Tree
 # Comparison with UBI
 # A New Playground
 
@@ -128,7 +130,7 @@ or as a Jew?"
 “to be both. I look upon myself as a man.
 Nationalism is an infantile disease.   It is
 the measles of mankind." /End of excerpt
-  ‘But what does globalization have to do with helping countries drowning in debt?’, you ask? Ask yourself: ‘Can your left hand owe anything to your right hand? Can your body function optimally if some part of it is denied energy or very important nutrients?’ To really understand the importance of true globalization, you must consider the whole world and all the conscious beings as a single entity; then, you should understand how the suffering of even the smallest part of it is saddening and wrong; then, you should realize how much the success of others is important for your own success. To better understand this point, take the most developed country in the world and consider the whole world to be that one country, just with access to more resources.} R: One Org with all the info of economy is better suited to make adjustments. All sales data, and so on... Much more reliable data.
+  ‘But what does globalization have to do with helping countries drowning in debt?’, you ask? Ask yourself: ‘Can your left hand owe anything to your right hand? Can your body function optimally if some part of it is denied energy or very important nutrients?’ To really understand the importance of true globalization, you must consider the whole world and all the conscious beings as a single entity; then, you should understand how the suffering of even the smallest part of it is saddening and wrong; then, you should realize how much the success of others is important for your own success. To better understand this point, take the most developed country in the world and consider the whole world to be that one country, just with access to more resources.} R: One Org with all the info of economy is better suited to make adjustments. All sales data, and so on... Much more reliable data. The WRMO as a platform for Economists to control the economy. Why should leaders of nations decide to adopt this system and become one with the international nation: access to resources from around the globe and a better and well-thought-out system with international support and standards.
 - Outsourcing/Specialization/Third-party. In Capitalism, the capital allocation process is effectively outsourced to those who own the capital. And this process is further optimized by the services of professionals to manage capital. How would this be accounted for in Rewardism? R: Rewards of RMs dependent on the performance of the companies they invest in. Like Shareholders' wealth is dependent on the performance of the companies they invest in. Each RM having a limited Capital to allocate, to encourage diligence.
 
 # How Rewardism deals with the cons of Capitalism:
@@ -166,6 +168,7 @@ To summarize, the cons of Capitalism are:
 #| “Public services are never better performed than when their reward comes in consequence of their being performed, and is proportioned to the diligence employed in performing them.” <Link to reward-based system.>
 # <Public Officals> �The endowments of schools and colleges have necessarily diminished more or less the necessity of application in the teachers Their subsistence [is] altogether independent of their success and reputation in their particular professions� {on the significance of performance-based rewards} 
 # <Public Officals>  �... and it has, I am afraid, been too common for vessels to fit out for the sole purpose of catching, not the fish, but the bounty.� <this is particularly relevant to setting the reward appropriately>
+# <Partner Selection> While partners might still be selected on the basis of account balance, by setting a proper system for rewarding meaningful work, partner selection criteria is likely to improve, and therefore, rate of evolution shall increase too. Or it can be argued that we would evolve in the *right* direction. Without a proper system, partners might be selected who have acquired their property by harmful means.
 ^The reward-based system deals with the negative side of consumerism easily because ideally, only meaningful work is rewarded. Considering the preciousness of reward points and the unavailability of meaningless services & products, you humans wasting your hard-earned reward points seems unlikely to me. Furthermore, the resources managers must try their best to minimize excessive consumption, so that the maximum number of people can benefit from the limited resources.
 ^If you don’t care about being differentiated, being valued, earning trust of other beings, or connecting with others, you still likely want wealth to increase in proportion to the meaningfulness of the work done. You probably do not like that you, who  earns his income through bringing so much value, are less wealthy than some people who just happen to know what and when to buy or sell, or who flip NFTs. Is it not absurd that who adds value can be less wealthy than someone who knows how to profit in a market without necessarily adding any value? Is the lack of a proper rewarding system not a point of concern to you?
 } R: Money creation through activity rather than lending.

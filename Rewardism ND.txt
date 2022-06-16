@@ -35,14 +35,14 @@ How have you obtained your property? Do you oppose the update because you fear l
 It is not your fault that you did whatever you did. Had there been a better system in place, a system which focused on the causes and did not allow any wrongdoing, you would not have been able to do anything wrong. We are all together in this. We have failed to update the system, and we have not evolved enough to be perfect within an imperfect system. Let us all realize how much this update means to all of us.
 *I do not ask you to confess, nor do I ask you to give up your property. I offer you my hand. Do you not seek salvation?*
 
-On Inheritance
+Inheritance
 
 Before I help you understand why I oppose inheritance, understand that the lack of inheritance is not an essential feature of Rewardism. All the other features of Rewardism can be implemented while still allowing for inheritance. Now, consider a world without the notion of inheritance. Think of the value of property in such a world. How would people perceive the well-off ones? How would your life be different?
 Now consider the world where people inherit the properties of their ancestors. Which world better manages resources? Does it not make sense that property should belong to those who have actually earned it, instead of those who are merely born in the *right family*? When you look at someone in a luxury car, do you think of the person as being a valuable contributor to the society, or are their doubts as to the source of the car?
 I realize that the cold turkey method might not be appropriate. An abrupt end to inheritance might be too big a change for it to be feasible. That is why I suggest that we start by allowing people to inherit their immediate parents’ wealth, but disallowing any further inheritance. This change is not as big as completely ending inheritance, so, it is more feasible. In the future, when we have evolved enough, there can be an update that completely ends inheritance.
 *Patch End-Inheritance will have to wait for now.*
 
-On Capital Gains
+Capital Gains
 
 Linked with the authenticity and value of property, the objectivity of officials, and the need for a proper rewarding mechanism is the issue of capital gains. To better understand what the issues at hand are, consider the following fictitious examples:
 
@@ -52,4 +52,29 @@ Linked with the authenticity and value of property, the objectivity of officials
 
 Is it not tragic how valuable talent has been wasted on meaningless pursuits? If our goal is to realize the maximum potential, which includes evolving to the highest possible point, then it is quite clear that intelligent scientists and mathematicians, like Jim Simons, have been extremely misdirected. Sure, they might have given lectures, and they might have given a lot of charity, however, what if all that talent was directed towards solving more meaningful problems, instead of chasing trends in the market?
 It is interesting how such people can benefit from inefficiencies in the market, but fail to realize, or do something about, their own inefficiencies. Recall how I defined real wealth and real loss. How much did such intelligent people truly lose? Did they really earn true wealth? Again, it is not their fault. It is the system that has to be updated. Had capital gains not been a thing, they would have most likely solved much more important problems.
-*Once we have closed the doors to all that doesn’t matter, we would have no option but to open the one that does.*
+*Once we close all the doors that don’t really matter, we would have no option but to open the one that does.*
+
+Property, Superintending, and Directing
+
+“The affluence of the rich excites the indignation of the poor, who are often both driven by want, and prompted by envy to invade his possessions. It is only under the shelter of the civil magistrate, that the owner of that valuable property, which is acquired by the labour of many years, or perhaps of many successive generations, can sleep a single night in security.” — Adam Smith, The Wealth of Nations
+
+“Smith’s argument that law and government are institutions devised by the rich to prevent them being robbed by the poor does not mean that it is a bad system. He has already remarked earlier that for people to accumulate capital, they must have confidence that their property, which may take years of effort to acquire, will not be stolen from them. And this capital accumulation is essential for economic growth.” — The Condensed Wealth of Nations, Page 62
+
+Rewardism differs from Communism, and is similar to Capitalism, in that property can be owned, and owners can sleep in security under the shelter of the civil magistrate. In fact, the source of property and other relevant details are to be stored in the account of the owner. Recording the details of transactions and properties will likely help with the swift provision of justice.
+
+“The sovereign is completely discharged from a duty, in the attempting to perform which he must always be exposed to innumerable delusions, and for the proper performance of which, no human wisdom or knowledge could ever be sufficient; the duty of superintending the industry of private people, and of directing it towards the employments most suitable to the interest of the society.” — Adam Smith, The Wealth of Nations
+
+Notice that Smith does not really argue against the existence of the interest of the society. When arguing against the superintending and directing of the industry of private people, he assumes the interest of the society is known. Hume’s Guillotine does not allow for any objective ought. However, for the sake of making a decision, let us assume that we have a common goal: realizing the maximum potential.
+We can argue that some decisions are better than others for achieving the common goal. Doctors know what good health is, and they can tell an unhealthy lifestyle from a healthy one. They do not really say that there are no right or wrong answers to questions about a healthy lifestyle. Economists should know what a good economy is, and they should be able to tell decisions that are clearly bad for the economy from decisions that are likely to improve the economy.
+If we have a common goal, and we can tell bad decisions from good decisions, then what is stopping us from *superintending the industry of private people, and directing it towards the employments most suitable to the interest of the society*? In his time, Smith was probably right when he said that *no human wisdom or knowledge could ever be sufficient*, but with a newer economic system, and with the assistance of AI, his claim can be easily challenged.
+The challenge we must be aware of, which Smith has highlighted, is that of superintending and directing without being delusional. Indeed, we shall *be exposed to innumerable delusions*, and to overcome this challenge, we must find a way to remain objective. For this purpose, I recommend looking at the numbers. You must have heard, “numbers don’t lie.” At this point, going into the details is not convenient. Just know that performance appraisal shall be as objective as possible.
+
+Debt Repayment
+
+You might argue that repaying the debt of people is unfair to those without any debt obligation, as it is like giving free RPs to some and not to others. Consider the analogy where you have people who are either healthy (without debt) or unhealthy. Would you really say that treating the unhealthy ones to make them healthy is unfair to the healthy ones? Those who shall receive the RPs for the debt owed to them are just being given what they were owed, so it is justified.
+
+Company Standards
+
+The purpose of setting standards is not to make all the companies the same. Standards primarily help with reducing the likelihood of underperformance occurring. It shall not necessarily be the case that every company must comply with each relevant standard to stay alive. Meeting standards shall be rewarded, but not necessarily required. Companies that carry out very sensitive business shall have to meet standards to stay alive. For example, a restuarant shall have to meet a minimum hygiene level to continue its business.
+
+Infinitude
