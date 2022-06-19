@@ -38,8 +38,10 @@ Approach:
 - So long as risk is concerned for individuals, they ought to transfer this risk to more experienced companies, and earn RPs through more reliable and valuable methods.
 - Just like no one should be able to reward themselves, likewise, no one should be able to value their own assets. This applies to authorized professional valuers as well. This is necessary to deal with the significant threat to objectivity. Also, this is likely to help us avoid the problems associated with behavioral biases like “Endowment Bias”—ascribing more value to assets already owned, and “Anchoring Bias”—clinging to arbitrary price levels.
 
-/Property, Superintending, and Directing:
+/Property:
 #| “The affluence of the rich excites the indignation of the poor, who are often both driven by want, and prompted by envy, to invade his possessions. It is only under the shelter of the civil magistrate that the owner of that valuable property, which is acquired by the labour of many years, or perhaps of many successive generations, can sleep a single night in security.” {on the significance of security of property, and the role of the government} <-- does not mean it is a bad system, for people to accumulate capital, they must have confidence that their property, which may take years of effort to acquire, will not be stolen from them. And this capital accumulation is essential for economic growth.
+
+/Superintending and Directing:
 # “The sovereign is completely discharged from a duty [for which] no human wisdom or knowledge could ever be sufficient; the duty of superintending the industry of private people, and of directing it towards the employments most suitable to the interest of the society.” {on the significance of liberty and non-interference} => Explain how it is possible to direct it towards the employments most suitable to the interest of the society.
 
 /Repaying debt:
@@ -48,14 +50,14 @@ Approach:
 /Standards for Companies:
 # Standards set for companies are not to make them all the same, it's to reduce the likelihood of underperformance occurring. Strictness of adhering to standards depends on the nature of business. In some businesses, meeting standards would be appreciated and rewarded, but not necessarily required.
 
-Infinitude:
+/Infinitude: (Written in Q&A)
 # The infinite Points at the disposal of the WRMO is not necessarily an issue because the system has been designed to avoid wastage. Think of the games again, while the game currency is effectively infinite, the games are designed with a difficulty level that makes players play carefully. While a perpetuity goes on for infinity, given a discount rate of 10%, there is a finite present value.
 # Since companies have to cover the BPs they spend to stay alive, they will themselves not ask for more BPs than they can cover.
 # Since companies are rewarded for keeping costs and prices low, they will themselves not waste their BPs.
 # Since people cannot reward themselves, and every reward has a reason associated with it, excessive rewarding seems unlikely.
 # At the end, it all boils down to what difficulty level the Economists set. The higher the difficulty, the more *worth it* the rewards will be, and the more careful entities will be with the finite resources they have.
 
-Against profligacy:
+Profligacy:
 # The first remedy for self-neglect and profligacy is the study of science and philosophy. The second is to amuse and divert people by promoting the arts. {on the significance of art, science and philosophy} => Explain how to deal with very high buying power and demand.
 
 The One Mango Tree:
@@ -73,11 +75,11 @@ Summary of PoV of RC:
 # The Big Forgiveness
 # On Inheritance
 # On Capital Gains
-# Property, Superintending, and Directing
+# Property
+# Superintending and Directing
 # Repaying debt
 # Standards for Companies
-# Infinitude
-# Against profligacy
+# Profligacy
 # The One Mango Tree
 # Comparison with UBI
 # A New Playground
