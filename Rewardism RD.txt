@@ -57,16 +57,10 @@ Approach:
 # Since people cannot reward themselves, and every reward has a reason associated with it, excessive rewarding seems unlikely.
 # At the end, it all boils down to what difficulty level the Economists set. The higher the difficulty, the more *worth it* the rewards will be, and the more careful entities will be with the finite resources they have.
 
-Profligacy:
-# The first remedy for self-neglect and profligacy is the study of science and philosophy. The second is to amuse and divert people by promoting the arts. {on the significance of art, science and philosophy} => Explain how to deal with very high buying power and demand.
-
-The One Mango Tree:
-# What if there was just one mango tree with limited mangoes. Compare control and distribution in the two systems: Capitalism and Rewardism. Capitalism: - Controlled by the richest and fiercest. Mangoes sold to the highest bidder. Rewardism: - Controlled by the wisest and sincerest. Mangoes given to the most deserving. (link with proper system of rewarding ensuring that buyers actually deserve rewards, and not just by flipping NFTs; also, link with the reader not being the fiercest or richest, but being the one who can best utilize the resources.)
-
-Comparison with UBI:
+/Comparison with UBI:
 # (Why not just solve everything by a UBI?) Give reference to UBI (Kurzgesagt’s video about it); how your concept is different from it, the possible problems with UBI and how your concept can deal with those problems: money would mean possibility of spending on unnecessary goods, the root problem still would exist _ money corrupting and causing impurity.
 
-A New Playground:
+/A New Game:
 # If nothing else convinces you, perhaps: the excitement of a new playground, and the interesting principle.
 
 Summary of PoV of RC:
@@ -79,16 +73,25 @@ Summary of PoV of RC:
 # Superintending and Directing
 # Repaying debt
 # Standards for Companies
-# Profligacy
-# The One Mango Tree
-# Comparison with UBI
-# A New Playground
+# Universal Basic Income
+# A New Game
 
 # Begin again:
-- Look back at “First Principles,” and see if Rewardism is in-line with the ideal economic system.
-- The transition from barter trade, and the true source of wealth.
-- The total wealth/resources of the world are finite and no man can increase that really. The task of the economist is then to utilize and spread these resources and this wealth in the best possible way. {from CWoN?}
-- "Consumption is the sole end and purpose of all production; and the interest of the producer ought to be attended to, only so far as it may be necessary for promoting that of the consumer." {on the significance of giving preference to consumers over producers}
+` Under a perfect economic system, 
+(
+- Causes are prioritized over effects.
+- All resources are optimally utilized. Optimal utilization being "the action of making practical and effective use of whatever is being utilized, in a way that is most favorable to us."
+- Everyone has at least a good enough base standard of living. A good enough base standard of living being "even in the worst-case scenario, peace is maintained by fulfilling basic needs, and evolution is facilitated."
+- Any meaningful work done improves the living standard of the one putting in the effort. Meaningful work being that which at least maintains peace, and its meaningfulness being based on how much it improves the living standards, and how much it facilitates evolution.
+- To make the optimal decisions, the availability and uses of resources will be known.
+- To keep the public at peace, there will be optimal transparency between the public and the system, for which accurate records will be kept.
+- To save the resources for their best utilization, access to the resources will be restricted to only those who can best utilize them.
+- To boost productivity to its optimal level, the resources will be managed without any noise.
+- True freedom will be achieved.
+)
+` The transition from barter trade, and the true source of wealth.
+` The total wealth/resources of the world are finite and no man can increase that really. The task of the economist is then to utilize and spread these resources and this wealth in the best possible way. {from CWoN?}
+` "Consumption is the sole end and purpose of all production; and the interest of the producer ought to be attended to, only so far as it may be necessary for promoting that of the consumer." {on the significance of giving preference to consumers over producers}
 
 # How Rewardism inherits the pros of Communism:
 
@@ -171,10 +174,11 @@ To summarize, the cons of Capitalism are:
 # <Public Officals> �The endowments of schools and colleges have necessarily diminished more or less the necessity of application in the teachers Their subsistence [is] altogether independent of their success and reputation in their particular professions� {on the significance of performance-based rewards} 
 # <Public Officals>  �... and it has, I am afraid, been too common for vessels to fit out for the sole purpose of catching, not the fish, but the bounty.� <this is particularly relevant to setting the reward appropriately>
 # <Partner Selection> While partners might still be selected on the basis of account balance, by setting a proper system for rewarding meaningful work, partner selection criteria is likely to improve, and therefore, rate of evolution shall increase too. Or it can be argued that we would evolve in the *right* direction. Without a proper system, partners might be selected who have acquired their property by harmful means.
+#<Profligacy> ‘The first remedy for self-neglect and profligacy is the study of science and philosophy. The second is to amuse and divert people by promoting the arts.’ {on the significance of art, science and philosophy} => Explain how to deal with very high buying power and demand.
 ^The reward-based system deals with the negative side of consumerism easily because ideally, only meaningful work is rewarded. Considering the preciousness of reward points and the unavailability of meaningless services & products, you humans wasting your hard-earned reward points seems unlikely to me. Furthermore, the resources managers must try their best to minimize excessive consumption, so that the maximum number of people can benefit from the limited resources.
 ^If you don’t care about being differentiated, being valued, earning trust of other beings, or connecting with others, you still likely want wealth to increase in proportion to the meaningfulness of the work done. You probably do not like that you, who  earns his income through bringing so much value, are less wealthy than some people who just happen to know what and when to buy or sell, or who flip NFTs. Is it not absurd that who adds value can be less wealthy than someone who knows how to profit in a market without necessarily adding any value? Is the lack of a proper rewarding system not a point of concern to you?
 } R: Money creation through activity rather than lending.
 
 # While some aspects of Economics are intuitively understood, it is, more or less, dependent on empirical evidence. So, the true effects of Rewardism can only be known from empirical evidence, and shall be tuned accordingly.
 
-# Give a summary of the ideal form of Rewardism.
+# Give a summary of the ideal form of Rewardism. {The One Mango Tree: What if there was just one mango tree with limited mangoes. Compare control and distribution in the two systems: Capitalism and Rewardism. Capitalism: - Controlled by the richest and fiercest. Mangoes sold to the highest bidder. Rewardism: - Controlled by the wisest and sincerest. Mangoes given to the most deserving. (link with proper system of rewarding ensuring that buyers actually deserve rewards, and not just by flipping NFTs; also, link with the reader not being the fiercest or richest, but being the one who can best utilize the resources.)}
