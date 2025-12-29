@@ -2,19 +2,19 @@
 
 ### **Rewardism: A Hybrid Economic Framework for Allocative Efficiency in the Age of Artificial Intelligence**
 
-As the global economy faces unprecedented structural shifts driven by the proliferation of Artificial Intelligence (AI) and the subsequent displacement of traditional labor, the limitations of established economic models—specifically Capitalism and Communism—are becoming increasingly acute. This manuscript, Rewardism, presents a rigorous comparative analysis of these prevailing systems, deconstructing their reliance on classical labor-value theories that are rapidly becoming obsolete, and provides a new game economy-inspired economic framework.
+As the global economy faces unprecedented structural shifts driven by the proliferation of Artificial Intelligence (AI) and the subsequent displacement of traditional labor, the limitations of established economic models are becoming increasingly acute. This manuscript presents "Rewardism," a game economy-inspired rigorous socioeconomic framework designed to optimize resource allocation and human motivation in a post-labor market.
 
-Grounded in a "First Principles" approach, the research identifies the critical inefficiencies inherent in Capitalism (wealth concentration and misaligned incentives) and Communism (historic adaptation failures and lack of innovation). In response, it proposes "Rewardism": a novel socioeconomic framework designed to optimize resource allocation and human motivation in a post-labor market.
+Grounded in a "First Principles" approach, the research identifies critical inefficiencies in binary ideological systems: specifically, the misaligned incentives of Capitalism and the innovation stagnation often associated with Communism. In response, the proposed model introduces a dual-point currency system (Reward Points and Necessity Points) to decouple human dignity from labor hours while maintaining the meritocratic drive essential for technological advancement.
 
-The manuscript is structured into three primary sections:
+The framework is structured into three primary dimensions:
 
-Diagnosis: A critical evaluation of the historical and mechanical strengths and failures of binary ideological systems.
+**Diagnosis**: A critical evaluation of historical economic failures and the "Kafkaesque" nature of current taxation and debt systems and understanding the strengths of existing systems.
 
-The Framework: A detailed overview of Rewardism, introducing a refined incentive structure that decouples human dignity from labor hours while maintaining the meritocratic drive essential for innovation.
+**Governance**: The establishment of a "World Resources Management Organization" (WRMO) to oversee allocative efficiency through data-driven, non-political oversight.
 
-Implementation: A pragmatic roadmap for "Deployment," including comprehensive "Risks and Control Procedures" to mitigate systemic shock during transition.
+**Risk Management**: A detailed "Risks and Control Procedures" protocol, utilizing Enterprise Risk Management (ERM) principles to mitigate human error, compatibility risks, and transitional systemic shocks.
 
-By addressing the looming economic uncertainty of the AI revolution, Rewardism offers a scalable, adaptable model for policymakers and economists seeking to stabilize social cohesion while maximizing productive output in the 21st century.
+By addressing the looming economic uncertainty of the AI revolution, Rewardism offers a scalable, adaptable model for policymakers seeking to stabilize social cohesion while maximizing productive output.
 
 
 Table of Contents
